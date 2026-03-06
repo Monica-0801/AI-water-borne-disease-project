@@ -1,0 +1,21 @@
+ward,risk_score,risk_level,cholera_cases,typhoid_cases,dysentery_cases,hepatitis_cases,chlorine,turbidity,rain_7d
+Gandhipuram,3.08%,Low,2,10,14,15,0.05,17.2,19.6
+RS Puram,0.04%,Low,9,11,6,4,0.52,14.1,13.0
+Saibaba Colony,0.32%,Low,7,11,13,4,0.42,13.1,14.399999999999999
+Peelamedu,0.48%,Low,10,13,11,7,0.09,14.8,19.8
+Singanallur,4.86%,Low,10,20,7,8,0.05,15.2,16.9
+Saravanampatti,95.06%,High,23,36,21,10,0.05,30.9,35.7
+Race Course,3.35%,Low,6,12,6,5,0.05,9.1,10.5
+Ukkadam,0.07%,Low,8,8,7,6,0.12,20.0,25.4
+Town Hall,0.01%,Low,5,8,2,7,0.27,14.3,15.1
+Kuniyamuthur,0.14%,Low,5,10,4,6,0.07,13.9,18.5
+Sundarapuram,1.53%,Low,15,3,10,11,0.05,20.0,25.299999999999997
+Podanur,0.03%,Low,8,4,5,5,0.44,17.2,20.799999999999997
+Thudiyalur,0.25%,Low,5,16,9,5,0.48,16.4,17.599999999999998
+Vadakovai,2.82%,Low,9,13,14,11,0.05,21.8,19.9
+Ganapathy,41.47%,Medium,8,17,12,16,0.05,14.8,13.000000000000002
+Kalapatti,99.09%,High,26,24,10,12,0.05,22.3,22.1
+Kovaipudur,0.28%,Low,12,10,7,5,0.11,10.9,10.8
+Selvapuram,0.02%,Low,11,16,6,8,0.18,19.8,22.5
+Kurichi,0.05%,Low,7,12,7,3,0.18,16.3,17.2
+Vadavalli,4.24%,Low,12,16,6,8,0.05,8.7,9.9

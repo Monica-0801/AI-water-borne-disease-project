@@ -1,0 +1,4161 @@
+date,ward,cholera_cases,typhoid_cases,dysentery_cases,hepatitis_cases
+08-01-2020,Gandhipuram,9,10,11,5
+08-01-2020,RS Puram,5,7,1,2
+08-01-2020,Saibaba Colony,3,8,2,5
+08-01-2020,Peelamedu,6,5,3,5
+08-01-2020,Singanallur,11,19,2,7
+08-01-2020,Saravanampatti,13,16,13,11
+08-01-2020,Race Course,13,10,10,6
+08-01-2020,Ukkadam,1,10,5,3
+08-01-2020,Town Hall,8,5,3,3
+08-01-2020,Kuniyamuthur,6,9,7,1
+08-01-2020,Sundarapuram,12,7,7,11
+08-01-2020,Podanur,2,3,1,0
+08-01-2020,Thudiyalur,6,9,9,3
+08-01-2020,Vadakovai,5,8,13,9
+08-01-2020,Ganapathy,14,14,14,5
+08-01-2020,Kalapatti,15,29,20,9
+08-01-2020,Kovaipudur,9,11,9,5
+08-01-2020,Selvapuram,9,7,1,1
+08-01-2020,Kurichi,6,6,6,7
+08-01-2020,Vadavalli,8,23,9,4
+15-01-2020,Gandhipuram,8,18,12,9
+15-01-2020,RS Puram,3,7,4,3
+15-01-2020,Saibaba Colony,15,13,13,12
+15-01-2020,Peelamedu,10,15,6,4
+15-01-2020,Singanallur,13,19,19,4
+15-01-2020,Saravanampatti,19,29,10,17
+15-01-2020,Race Course,16,16,18,8
+15-01-2020,Ukkadam,13,15,7,3
+15-01-2020,Town Hall,4,13,5,7
+15-01-2020,Kuniyamuthur,9,2,14,4
+15-01-2020,Sundarapuram,11,12,10,8
+15-01-2020,Podanur,5,4,1,0
+15-01-2020,Thudiyalur,10,5,9,1
+15-01-2020,Vadakovai,8,14,15,14
+15-01-2020,Ganapathy,12,16,22,6
+15-01-2020,Kalapatti,17,13,21,12
+15-01-2020,Kovaipudur,13,17,9,10
+15-01-2020,Selvapuram,9,8,10,9
+15-01-2020,Kurichi,8,16,9,10
+15-01-2020,Vadavalli,22,15,12,9
+22-01-2020,Gandhipuram,7,10,6,4
+22-01-2020,RS Puram,10,3,6,7
+22-01-2020,Saibaba Colony,9,19,9,3
+22-01-2020,Peelamedu,13,8,8,1
+22-01-2020,Singanallur,14,18,14,12
+22-01-2020,Saravanampatti,18,16,15,17
+22-01-2020,Race Course,13,14,10,4
+22-01-2020,Ukkadam,10,9,11,6
+22-01-2020,Town Hall,6,6,6,6
+22-01-2020,Kuniyamuthur,3,9,7,4
+22-01-2020,Sundarapuram,14,15,8,10
+22-01-2020,Podanur,7,2,6,2
+22-01-2020,Thudiyalur,5,6,4,8
+22-01-2020,Vadakovai,13,17,9,7
+22-01-2020,Ganapathy,14,11,13,7
+22-01-2020,Kalapatti,24,26,26,15
+22-01-2020,Kovaipudur,10,9,7,5
+22-01-2020,Selvapuram,3,8,7,5
+22-01-2020,Kurichi,13,19,7,11
+22-01-2020,Vadavalli,10,9,16,10
+29-01-2020,Gandhipuram,7,16,17,9
+29-01-2020,RS Puram,10,10,12,5
+29-01-2020,Saibaba Colony,4,6,11,7
+29-01-2020,Peelamedu,9,8,8,3
+29-01-2020,Singanallur,17,21,15,12
+29-01-2020,Saravanampatti,20,17,18,9
+29-01-2020,Race Course,11,15,8,8
+29-01-2020,Ukkadam,5,15,7,6
+29-01-2020,Town Hall,12,15,5,3
+29-01-2020,Kuniyamuthur,10,5,7,4
+29-01-2020,Sundarapuram,15,17,5,8
+29-01-2020,Podanur,4,3,4,2
+29-01-2020,Thudiyalur,4,9,7,7
+29-01-2020,Vadakovai,14,13,10,12
+29-01-2020,Ganapathy,12,21,13,13
+29-01-2020,Kalapatti,21,31,18,19
+29-01-2020,Kovaipudur,10,14,12,12
+29-01-2020,Selvapuram,8,10,4,4
+29-01-2020,Kurichi,17,12,6,5
+29-01-2020,Vadavalli,11,16,15,9
+05-02-2020,Gandhipuram,10,8,10,5
+05-02-2020,RS Puram,9,8,9,6
+05-02-2020,Saibaba Colony,6,3,10,4
+05-02-2020,Peelamedu,5,10,10,4
+05-02-2020,Singanallur,7,13,11,11
+05-02-2020,Saravanampatti,23,28,17,12
+05-02-2020,Race Course,18,17,14,4
+05-02-2020,Ukkadam,10,14,8,8
+05-02-2020,Town Hall,3,8,11,5
+05-02-2020,Kuniyamuthur,8,13,5,4
+05-02-2020,Sundarapuram,11,8,8,6
+05-02-2020,Podanur,5,5,8,6
+05-02-2020,Thudiyalur,10,21,2,7
+05-02-2020,Vadakovai,6,13,6,9
+05-02-2020,Ganapathy,11,18,9,6
+05-02-2020,Kalapatti,21,33,24,14
+05-02-2020,Kovaipudur,8,6,9,6
+05-02-2020,Selvapuram,7,10,5,3
+05-02-2020,Kurichi,4,9,15,7
+05-02-2020,Vadavalli,8,17,7,5
+12-02-2020,Gandhipuram,13,14,13,13
+12-02-2020,RS Puram,6,5,2,3
+12-02-2020,Saibaba Colony,9,11,14,5
+12-02-2020,Peelamedu,5,9,10,9
+12-02-2020,Singanallur,10,14,13,7
+12-02-2020,Saravanampatti,27,20,15,15
+12-02-2020,Race Course,8,18,9,4
+12-02-2020,Ukkadam,11,8,8,4
+12-02-2020,Town Hall,6,8,8,5
+12-02-2020,Kuniyamuthur,6,14,12,2
+12-02-2020,Sundarapuram,12,19,10,7
+12-02-2020,Podanur,5,5,8,2
+12-02-2020,Thudiyalur,7,4,6,4
+12-02-2020,Vadakovai,9,11,7,10
+12-02-2020,Ganapathy,12,18,5,9
+12-02-2020,Kalapatti,14,24,19,12
+12-02-2020,Kovaipudur,9,12,6,3
+12-02-2020,Selvapuram,6,4,5,5
+12-02-2020,Kurichi,11,14,8,3
+12-02-2020,Vadavalli,17,14,10,11
+19-02-2020,Gandhipuram,10,14,9,5
+19-02-2020,RS Puram,3,4,6,5
+19-02-2020,Saibaba Colony,7,12,6,6
+19-02-2020,Peelamedu,7,12,3,4
+19-02-2020,Singanallur,12,14,12,9
+19-02-2020,Saravanampatti,19,22,26,5
+19-02-2020,Race Course,14,12,10,7
+19-02-2020,Ukkadam,5,7,9,5
+19-02-2020,Town Hall,4,9,9,6
+19-02-2020,Kuniyamuthur,5,13,16,3
+19-02-2020,Sundarapuram,10,15,15,6
+19-02-2020,Podanur,4,6,4,3
+19-02-2020,Thudiyalur,8,17,5,1
+19-02-2020,Vadakovai,11,15,11,6
+19-02-2020,Ganapathy,12,10,10,8
+19-02-2020,Kalapatti,22,24,19,8
+19-02-2020,Kovaipudur,8,8,7,6
+19-02-2020,Selvapuram,7,8,8,11
+19-02-2020,Kurichi,15,18,11,12
+19-02-2020,Vadavalli,11,10,8,6
+26-02-2020,Gandhipuram,16,17,18,6
+26-02-2020,RS Puram,10,8,8,3
+26-02-2020,Saibaba Colony,14,14,5,13
+26-02-2020,Peelamedu,5,15,7,11
+26-02-2020,Singanallur,21,24,11,10
+26-02-2020,Saravanampatti,21,23,23,12
+26-02-2020,Race Course,13,10,7,6
+26-02-2020,Ukkadam,6,9,5,9
+26-02-2020,Town Hall,7,7,9,7
+26-02-2020,Kuniyamuthur,5,8,6,3
+26-02-2020,Sundarapuram,15,18,12,3
+26-02-2020,Podanur,5,7,3,2
+26-02-2020,Thudiyalur,9,12,7,8
+26-02-2020,Vadakovai,8,17,13,10
+26-02-2020,Ganapathy,13,15,16,12
+26-02-2020,Kalapatti,21,26,17,14
+26-02-2020,Kovaipudur,8,7,10,4
+26-02-2020,Selvapuram,5,9,5,5
+26-02-2020,Kurichi,4,9,13,6
+26-02-2020,Vadavalli,8,11,13,10
+04-03-2020,Gandhipuram,10,11,6,17
+04-03-2020,RS Puram,2,9,6,1
+04-03-2020,Saibaba Colony,9,5,7,8
+04-03-2020,Peelamedu,7,11,10,7
+04-03-2020,Singanallur,9,13,8,12
+04-03-2020,Saravanampatti,26,27,16,14
+04-03-2020,Race Course,12,12,8,14
+04-03-2020,Ukkadam,6,9,2,5
+04-03-2020,Town Hall,7,9,9,6
+04-03-2020,Kuniyamuthur,12,13,5,5
+04-03-2020,Sundarapuram,14,16,9,10
+04-03-2020,Podanur,5,5,2,2
+04-03-2020,Thudiyalur,6,7,7,9
+04-03-2020,Vadakovai,4,9,11,15
+04-03-2020,Ganapathy,17,19,11,16
+04-03-2020,Kalapatti,19,18,10,14
+04-03-2020,Kovaipudur,8,9,12,12
+04-03-2020,Selvapuram,13,8,6,4
+04-03-2020,Kurichi,6,19,12,7
+04-03-2020,Vadavalli,15,13,16,3
+11-03-2020,Gandhipuram,7,11,15,9
+11-03-2020,RS Puram,3,7,7,3
+11-03-2020,Saibaba Colony,6,7,16,3
+11-03-2020,Peelamedu,9,12,8,4
+11-03-2020,Singanallur,14,24,12,10
+11-03-2020,Saravanampatti,24,21,20,13
+11-03-2020,Race Course,11,18,21,6
+11-03-2020,Ukkadam,12,12,5,5
+11-03-2020,Town Hall,6,14,8,3
+11-03-2020,Kuniyamuthur,12,8,9,5
+11-03-2020,Sundarapuram,13,11,8,8
+11-03-2020,Podanur,5,7,8,3
+11-03-2020,Thudiyalur,3,9,5,4
+11-03-2020,Vadakovai,14,14,9,5
+11-03-2020,Ganapathy,12,20,19,12
+11-03-2020,Kalapatti,21,24,21,18
+11-03-2020,Kovaipudur,9,12,8,6
+11-03-2020,Selvapuram,7,12,9,6
+11-03-2020,Kurichi,9,7,0,4
+11-03-2020,Vadavalli,16,23,14,9
+18-03-2020,Gandhipuram,15,20,10,8
+18-03-2020,RS Puram,8,6,2,4
+18-03-2020,Saibaba Colony,9,13,11,5
+18-03-2020,Peelamedu,7,5,2,6
+18-03-2020,Singanallur,12,22,19,13
+18-03-2020,Saravanampatti,19,26,14,9
+18-03-2020,Race Course,9,19,9,8
+18-03-2020,Ukkadam,7,10,15,5
+18-03-2020,Town Hall,9,8,4,6
+18-03-2020,Kuniyamuthur,9,10,8,5
+18-03-2020,Sundarapuram,10,16,7,11
+18-03-2020,Podanur,4,5,4,0
+18-03-2020,Thudiyalur,11,14,9,5
+18-03-2020,Vadakovai,9,10,11,8
+18-03-2020,Ganapathy,8,8,8,6
+18-03-2020,Kalapatti,22,27,21,20
+18-03-2020,Kovaipudur,4,10,8,7
+18-03-2020,Selvapuram,9,8,9,8
+18-03-2020,Kurichi,6,14,10,1
+18-03-2020,Vadavalli,15,17,19,7
+25-03-2020,Gandhipuram,9,9,8,17
+25-03-2020,RS Puram,3,11,7,3
+25-03-2020,Saibaba Colony,14,16,13,6
+25-03-2020,Peelamedu,6,9,9,5
+25-03-2020,Singanallur,16,19,17,13
+25-03-2020,Saravanampatti,19,28,16,15
+25-03-2020,Race Course,13,10,9,5
+25-03-2020,Ukkadam,3,8,4,4
+25-03-2020,Town Hall,5,9,10,3
+25-03-2020,Kuniyamuthur,9,13,8,4
+25-03-2020,Sundarapuram,11,13,9,6
+25-03-2020,Podanur,10,6,3,5
+25-03-2020,Thudiyalur,6,6,9,4
+25-03-2020,Vadakovai,9,6,10,6
+25-03-2020,Ganapathy,22,10,14,9
+25-03-2020,Kalapatti,26,26,30,17
+25-03-2020,Kovaipudur,9,10,9,3
+25-03-2020,Selvapuram,6,6,7,4
+25-03-2020,Kurichi,8,13,11,6
+25-03-2020,Vadavalli,14,14,15,11
+01-04-2020,Gandhipuram,18,15,13,8
+01-04-2020,RS Puram,4,11,9,2
+01-04-2020,Saibaba Colony,11,13,13,7
+01-04-2020,Peelamedu,7,4,6,4
+01-04-2020,Singanallur,16,18,19,8
+01-04-2020,Saravanampatti,18,19,21,17
+01-04-2020,Race Course,14,10,12,9
+01-04-2020,Ukkadam,9,11,10,7
+01-04-2020,Town Hall,6,16,15,8
+01-04-2020,Kuniyamuthur,7,9,8,9
+01-04-2020,Sundarapuram,10,22,10,13
+01-04-2020,Podanur,4,6,5,4
+01-04-2020,Thudiyalur,10,15,6,4
+01-04-2020,Vadakovai,6,18,9,5
+01-04-2020,Ganapathy,15,17,16,14
+01-04-2020,Kalapatti,22,22,18,14
+01-04-2020,Kovaipudur,14,18,11,4
+01-04-2020,Selvapuram,4,11,5,9
+01-04-2020,Kurichi,12,21,14,4
+01-04-2020,Vadavalli,15,15,11,13
+08-04-2020,Gandhipuram,4,18,13,3
+08-04-2020,RS Puram,6,9,6,1
+08-04-2020,Saibaba Colony,9,17,7,3
+08-04-2020,Peelamedu,5,7,8,12
+08-04-2020,Singanallur,19,15,9,6
+08-04-2020,Saravanampatti,16,27,21,12
+08-04-2020,Race Course,8,12,9,9
+08-04-2020,Ukkadam,1,7,8,0
+08-04-2020,Town Hall,9,4,8,4
+08-04-2020,Kuniyamuthur,7,8,7,10
+08-04-2020,Sundarapuram,13,11,2,5
+08-04-2020,Podanur,4,10,4,2
+08-04-2020,Thudiyalur,10,12,9,7
+08-04-2020,Vadakovai,15,16,7,8
+08-04-2020,Ganapathy,24,12,8,11
+08-04-2020,Kalapatti,14,31,27,15
+08-04-2020,Kovaipudur,9,8,10,6
+08-04-2020,Selvapuram,7,11,8,7
+08-04-2020,Kurichi,10,7,6,9
+08-04-2020,Vadavalli,15,25,5,9
+15-04-2020,Gandhipuram,16,12,7,11
+15-04-2020,RS Puram,4,4,8,4
+15-04-2020,Saibaba Colony,14,10,11,10
+15-04-2020,Peelamedu,7,5,10,6
+15-04-2020,Singanallur,12,25,9,14
+15-04-2020,Saravanampatti,15,18,21,10
+15-04-2020,Race Course,14,9,7,4
+15-04-2020,Ukkadam,9,8,3,6
+15-04-2020,Town Hall,8,3,12,5
+15-04-2020,Kuniyamuthur,9,14,6,7
+15-04-2020,Sundarapuram,15,15,10,9
+15-04-2020,Podanur,2,2,4,4
+15-04-2020,Thudiyalur,4,10,7,1
+15-04-2020,Vadakovai,12,17,12,7
+15-04-2020,Ganapathy,23,18,26,12
+15-04-2020,Kalapatti,25,29,27,14
+15-04-2020,Kovaipudur,5,13,4,8
+15-04-2020,Selvapuram,9,8,7,3
+15-04-2020,Kurichi,5,13,14,6
+15-04-2020,Vadavalli,16,21,12,9
+22-04-2020,Gandhipuram,11,17,6,8
+22-04-2020,RS Puram,3,4,3,2
+22-04-2020,Saibaba Colony,4,9,11,7
+22-04-2020,Peelamedu,8,13,10,5
+22-04-2020,Singanallur,19,27,14,7
+22-04-2020,Saravanampatti,20,30,19,13
+22-04-2020,Race Course,10,14,16,9
+22-04-2020,Ukkadam,9,3,8,11
+22-04-2020,Town Hall,7,7,7,4
+22-04-2020,Kuniyamuthur,7,14,5,4
+22-04-2020,Sundarapuram,15,19,14,8
+22-04-2020,Podanur,2,7,2,3
+22-04-2020,Thudiyalur,5,7,9,4
+22-04-2020,Vadakovai,11,15,9,8
+22-04-2020,Ganapathy,28,26,13,11
+22-04-2020,Kalapatti,23,31,19,21
+22-04-2020,Kovaipudur,14,7,9,5
+22-04-2020,Selvapuram,6,6,9,5
+22-04-2020,Kurichi,10,11,4,8
+22-04-2020,Vadavalli,13,19,11,8
+29-04-2020,Gandhipuram,14,13,10,10
+29-04-2020,RS Puram,5,9,7,2
+29-04-2020,Saibaba Colony,8,6,8,4
+29-04-2020,Peelamedu,9,5,5,4
+29-04-2020,Singanallur,16,25,15,19
+29-04-2020,Saravanampatti,24,30,16,13
+29-04-2020,Race Course,13,14,15,8
+29-04-2020,Ukkadam,8,10,5,2
+29-04-2020,Town Hall,7,8,1,4
+29-04-2020,Kuniyamuthur,8,7,9,2
+29-04-2020,Sundarapuram,9,13,11,11
+29-04-2020,Podanur,4,6,3,2
+29-04-2020,Thudiyalur,9,11,11,6
+29-04-2020,Vadakovai,8,7,10,3
+29-04-2020,Ganapathy,27,20,17,12
+29-04-2020,Kalapatti,15,27,23,20
+29-04-2020,Kovaipudur,14,10,9,5
+29-04-2020,Selvapuram,5,9,5,4
+29-04-2020,Kurichi,6,9,7,3
+29-04-2020,Vadavalli,10,15,14,10
+06-05-2020,Gandhipuram,12,12,19,4
+06-05-2020,RS Puram,9,4,9,3
+06-05-2020,Saibaba Colony,6,17,18,8
+06-05-2020,Peelamedu,13,12,12,4
+06-05-2020,Singanallur,13,15,22,11
+06-05-2020,Saravanampatti,22,18,20,15
+06-05-2020,Race Course,9,13,8,4
+06-05-2020,Ukkadam,11,12,12,7
+06-05-2020,Town Hall,6,8,9,8
+06-05-2020,Kuniyamuthur,9,8,15,8
+06-05-2020,Sundarapuram,9,8,15,9
+06-05-2020,Podanur,1,3,6,1
+06-05-2020,Thudiyalur,7,11,9,11
+06-05-2020,Vadakovai,14,16,15,3
+06-05-2020,Ganapathy,16,20,19,8
+06-05-2020,Kalapatti,20,28,28,10
+06-05-2020,Kovaipudur,8,13,12,7
+06-05-2020,Selvapuram,2,9,13,11
+06-05-2020,Kurichi,6,10,12,9
+06-05-2020,Vadavalli,15,10,15,12
+13-05-2020,Gandhipuram,12,10,17,8
+13-05-2020,RS Puram,12,9,4,5
+13-05-2020,Saibaba Colony,3,11,7,3
+13-05-2020,Peelamedu,8,7,17,5
+13-05-2020,Singanallur,14,7,14,6
+13-05-2020,Saravanampatti,15,13,17,11
+13-05-2020,Race Course,15,18,11,3
+13-05-2020,Ukkadam,4,7,8,6
+13-05-2020,Town Hall,5,8,10,6
+13-05-2020,Kuniyamuthur,8,13,5,7
+13-05-2020,Sundarapuram,16,14,18,5
+13-05-2020,Podanur,6,5,8,3
+13-05-2020,Thudiyalur,6,9,7,6
+13-05-2020,Vadakovai,12,13,19,8
+13-05-2020,Ganapathy,18,10,25,7
+13-05-2020,Kalapatti,27,27,37,16
+13-05-2020,Kovaipudur,9,20,14,11
+13-05-2020,Selvapuram,9,9,9,4
+13-05-2020,Kurichi,7,6,16,7
+13-05-2020,Vadavalli,7,19,22,5
+20-05-2020,Gandhipuram,9,12,11,7
+20-05-2020,RS Puram,4,9,7,6
+20-05-2020,Saibaba Colony,17,16,12,10
+20-05-2020,Peelamedu,8,10,14,5
+20-05-2020,Singanallur,17,26,25,11
+20-05-2020,Saravanampatti,19,31,25,19
+20-05-2020,Race Course,14,18,16,12
+20-05-2020,Ukkadam,1,6,5,3
+20-05-2020,Town Hall,6,9,19,1
+20-05-2020,Kuniyamuthur,13,14,16,12
+20-05-2020,Sundarapuram,14,4,17,9
+20-05-2020,Podanur,8,10,3,2
+20-05-2020,Thudiyalur,5,10,6,6
+20-05-2020,Vadakovai,10,16,16,8
+20-05-2020,Ganapathy,12,23,25,12
+20-05-2020,Kalapatti,23,24,32,21
+20-05-2020,Kovaipudur,7,7,16,5
+20-05-2020,Selvapuram,5,6,8,5
+20-05-2020,Kurichi,12,11,18,7
+20-05-2020,Vadavalli,12,19,24,7
+27-05-2020,Gandhipuram,17,17,16,6
+27-05-2020,RS Puram,3,8,3,5
+27-05-2020,Saibaba Colony,6,17,21,5
+27-05-2020,Peelamedu,11,8,10,4
+27-05-2020,Singanallur,10,21,23,14
+27-05-2020,Saravanampatti,16,30,22,16
+27-05-2020,Race Course,19,19,19,8
+27-05-2020,Ukkadam,5,6,13,8
+27-05-2020,Town Hall,4,9,8,5
+27-05-2020,Kuniyamuthur,10,10,10,8
+27-05-2020,Sundarapuram,9,19,10,5
+27-05-2020,Podanur,6,6,8,3
+27-05-2020,Thudiyalur,9,11,13,2
+27-05-2020,Vadakovai,14,17,20,11
+27-05-2020,Ganapathy,18,22,23,13
+27-05-2020,Kalapatti,15,34,27,16
+27-05-2020,Kovaipudur,7,17,9,8
+27-05-2020,Selvapuram,6,5,12,9
+27-05-2020,Kurichi,12,13,16,7
+27-05-2020,Vadavalli,11,15,29,3
+03-06-2020,Gandhipuram,18,10,16,10
+03-06-2020,RS Puram,9,9,6,4
+03-06-2020,Saibaba Colony,11,16,14,6
+03-06-2020,Peelamedu,8,14,13,8
+03-06-2020,Singanallur,14,20,17,5
+03-06-2020,Saravanampatti,26,22,25,20
+03-06-2020,Race Course,20,7,22,4
+03-06-2020,Ukkadam,16,7,10,7
+03-06-2020,Town Hall,12,13,14,3
+03-06-2020,Kuniyamuthur,20,8,10,6
+03-06-2020,Sundarapuram,17,17,21,12
+03-06-2020,Podanur,10,6,8,7
+03-06-2020,Thudiyalur,13,4,18,10
+03-06-2020,Vadakovai,18,12,24,9
+03-06-2020,Ganapathy,24,26,24,12
+03-06-2020,Kalapatti,31,27,28,13
+03-06-2020,Kovaipudur,13,17,10,9
+03-06-2020,Selvapuram,13,20,9,2
+03-06-2020,Kurichi,10,13,17,5
+03-06-2020,Vadavalli,16,17,18,5
+10-06-2020,Gandhipuram,15,18,8,5
+10-06-2020,RS Puram,12,10,10,4
+10-06-2020,Saibaba Colony,19,18,10,9
+10-06-2020,Peelamedu,15,12,16,7
+10-06-2020,Singanallur,19,15,20,15
+10-06-2020,Saravanampatti,28,23,30,12
+10-06-2020,Race Course,20,15,13,6
+10-06-2020,Ukkadam,10,13,19,6
+10-06-2020,Town Hall,6,13,8,6
+10-06-2020,Kuniyamuthur,16,8,12,7
+10-06-2020,Sundarapuram,16,16,20,9
+10-06-2020,Podanur,7,3,9,4
+10-06-2020,Thudiyalur,17,10,12,3
+10-06-2020,Vadakovai,19,11,11,11
+10-06-2020,Ganapathy,25,28,20,12
+10-06-2020,Kalapatti,34,29,35,21
+10-06-2020,Kovaipudur,19,13,15,6
+10-06-2020,Selvapuram,10,16,11,14
+10-06-2020,Kurichi,11,12,17,8
+10-06-2020,Vadavalli,27,20,25,9
+17-06-2020,Gandhipuram,17,8,20,13
+17-06-2020,RS Puram,10,9,9,8
+17-06-2020,Saibaba Colony,15,11,17,10
+17-06-2020,Peelamedu,16,11,10,8
+17-06-2020,Singanallur,23,18,24,15
+17-06-2020,Saravanampatti,35,24,28,8
+17-06-2020,Race Course,20,12,23,10
+17-06-2020,Ukkadam,13,12,14,9
+17-06-2020,Town Hall,9,7,10,2
+17-06-2020,Kuniyamuthur,14,18,16,6
+17-06-2020,Sundarapuram,22,10,15,11
+17-06-2020,Podanur,8,11,10,5
+17-06-2020,Thudiyalur,12,7,14,8
+17-06-2020,Vadakovai,22,13,14,5
+17-06-2020,Ganapathy,27,23,25,5
+17-06-2020,Kalapatti,31,30,35,11
+17-06-2020,Kovaipudur,21,15,20,7
+17-06-2020,Selvapuram,17,11,11,6
+17-06-2020,Kurichi,18,13,19,6
+17-06-2020,Vadavalli,23,22,14,8
+24-06-2020,Gandhipuram,24,14,23,11
+24-06-2020,RS Puram,11,12,10,5
+24-06-2020,Saibaba Colony,15,11,18,6
+24-06-2020,Peelamedu,13,14,18,1
+24-06-2020,Singanallur,23,19,18,7
+24-06-2020,Saravanampatti,25,30,27,17
+24-06-2020,Race Course,22,13,14,10
+24-06-2020,Ukkadam,15,14,12,3
+24-06-2020,Town Hall,12,14,12,4
+24-06-2020,Kuniyamuthur,16,13,15,7
+24-06-2020,Sundarapuram,20,17,24,10
+24-06-2020,Podanur,7,8,5,4
+24-06-2020,Thudiyalur,20,17,14,8
+24-06-2020,Vadakovai,13,16,11,10
+24-06-2020,Ganapathy,28,16,22,9
+24-06-2020,Kalapatti,35,36,26,18
+24-06-2020,Kovaipudur,15,10,15,6
+24-06-2020,Selvapuram,13,14,17,2
+24-06-2020,Kurichi,13,12,20,6
+24-06-2020,Vadavalli,15,21,24,14
+01-07-2020,Gandhipuram,28,31,17,9
+01-07-2020,RS Puram,12,12,5,5
+01-07-2020,Saibaba Colony,26,26,13,6
+01-07-2020,Peelamedu,18,24,13,4
+01-07-2020,Singanallur,21,32,24,12
+01-07-2020,Saravanampatti,46,36,33,10
+01-07-2020,Race Course,13,23,19,5
+01-07-2020,Ukkadam,12,14,11,3
+01-07-2020,Town Hall,12,8,15,4
+01-07-2020,Kuniyamuthur,18,19,14,8
+01-07-2020,Sundarapuram,25,14,25,12
+01-07-2020,Podanur,3,12,11,8
+01-07-2020,Thudiyalur,13,20,9,5
+01-07-2020,Vadakovai,20,23,16,13
+01-07-2020,Ganapathy,22,37,17,9
+01-07-2020,Kalapatti,28,55,28,17
+01-07-2020,Kovaipudur,14,12,20,9
+01-07-2020,Selvapuram,15,18,13,6
+01-07-2020,Kurichi,10,20,20,11
+01-07-2020,Vadavalli,22,37,25,14
+08-07-2020,Gandhipuram,25,30,22,5
+08-07-2020,RS Puram,9,17,10,6
+08-07-2020,Saibaba Colony,18,23,19,10
+08-07-2020,Peelamedu,15,23,18,11
+08-07-2020,Singanallur,24,35,33,9
+08-07-2020,Saravanampatti,27,40,29,16
+08-07-2020,Race Course,18,14,19,9
+08-07-2020,Ukkadam,16,18,12,6
+08-07-2020,Town Hall,11,11,7,4
+08-07-2020,Kuniyamuthur,26,11,15,6
+08-07-2020,Sundarapuram,16,26,21,5
+08-07-2020,Podanur,5,7,11,8
+08-07-2020,Thudiyalur,21,16,12,4
+08-07-2020,Vadakovai,17,25,26,8
+08-07-2020,Ganapathy,23,33,26,20
+08-07-2020,Kalapatti,36,41,23,13
+08-07-2020,Kovaipudur,20,17,15,8
+08-07-2020,Selvapuram,15,24,10,6
+08-07-2020,Kurichi,12,14,12,8
+08-07-2020,Vadavalli,30,22,17,12
+15-07-2020,Gandhipuram,19,22,14,10
+15-07-2020,RS Puram,10,14,11,7
+15-07-2020,Saibaba Colony,17,21,8,11
+15-07-2020,Peelamedu,16,15,10,5
+15-07-2020,Singanallur,22,37,25,13
+15-07-2020,Saravanampatti,38,40,26,17
+15-07-2020,Race Course,11,24,17,10
+15-07-2020,Ukkadam,16,18,12,9
+15-07-2020,Town Hall,11,18,11,5
+15-07-2020,Kuniyamuthur,13,21,12,2
+15-07-2020,Sundarapuram,14,23,10,3
+15-07-2020,Podanur,7,11,9,0
+15-07-2020,Thudiyalur,13,20,17,8
+15-07-2020,Vadakovai,13,16,27,8
+15-07-2020,Ganapathy,26,40,18,9
+15-07-2020,Kalapatti,39,48,28,10
+15-07-2020,Kovaipudur,15,21,18,4
+15-07-2020,Selvapuram,17,15,16,2
+15-07-2020,Kurichi,12,30,19,5
+15-07-2020,Vadavalli,25,29,22,12
+22-07-2020,Gandhipuram,19,28,17,12
+22-07-2020,RS Puram,5,10,10,3
+22-07-2020,Saibaba Colony,20,28,16,7
+22-07-2020,Peelamedu,18,29,11,5
+22-07-2020,Singanallur,19,28,26,10
+22-07-2020,Saravanampatti,34,43,36,15
+22-07-2020,Race Course,21,20,19,8
+22-07-2020,Ukkadam,11,12,13,3
+22-07-2020,Town Hall,10,11,6,6
+22-07-2020,Kuniyamuthur,20,19,14,6
+22-07-2020,Sundarapuram,18,29,16,15
+22-07-2020,Podanur,9,10,7,4
+22-07-2020,Thudiyalur,12,20,15,8
+22-07-2020,Vadakovai,17,19,18,4
+22-07-2020,Ganapathy,22,36,26,17
+22-07-2020,Kalapatti,39,42,35,19
+22-07-2020,Kovaipudur,22,23,9,3
+22-07-2020,Selvapuram,11,12,8,6
+22-07-2020,Kurichi,14,26,22,8
+22-07-2020,Vadavalli,26,29,33,5
+29-07-2020,Gandhipuram,24,27,21,9
+29-07-2020,RS Puram,13,13,11,5
+29-07-2020,Saibaba Colony,19,25,14,8
+29-07-2020,Peelamedu,21,16,13,10
+29-07-2020,Singanallur,25,33,24,10
+29-07-2020,Saravanampatti,36,29,35,20
+29-07-2020,Race Course,15,38,19,7
+29-07-2020,Ukkadam,11,23,13,7
+29-07-2020,Town Hall,13,18,13,2
+29-07-2020,Kuniyamuthur,7,15,12,4
+29-07-2020,Sundarapuram,15,25,14,6
+29-07-2020,Podanur,10,11,6,0
+29-07-2020,Thudiyalur,10,26,11,8
+29-07-2020,Vadakovai,17,28,21,10
+29-07-2020,Ganapathy,30,38,21,12
+29-07-2020,Kalapatti,31,38,36,12
+29-07-2020,Kovaipudur,16,26,23,7
+29-07-2020,Selvapuram,10,24,13,8
+29-07-2020,Kurichi,11,16,11,6
+29-07-2020,Vadavalli,26,28,22,10
+05-08-2020,Gandhipuram,27,20,15,9
+05-08-2020,RS Puram,18,12,9,8
+05-08-2020,Saibaba Colony,15,20,15,13
+05-08-2020,Peelamedu,16,21,14,8
+05-08-2020,Singanallur,20,30,17,20
+05-08-2020,Saravanampatti,37,36,27,21
+05-08-2020,Race Course,28,20,17,14
+05-08-2020,Ukkadam,12,18,6,11
+05-08-2020,Town Hall,15,14,14,7
+05-08-2020,Kuniyamuthur,10,19,10,13
+05-08-2020,Sundarapuram,19,28,25,16
+05-08-2020,Podanur,5,7,5,6
+05-08-2020,Thudiyalur,17,13,13,11
+05-08-2020,Vadakovai,17,22,21,12
+05-08-2020,Ganapathy,22,26,24,26
+05-08-2020,Kalapatti,27,38,30,23
+05-08-2020,Kovaipudur,12,25,28,11
+05-08-2020,Selvapuram,12,16,9,10
+05-08-2020,Kurichi,10,20,19,13
+05-08-2020,Vadavalli,24,28,25,14
+12-08-2020,Gandhipuram,12,23,16,14
+12-08-2020,RS Puram,6,19,12,6
+12-08-2020,Saibaba Colony,17,20,21,11
+12-08-2020,Peelamedu,13,13,14,11
+12-08-2020,Singanallur,15,19,17,19
+12-08-2020,Saravanampatti,26,29,23,28
+12-08-2020,Race Course,15,28,20,11
+12-08-2020,Ukkadam,15,15,14,13
+12-08-2020,Town Hall,11,15,9,6
+12-08-2020,Kuniyamuthur,12,17,15,14
+12-08-2020,Sundarapuram,26,30,11,14
+12-08-2020,Podanur,11,16,10,5
+12-08-2020,Thudiyalur,17,19,12,13
+12-08-2020,Vadakovai,16,22,15,15
+12-08-2020,Ganapathy,24,34,20,19
+12-08-2020,Kalapatti,29,54,33,35
+12-08-2020,Kovaipudur,20,21,16,12
+12-08-2020,Selvapuram,12,15,10,9
+12-08-2020,Kurichi,13,15,15,7
+12-08-2020,Vadavalli,23,21,24,15
+19-08-2020,Gandhipuram,13,24,17,10
+19-08-2020,RS Puram,12,14,7,4
+19-08-2020,Saibaba Colony,18,28,15,9
+19-08-2020,Peelamedu,23,24,15,9
+19-08-2020,Singanallur,30,27,18,15
+19-08-2020,Saravanampatti,35,53,36,24
+19-08-2020,Race Course,12,19,23,11
+19-08-2020,Ukkadam,13,26,9,7
+19-08-2020,Town Hall,16,14,12,5
+19-08-2020,Kuniyamuthur,17,15,15,10
+19-08-2020,Sundarapuram,11,23,26,14
+19-08-2020,Podanur,11,9,10,1
+19-08-2020,Thudiyalur,19,17,14,12
+19-08-2020,Vadakovai,23,22,8,13
+19-08-2020,Ganapathy,30,49,20,11
+19-08-2020,Kalapatti,32,51,35,25
+19-08-2020,Kovaipudur,16,26,12,12
+19-08-2020,Selvapuram,11,19,14,8
+19-08-2020,Kurichi,24,22,15,11
+19-08-2020,Vadavalli,18,24,24,15
+26-08-2020,Gandhipuram,22,24,17,13
+26-08-2020,RS Puram,14,19,14,6
+26-08-2020,Saibaba Colony,17,13,17,13
+26-08-2020,Peelamedu,10,19,14,4
+26-08-2020,Singanallur,23,33,17,17
+26-08-2020,Saravanampatti,29,33,35,17
+26-08-2020,Race Course,14,26,23,11
+26-08-2020,Ukkadam,15,15,18,12
+26-08-2020,Town Hall,15,10,8,6
+26-08-2020,Kuniyamuthur,20,17,13,10
+26-08-2020,Sundarapuram,20,22,14,13
+26-08-2020,Podanur,7,7,8,8
+26-08-2020,Thudiyalur,22,23,18,11
+26-08-2020,Vadakovai,19,17,22,10
+26-08-2020,Ganapathy,25,30,17,15
+26-08-2020,Kalapatti,34,44,29,33
+26-08-2020,Kovaipudur,21,16,10,16
+26-08-2020,Selvapuram,17,21,17,8
+26-08-2020,Kurichi,15,28,15,9
+26-08-2020,Vadavalli,19,25,32,18
+02-09-2020,Gandhipuram,13,23,10,18
+02-09-2020,RS Puram,14,18,6,12
+02-09-2020,Saibaba Colony,20,19,11,11
+02-09-2020,Peelamedu,14,13,6,12
+02-09-2020,Singanallur,24,21,19,17
+02-09-2020,Saravanampatti,39,42,21,23
+02-09-2020,Race Course,22,21,13,13
+02-09-2020,Ukkadam,12,15,10,11
+02-09-2020,Town Hall,11,17,11,4
+02-09-2020,Kuniyamuthur,12,24,6,6
+02-09-2020,Sundarapuram,23,11,8,14
+02-09-2020,Podanur,8,12,4,6
+02-09-2020,Thudiyalur,15,15,9,10
+02-09-2020,Vadakovai,15,23,12,18
+02-09-2020,Ganapathy,25,31,11,18
+02-09-2020,Kalapatti,38,52,25,18
+02-09-2020,Kovaipudur,17,25,11,11
+02-09-2020,Selvapuram,13,11,8,10
+02-09-2020,Kurichi,13,30,10,7
+02-09-2020,Vadavalli,20,34,10,18
+09-09-2020,Gandhipuram,18,18,10,16
+09-09-2020,RS Puram,9,12,6,7
+09-09-2020,Saibaba Colony,13,22,10,12
+09-09-2020,Peelamedu,10,14,5,12
+09-09-2020,Singanallur,20,35,12,19
+09-09-2020,Saravanampatti,34,47,16,31
+09-09-2020,Race Course,28,29,16,16
+09-09-2020,Ukkadam,14,14,9,14
+09-09-2020,Town Hall,10,11,6,12
+09-09-2020,Kuniyamuthur,12,15,11,14
+09-09-2020,Sundarapuram,18,29,13,15
+09-09-2020,Podanur,8,16,5,5
+09-09-2020,Thudiyalur,15,24,9,7
+09-09-2020,Vadakovai,15,19,10,19
+09-09-2020,Ganapathy,23,29,20,15
+09-09-2020,Kalapatti,32,51,29,23
+09-09-2020,Kovaipudur,14,23,10,11
+09-09-2020,Selvapuram,20,14,12,10
+09-09-2020,Kurichi,12,20,14,18
+09-09-2020,Vadavalli,26,38,18,17
+16-09-2020,Gandhipuram,21,16,13,16
+16-09-2020,RS Puram,12,10,9,8
+16-09-2020,Saibaba Colony,13,16,7,14
+16-09-2020,Peelamedu,17,21,4,5
+16-09-2020,Singanallur,17,31,17,22
+16-09-2020,Saravanampatti,26,37,24,25
+16-09-2020,Race Course,20,30,19,11
+16-09-2020,Ukkadam,16,16,11,9
+16-09-2020,Town Hall,8,21,9,4
+16-09-2020,Kuniyamuthur,12,16,18,10
+16-09-2020,Sundarapuram,18,21,6,16
+16-09-2020,Podanur,8,10,6,4
+16-09-2020,Thudiyalur,13,26,13,8
+16-09-2020,Vadakovai,14,25,12,16
+16-09-2020,Ganapathy,18,38,11,24
+16-09-2020,Kalapatti,30,51,26,26
+16-09-2020,Kovaipudur,22,24,14,11
+16-09-2020,Selvapuram,14,20,8,13
+16-09-2020,Kurichi,16,26,16,12
+16-09-2020,Vadavalli,25,43,13,19
+23-09-2020,Gandhipuram,10,21,18,13
+23-09-2020,RS Puram,12,14,8,10
+23-09-2020,Saibaba Colony,21,29,12,12
+23-09-2020,Peelamedu,19,18,8,15
+23-09-2020,Singanallur,30,27,6,14
+23-09-2020,Saravanampatti,28,39,20,18
+23-09-2020,Race Course,18,24,15,8
+23-09-2020,Ukkadam,12,17,7,9
+23-09-2020,Town Hall,9,9,8,5
+23-09-2020,Kuniyamuthur,10,26,9,13
+23-09-2020,Sundarapuram,19,20,10,9
+23-09-2020,Podanur,7,7,4,5
+23-09-2020,Thudiyalur,15,21,14,13
+23-09-2020,Vadakovai,18,21,12,5
+23-09-2020,Ganapathy,26,34,16,21
+23-09-2020,Kalapatti,35,50,19,18
+23-09-2020,Kovaipudur,15,24,11,8
+23-09-2020,Selvapuram,15,11,10,13
+23-09-2020,Kurichi,22,19,12,12
+23-09-2020,Vadavalli,14,43,19,19
+30-09-2020,Gandhipuram,13,20,12,14
+30-09-2020,RS Puram,16,13,7,8
+30-09-2020,Saibaba Colony,24,14,7,11
+30-09-2020,Peelamedu,9,27,14,6
+30-09-2020,Singanallur,24,24,17,16
+30-09-2020,Saravanampatti,24,55,23,21
+30-09-2020,Race Course,17,18,19,13
+30-09-2020,Ukkadam,13,22,9,9
+30-09-2020,Town Hall,16,14,7,9
+30-09-2020,Kuniyamuthur,9,17,17,10
+30-09-2020,Sundarapuram,25,25,9,12
+30-09-2020,Podanur,6,7,5,9
+30-09-2020,Thudiyalur,12,14,8,8
+30-09-2020,Vadakovai,22,23,7,18
+30-09-2020,Ganapathy,34,36,10,26
+30-09-2020,Kalapatti,45,45,19,30
+30-09-2020,Kovaipudur,14,20,14,12
+30-09-2020,Selvapuram,22,21,8,11
+30-09-2020,Kurichi,7,20,15,8
+30-09-2020,Vadavalli,25,28,16,14
+07-10-2020,Gandhipuram,12,22,14,13
+07-10-2020,RS Puram,4,17,7,14
+07-10-2020,Saibaba Colony,8,28,7,10
+07-10-2020,Peelamedu,9,23,7,10
+07-10-2020,Singanallur,20,32,17,13
+07-10-2020,Saravanampatti,20,37,16,19
+07-10-2020,Race Course,12,26,8,7
+07-10-2020,Ukkadam,4,18,4,15
+07-10-2020,Town Hall,9,21,8,9
+07-10-2020,Kuniyamuthur,15,16,9,7
+07-10-2020,Sundarapuram,16,22,7,16
+07-10-2020,Podanur,6,11,7,6
+07-10-2020,Thudiyalur,12,18,14,6
+07-10-2020,Vadakovai,13,21,7,12
+07-10-2020,Ganapathy,28,29,19,19
+07-10-2020,Kalapatti,27,40,14,17
+07-10-2020,Kovaipudur,12,27,6,13
+07-10-2020,Selvapuram,8,11,10,11
+07-10-2020,Kurichi,13,24,8,16
+07-10-2020,Vadavalli,11,25,11,22
+14-10-2020,Gandhipuram,16,30,7,15
+14-10-2020,RS Puram,9,15,9,5
+14-10-2020,Saibaba Colony,11,21,11,9
+14-10-2020,Peelamedu,11,19,8,6
+14-10-2020,Singanallur,5,33,9,12
+14-10-2020,Saravanampatti,19,43,25,17
+14-10-2020,Race Course,13,29,11,12
+14-10-2020,Ukkadam,8,28,8,8
+14-10-2020,Town Hall,11,13,8,10
+14-10-2020,Kuniyamuthur,8,15,5,11
+14-10-2020,Sundarapuram,19,20,8,17
+14-10-2020,Podanur,11,9,2,8
+14-10-2020,Thudiyalur,14,11,8,9
+14-10-2020,Vadakovai,20,20,12,14
+14-10-2020,Ganapathy,14,22,16,18
+14-10-2020,Kalapatti,23,33,27,14
+14-10-2020,Kovaipudur,9,20,14,8
+14-10-2020,Selvapuram,9,17,5,11
+14-10-2020,Kurichi,8,20,10,14
+14-10-2020,Vadavalli,22,19,5,15
+21-10-2020,Gandhipuram,14,24,10,9
+21-10-2020,RS Puram,6,10,7,11
+21-10-2020,Saibaba Colony,14,15,9,13
+21-10-2020,Peelamedu,9,12,11,11
+21-10-2020,Singanallur,19,39,9,14
+21-10-2020,Saravanampatti,24,39,17,30
+21-10-2020,Race Course,16,25,11,6
+21-10-2020,Ukkadam,9,23,10,8
+21-10-2020,Town Hall,13,14,9,6
+21-10-2020,Kuniyamuthur,17,22,9,9
+21-10-2020,Sundarapuram,13,22,11,4
+21-10-2020,Podanur,6,6,8,5
+21-10-2020,Thudiyalur,6,15,10,13
+21-10-2020,Vadakovai,13,27,7,9
+21-10-2020,Ganapathy,10,34,13,13
+21-10-2020,Kalapatti,18,50,24,23
+21-10-2020,Kovaipudur,3,13,8,6
+21-10-2020,Selvapuram,6,17,15,11
+21-10-2020,Kurichi,11,19,14,7
+21-10-2020,Vadavalli,13,29,12,17
+28-10-2020,Gandhipuram,7,18,8,12
+28-10-2020,RS Puram,6,4,6,7
+28-10-2020,Saibaba Colony,14,23,12,9
+28-10-2020,Peelamedu,6,14,11,14
+28-10-2020,Singanallur,22,26,17,21
+28-10-2020,Saravanampatti,22,23,21,23
+28-10-2020,Race Course,15,24,7,14
+28-10-2020,Ukkadam,10,15,9,9
+28-10-2020,Town Hall,9,9,2,7
+28-10-2020,Kuniyamuthur,7,18,9,9
+28-10-2020,Sundarapuram,15,25,16,12
+28-10-2020,Podanur,5,13,3,6
+28-10-2020,Thudiyalur,9,20,12,13
+28-10-2020,Vadakovai,20,21,8,13
+28-10-2020,Ganapathy,14,32,9,18
+28-10-2020,Kalapatti,17,47,20,22
+28-10-2020,Kovaipudur,14,22,7,9
+28-10-2020,Selvapuram,6,19,4,15
+28-10-2020,Kurichi,8,16,8,8
+28-10-2020,Vadavalli,13,41,17,20
+04-11-2020,Gandhipuram,17,13,8,12
+04-11-2020,RS Puram,6,15,5,13
+04-11-2020,Saibaba Colony,16,15,18,17
+04-11-2020,Peelamedu,9,8,5,6
+04-11-2020,Singanallur,19,17,14,10
+04-11-2020,Saravanampatti,24,34,26,27
+04-11-2020,Race Course,11,18,5,15
+04-11-2020,Ukkadam,7,9,11,11
+04-11-2020,Town Hall,4,9,6,5
+04-11-2020,Kuniyamuthur,14,9,8,8
+04-11-2020,Sundarapuram,14,20,9,8
+04-11-2020,Podanur,5,5,6,3
+04-11-2020,Thudiyalur,4,16,7,6
+04-11-2020,Vadakovai,15,25,12,14
+04-11-2020,Ganapathy,24,23,21,20
+04-11-2020,Kalapatti,26,26,19,25
+04-11-2020,Kovaipudur,9,15,15,11
+04-11-2020,Selvapuram,9,8,11,9
+04-11-2020,Kurichi,10,13,12,11
+04-11-2020,Vadavalli,17,22,18,24
+11-11-2020,Gandhipuram,12,18,7,23
+11-11-2020,RS Puram,8,12,6,7
+11-11-2020,Saibaba Colony,9,17,5,21
+11-11-2020,Peelamedu,10,17,15,11
+11-11-2020,Singanallur,17,18,14,17
+11-11-2020,Saravanampatti,14,30,15,20
+11-11-2020,Race Course,18,14,16,6
+11-11-2020,Ukkadam,9,12,10,12
+11-11-2020,Town Hall,10,3,8,6
+11-11-2020,Kuniyamuthur,8,17,8,12
+11-11-2020,Sundarapuram,14,10,17,13
+11-11-2020,Podanur,6,9,4,8
+11-11-2020,Thudiyalur,11,15,9,11
+11-11-2020,Vadakovai,7,15,8,12
+11-11-2020,Ganapathy,19,14,11,21
+11-11-2020,Kalapatti,29,26,23,27
+11-11-2020,Kovaipudur,13,12,14,11
+11-11-2020,Selvapuram,8,11,5,3
+11-11-2020,Kurichi,7,13,6,9
+11-11-2020,Vadavalli,18,20,11,21
+18-11-2020,Gandhipuram,13,24,15,16
+18-11-2020,RS Puram,8,13,7,8
+18-11-2020,Saibaba Colony,12,21,10,10
+18-11-2020,Peelamedu,12,5,6,8
+18-11-2020,Singanallur,16,22,19,17
+18-11-2020,Saravanampatti,22,28,17,18
+18-11-2020,Race Course,11,10,15,14
+18-11-2020,Ukkadam,8,11,12,6
+18-11-2020,Town Hall,7,5,6,10
+18-11-2020,Kuniyamuthur,10,12,6,10
+18-11-2020,Sundarapuram,16,19,11,14
+18-11-2020,Podanur,3,9,5,6
+18-11-2020,Thudiyalur,10,15,6,8
+18-11-2020,Vadakovai,7,12,8,12
+18-11-2020,Ganapathy,16,26,16,20
+18-11-2020,Kalapatti,20,24,26,22
+18-11-2020,Kovaipudur,15,11,8,14
+18-11-2020,Selvapuram,8,14,14,9
+18-11-2020,Kurichi,12,11,13,12
+18-11-2020,Vadavalli,19,22,15,16
+25-11-2020,Gandhipuram,11,12,11,15
+25-11-2020,RS Puram,9,13,2,4
+25-11-2020,Saibaba Colony,13,13,9,9
+25-11-2020,Peelamedu,6,11,6,14
+25-11-2020,Singanallur,16,26,13,20
+25-11-2020,Saravanampatti,29,32,19,19
+25-11-2020,Race Course,21,21,13,15
+25-11-2020,Ukkadam,10,13,14,10
+25-11-2020,Town Hall,9,16,14,8
+25-11-2020,Kuniyamuthur,14,15,7,12
+25-11-2020,Sundarapuram,13,19,9,11
+25-11-2020,Podanur,5,6,4,8
+25-11-2020,Thudiyalur,13,11,9,1
+25-11-2020,Vadakovai,10,13,10,10
+25-11-2020,Ganapathy,22,26,24,14
+25-11-2020,Kalapatti,24,25,22,23
+25-11-2020,Kovaipudur,13,12,7,9
+25-11-2020,Selvapuram,10,12,8,8
+25-11-2020,Kurichi,7,10,9,13
+25-11-2020,Vadavalli,9,23,17,13
+02-12-2020,Gandhipuram,20,15,20,9
+02-12-2020,RS Puram,7,14,7,2
+02-12-2020,Saibaba Colony,13,19,9,4
+02-12-2020,Peelamedu,21,16,13,6
+02-12-2020,Singanallur,9,23,10,13
+02-12-2020,Saravanampatti,19,28,24,12
+02-12-2020,Race Course,7,12,14,5
+02-12-2020,Ukkadam,11,10,9,3
+02-12-2020,Town Hall,6,9,8,10
+02-12-2020,Kuniyamuthur,9,19,9,5
+02-12-2020,Sundarapuram,9,13,6,7
+02-12-2020,Podanur,5,4,6,4
+02-12-2020,Thudiyalur,12,14,10,12
+02-12-2020,Vadakovai,8,11,7,13
+02-12-2020,Ganapathy,13,24,16,10
+02-12-2020,Kalapatti,18,23,18,19
+02-12-2020,Kovaipudur,8,10,10,8
+02-12-2020,Selvapuram,2,3,9,2
+02-12-2020,Kurichi,14,9,7,5
+02-12-2020,Vadavalli,17,21,11,16
+09-12-2020,Gandhipuram,9,10,4,8
+09-12-2020,RS Puram,4,6,1,5
+09-12-2020,Saibaba Colony,11,10,10,6
+09-12-2020,Peelamedu,9,12,8,9
+09-12-2020,Singanallur,15,27,14,13
+09-12-2020,Saravanampatti,17,19,24,19
+09-12-2020,Race Course,7,12,15,9
+09-12-2020,Ukkadam,7,6,12,5
+09-12-2020,Town Hall,6,6,5,8
+09-12-2020,Kuniyamuthur,5,12,11,5
+09-12-2020,Sundarapuram,11,17,15,5
+09-12-2020,Podanur,2,2,2,2
+09-12-2020,Thudiyalur,11,16,5,2
+09-12-2020,Vadakovai,11,15,11,7
+09-12-2020,Ganapathy,11,14,6,9
+09-12-2020,Kalapatti,16,27,15,11
+09-12-2020,Kovaipudur,8,13,7,10
+09-12-2020,Selvapuram,9,11,6,2
+09-12-2020,Kurichi,9,17,15,3
+09-12-2020,Vadavalli,10,19,10,8
+16-12-2020,Gandhipuram,10,15,9,12
+16-12-2020,RS Puram,7,10,7,5
+16-12-2020,Saibaba Colony,5,16,5,8
+16-12-2020,Peelamedu,6,11,15,2
+16-12-2020,Singanallur,20,22,15,12
+16-12-2020,Saravanampatti,24,19,21,18
+16-12-2020,Race Course,9,17,7,5
+16-12-2020,Ukkadam,8,6,5,7
+16-12-2020,Town Hall,2,4,6,7
+16-12-2020,Kuniyamuthur,12,11,5,2
+16-12-2020,Sundarapuram,9,17,13,7
+16-12-2020,Podanur,5,3,7,1
+16-12-2020,Thudiyalur,10,9,9,9
+16-12-2020,Vadakovai,7,6,8,4
+16-12-2020,Ganapathy,16,18,14,12
+16-12-2020,Kalapatti,20,24,19,7
+16-12-2020,Kovaipudur,8,8,12,7
+16-12-2020,Selvapuram,17,12,8,7
+16-12-2020,Kurichi,6,9,12,6
+16-12-2020,Vadavalli,16,16,6,7
+23-12-2020,Gandhipuram,8,12,9,7
+23-12-2020,RS Puram,11,8,6,6
+23-12-2020,Saibaba Colony,7,15,6,4
+23-12-2020,Peelamedu,11,6,10,12
+23-12-2020,Singanallur,12,12,12,9
+23-12-2020,Saravanampatti,16,22,25,10
+23-12-2020,Race Course,13,20,9,6
+23-12-2020,Ukkadam,5,9,6,6
+23-12-2020,Town Hall,6,7,2,4
+23-12-2020,Kuniyamuthur,6,8,13,10
+23-12-2020,Sundarapuram,12,20,12,3
+23-12-2020,Podanur,3,6,5,3
+23-12-2020,Thudiyalur,7,9,10,3
+23-12-2020,Vadakovai,14,13,7,9
+23-12-2020,Ganapathy,19,23,19,7
+23-12-2020,Kalapatti,25,15,23,13
+23-12-2020,Kovaipudur,7,10,8,10
+23-12-2020,Selvapuram,4,13,9,6
+23-12-2020,Kurichi,7,15,12,8
+23-12-2020,Vadavalli,22,21,11,9
+30-12-2020,Gandhipuram,15,12,8,7
+30-12-2020,RS Puram,9,4,4,2
+30-12-2020,Saibaba Colony,12,15,5,3
+30-12-2020,Peelamedu,5,13,8,5
+30-12-2020,Singanallur,17,23,16,7
+30-12-2020,Saravanampatti,22,12,10,4
+30-12-2020,Race Course,2,15,9,10
+30-12-2020,Ukkadam,8,10,10,6
+30-12-2020,Town Hall,5,8,9,5
+30-12-2020,Kuniyamuthur,10,11,12,9
+30-12-2020,Sundarapuram,9,25,10,7
+30-12-2020,Podanur,9,10,6,6
+30-12-2020,Thudiyalur,6,9,9,7
+30-12-2020,Vadakovai,6,8,3,5
+30-12-2020,Ganapathy,12,9,22,11
+30-12-2020,Kalapatti,11,34,14,13
+30-12-2020,Kovaipudur,10,16,9,9
+30-12-2020,Selvapuram,7,16,11,3
+30-12-2020,Kurichi,10,14,7,3
+30-12-2020,Vadavalli,12,11,17,9
+06-01-2021,Gandhipuram,9,19,17,11
+06-01-2021,RS Puram,6,12,6,5
+06-01-2021,Saibaba Colony,16,12,14,8
+06-01-2021,Peelamedu,5,4,7,5
+06-01-2021,Singanallur,12,7,10,6
+06-01-2021,Saravanampatti,11,17,14,10
+06-01-2021,Race Course,9,15,7,5
+06-01-2021,Ukkadam,11,11,6,3
+06-01-2021,Town Hall,2,9,10,4
+06-01-2021,Kuniyamuthur,6,12,6,3
+06-01-2021,Sundarapuram,7,14,6,4
+06-01-2021,Podanur,5,4,4,1
+06-01-2021,Thudiyalur,14,9,6,8
+06-01-2021,Vadakovai,9,11,5,8
+06-01-2021,Ganapathy,13,24,12,11
+06-01-2021,Kalapatti,25,19,17,15
+06-01-2021,Kovaipudur,10,10,11,6
+06-01-2021,Selvapuram,7,12,6,4
+06-01-2021,Kurichi,11,8,8,1
+06-01-2021,Vadavalli,14,19,14,13
+13-01-2021,Gandhipuram,17,12,11,7
+13-01-2021,RS Puram,5,6,6,1
+13-01-2021,Saibaba Colony,8,10,12,4
+13-01-2021,Peelamedu,7,9,8,4
+13-01-2021,Singanallur,11,11,22,8
+13-01-2021,Saravanampatti,16,20,20,13
+13-01-2021,Race Course,16,14,10,6
+13-01-2021,Ukkadam,12,7,8,7
+13-01-2021,Town Hall,7,8,7,0
+13-01-2021,Kuniyamuthur,6,9,14,6
+13-01-2021,Sundarapuram,13,12,11,8
+13-01-2021,Podanur,6,6,5,2
+13-01-2021,Thudiyalur,8,7,8,2
+13-01-2021,Vadakovai,9,15,18,5
+13-01-2021,Ganapathy,12,12,18,6
+13-01-2021,Kalapatti,21,23,20,20
+13-01-2021,Kovaipudur,9,5,6,5
+13-01-2021,Selvapuram,10,8,5,7
+13-01-2021,Kurichi,10,7,7,6
+13-01-2021,Vadavalli,18,18,11,11
+20-01-2021,Gandhipuram,5,18,10,14
+20-01-2021,RS Puram,5,8,9,7
+20-01-2021,Saibaba Colony,11,23,11,7
+20-01-2021,Peelamedu,5,10,5,9
+20-01-2021,Singanallur,12,21,17,7
+20-01-2021,Saravanampatti,27,27,15,28
+20-01-2021,Race Course,6,10,9,6
+20-01-2021,Ukkadam,9,17,5,6
+20-01-2021,Town Hall,7,8,9,1
+20-01-2021,Kuniyamuthur,10,4,6,7
+20-01-2021,Sundarapuram,11,18,4,8
+20-01-2021,Podanur,5,5,1,3
+20-01-2021,Thudiyalur,8,12,6,5
+20-01-2021,Vadakovai,15,12,11,5
+20-01-2021,Ganapathy,17,23,16,4
+20-01-2021,Kalapatti,26,15,21,9
+20-01-2021,Kovaipudur,11,17,6,6
+20-01-2021,Selvapuram,6,10,6,7
+20-01-2021,Kurichi,7,18,9,4
+20-01-2021,Vadavalli,12,30,13,10
+27-01-2021,Gandhipuram,18,18,10,4
+27-01-2021,RS Puram,2,4,3,3
+27-01-2021,Saibaba Colony,16,19,11,9
+27-01-2021,Peelamedu,13,8,6,3
+27-01-2021,Singanallur,10,17,20,10
+27-01-2021,Saravanampatti,16,24,24,12
+27-01-2021,Race Course,8,10,7,14
+27-01-2021,Ukkadam,5,15,10,2
+27-01-2021,Town Hall,4,7,7,2
+27-01-2021,Kuniyamuthur,7,12,4,3
+27-01-2021,Sundarapuram,10,12,10,6
+27-01-2021,Podanur,2,3,2,3
+27-01-2021,Thudiyalur,8,7,4,3
+27-01-2021,Vadakovai,8,7,8,9
+27-01-2021,Ganapathy,15,17,19,7
+27-01-2021,Kalapatti,25,22,16,20
+27-01-2021,Kovaipudur,11,14,11,10
+27-01-2021,Selvapuram,4,8,11,4
+27-01-2021,Kurichi,14,10,10,5
+27-01-2021,Vadavalli,17,12,17,13
+03-02-2021,Gandhipuram,8,13,9,5
+03-02-2021,RS Puram,5,9,3,8
+03-02-2021,Saibaba Colony,14,11,10,3
+03-02-2021,Peelamedu,11,15,10,8
+03-02-2021,Singanallur,5,9,11,14
+03-02-2021,Saravanampatti,25,18,16,8
+03-02-2021,Race Course,7,10,7,4
+03-02-2021,Ukkadam,8,8,11,6
+03-02-2021,Town Hall,8,1,5,3
+03-02-2021,Kuniyamuthur,4,4,7,3
+03-02-2021,Sundarapuram,5,11,13,6
+03-02-2021,Podanur,5,4,3,1
+03-02-2021,Thudiyalur,15,11,10,6
+03-02-2021,Vadakovai,9,16,13,8
+03-02-2021,Ganapathy,15,26,9,11
+03-02-2021,Kalapatti,15,22,15,14
+03-02-2021,Kovaipudur,16,13,9,9
+03-02-2021,Selvapuram,9,10,5,5
+03-02-2021,Kurichi,9,15,8,4
+03-02-2021,Vadavalli,14,13,15,8
+10-02-2021,Gandhipuram,9,11,13,7
+10-02-2021,RS Puram,8,8,5,8
+10-02-2021,Saibaba Colony,8,13,13,6
+10-02-2021,Peelamedu,8,12,6,6
+10-02-2021,Singanallur,13,10,12,8
+10-02-2021,Saravanampatti,10,25,14,11
+10-02-2021,Race Course,10,13,5,3
+10-02-2021,Ukkadam,7,10,1,2
+10-02-2021,Town Hall,5,9,5,3
+10-02-2021,Kuniyamuthur,13,12,6,5
+10-02-2021,Sundarapuram,14,15,11,5
+10-02-2021,Podanur,8,6,2,4
+10-02-2021,Thudiyalur,9,11,10,3
+10-02-2021,Vadakovai,6,9,5,5
+10-02-2021,Ganapathy,16,27,18,13
+10-02-2021,Kalapatti,21,20,11,16
+10-02-2021,Kovaipudur,1,9,2,5
+10-02-2021,Selvapuram,4,9,2,0
+10-02-2021,Kurichi,8,14,5,8
+10-02-2021,Vadavalli,7,26,18,8
+17-02-2021,Gandhipuram,9,8,9,9
+17-02-2021,RS Puram,7,6,4,6
+17-02-2021,Saibaba Colony,13,9,7,8
+17-02-2021,Peelamedu,9,12,6,8
+17-02-2021,Singanallur,13,18,14,12
+17-02-2021,Saravanampatti,20,19,22,10
+17-02-2021,Race Course,12,18,6,6
+17-02-2021,Ukkadam,5,11,4,3
+17-02-2021,Town Hall,4,11,7,7
+17-02-2021,Kuniyamuthur,6,16,10,8
+17-02-2021,Sundarapuram,14,12,11,9
+17-02-2021,Podanur,4,6,4,1
+17-02-2021,Thudiyalur,8,2,9,2
+17-02-2021,Vadakovai,19,20,7,6
+17-02-2021,Ganapathy,19,15,11,8
+17-02-2021,Kalapatti,22,28,19,12
+17-02-2021,Kovaipudur,14,16,13,5
+17-02-2021,Selvapuram,19,14,9,5
+17-02-2021,Kurichi,12,2,5,3
+17-02-2021,Vadavalli,12,21,13,14
+24-02-2021,Gandhipuram,9,9,10,7
+24-02-2021,RS Puram,4,6,5,0
+24-02-2021,Saibaba Colony,9,12,5,14
+24-02-2021,Peelamedu,6,5,6,8
+24-02-2021,Singanallur,12,18,9,10
+24-02-2021,Saravanampatti,11,39,20,8
+24-02-2021,Race Course,13,13,15,12
+24-02-2021,Ukkadam,7,11,6,5
+24-02-2021,Town Hall,7,13,7,3
+24-02-2021,Kuniyamuthur,7,14,9,7
+24-02-2021,Sundarapuram,8,15,11,7
+24-02-2021,Podanur,5,5,5,1
+24-02-2021,Thudiyalur,10,8,7,3
+24-02-2021,Vadakovai,9,14,11,11
+24-02-2021,Ganapathy,11,25,10,10
+24-02-2021,Kalapatti,12,17,16,10
+24-02-2021,Kovaipudur,8,13,5,6
+24-02-2021,Selvapuram,16,11,10,3
+24-02-2021,Kurichi,6,6,18,1
+24-02-2021,Vadavalli,12,21,6,6
+03-03-2021,Gandhipuram,8,16,6,6
+03-03-2021,RS Puram,9,11,3,5
+03-03-2021,Saibaba Colony,13,11,9,8
+03-03-2021,Peelamedu,6,6,10,5
+03-03-2021,Singanallur,10,20,10,7
+03-03-2021,Saravanampatti,13,15,12,9
+03-03-2021,Race Course,11,10,9,7
+03-03-2021,Ukkadam,5,6,5,5
+03-03-2021,Town Hall,4,8,6,4
+03-03-2021,Kuniyamuthur,8,15,3,4
+03-03-2021,Sundarapuram,10,17,24,12
+03-03-2021,Podanur,6,4,4,3
+03-03-2021,Thudiyalur,6,6,6,4
+03-03-2021,Vadakovai,9,9,11,6
+03-03-2021,Ganapathy,15,28,13,10
+03-03-2021,Kalapatti,22,28,16,8
+03-03-2021,Kovaipudur,6,11,6,6
+03-03-2021,Selvapuram,6,6,7,10
+03-03-2021,Kurichi,6,12,5,4
+03-03-2021,Vadavalli,12,15,16,12
+10-03-2021,Gandhipuram,11,12,4,3
+10-03-2021,RS Puram,6,9,1,3
+10-03-2021,Saibaba Colony,7,21,12,7
+10-03-2021,Peelamedu,10,14,8,6
+10-03-2021,Singanallur,11,12,12,12
+10-03-2021,Saravanampatti,18,16,14,10
+10-03-2021,Race Course,8,18,11,4
+10-03-2021,Ukkadam,4,6,9,3
+10-03-2021,Town Hall,11,2,7,2
+10-03-2021,Kuniyamuthur,13,14,12,10
+10-03-2021,Sundarapuram,9,21,16,12
+10-03-2021,Podanur,8,7,10,5
+10-03-2021,Thudiyalur,7,14,8,4
+10-03-2021,Vadakovai,11,14,12,7
+10-03-2021,Ganapathy,23,17,16,17
+10-03-2021,Kalapatti,9,22,11,8
+10-03-2021,Kovaipudur,4,10,7,7
+10-03-2021,Selvapuram,6,13,12,3
+10-03-2021,Kurichi,8,7,8,3
+10-03-2021,Vadavalli,11,14,21,16
+17-03-2021,Gandhipuram,10,5,8,2
+17-03-2021,RS Puram,5,11,3,1
+17-03-2021,Saibaba Colony,5,10,12,4
+17-03-2021,Peelamedu,10,8,8,7
+17-03-2021,Singanallur,13,17,10,9
+17-03-2021,Saravanampatti,13,26,15,8
+17-03-2021,Race Course,7,17,12,7
+17-03-2021,Ukkadam,4,10,8,5
+17-03-2021,Town Hall,6,5,6,0
+17-03-2021,Kuniyamuthur,8,13,12,9
+17-03-2021,Sundarapuram,5,14,9,13
+17-03-2021,Podanur,8,7,5,3
+17-03-2021,Thudiyalur,6,11,12,6
+17-03-2021,Vadakovai,5,17,9,10
+17-03-2021,Ganapathy,12,21,13,7
+17-03-2021,Kalapatti,12,27,24,17
+17-03-2021,Kovaipudur,8,5,10,9
+17-03-2021,Selvapuram,5,5,11,10
+17-03-2021,Kurichi,6,9,3,7
+17-03-2021,Vadavalli,11,14,14,7
+24-03-2021,Gandhipuram,9,9,6,6
+24-03-2021,RS Puram,10,10,7,5
+24-03-2021,Saibaba Colony,12,14,9,6
+24-03-2021,Peelamedu,7,12,9,3
+24-03-2021,Singanallur,11,11,13,13
+24-03-2021,Saravanampatti,22,27,11,12
+24-03-2021,Race Course,14,14,13,6
+24-03-2021,Ukkadam,11,7,8,5
+24-03-2021,Town Hall,4,8,6,7
+24-03-2021,Kuniyamuthur,10,16,11,4
+24-03-2021,Sundarapuram,12,15,12,9
+24-03-2021,Podanur,7,9,2,5
+24-03-2021,Thudiyalur,10,17,7,9
+24-03-2021,Vadakovai,9,15,8,10
+24-03-2021,Ganapathy,20,27,19,10
+24-03-2021,Kalapatti,14,28,18,16
+24-03-2021,Kovaipudur,7,12,14,7
+24-03-2021,Selvapuram,7,10,8,3
+24-03-2021,Kurichi,10,6,10,6
+24-03-2021,Vadavalli,18,23,13,9
+31-03-2021,Gandhipuram,17,15,8,10
+31-03-2021,RS Puram,8,6,4,3
+31-03-2021,Saibaba Colony,11,12,9,11
+31-03-2021,Peelamedu,9,8,7,5
+31-03-2021,Singanallur,7,12,8,7
+31-03-2021,Saravanampatti,12,20,13,9
+31-03-2021,Race Course,9,17,11,11
+31-03-2021,Ukkadam,7,12,10,10
+31-03-2021,Town Hall,7,12,4,7
+31-03-2021,Kuniyamuthur,17,17,11,5
+31-03-2021,Sundarapuram,13,15,15,12
+31-03-2021,Podanur,5,4,4,4
+31-03-2021,Thudiyalur,7,12,8,7
+31-03-2021,Vadakovai,8,18,9,6
+31-03-2021,Ganapathy,15,16,16,12
+31-03-2021,Kalapatti,13,15,15,9
+31-03-2021,Kovaipudur,12,16,4,15
+31-03-2021,Selvapuram,8,16,6,6
+31-03-2021,Kurichi,8,11,10,9
+31-03-2021,Vadavalli,6,18,11,3
+07-04-2021,Gandhipuram,6,10,6,4
+07-04-2021,RS Puram,4,7,7,4
+07-04-2021,Saibaba Colony,16,17,10,9
+07-04-2021,Peelamedu,8,10,11,5
+07-04-2021,Singanallur,14,19,10,14
+07-04-2021,Saravanampatti,25,31,15,12
+07-04-2021,Race Course,13,18,16,10
+07-04-2021,Ukkadam,11,11,10,5
+07-04-2021,Town Hall,6,8,11,4
+07-04-2021,Kuniyamuthur,9,6,6,3
+07-04-2021,Sundarapuram,11,16,8,10
+07-04-2021,Podanur,5,9,6,1
+07-04-2021,Thudiyalur,10,13,5,5
+07-04-2021,Vadakovai,17,13,18,6
+07-04-2021,Ganapathy,24,17,14,9
+07-04-2021,Kalapatti,24,25,11,14
+07-04-2021,Kovaipudur,8,19,5,3
+07-04-2021,Selvapuram,8,9,3,6
+07-04-2021,Kurichi,10,11,4,5
+07-04-2021,Vadavalli,11,15,24,9
+14-04-2021,Gandhipuram,14,16,13,8
+14-04-2021,RS Puram,5,10,6,3
+14-04-2021,Saibaba Colony,13,15,11,8
+14-04-2021,Peelamedu,2,8,4,3
+14-04-2021,Singanallur,11,17,10,10
+14-04-2021,Saravanampatti,23,18,15,15
+14-04-2021,Race Course,6,10,10,8
+14-04-2021,Ukkadam,10,8,4,6
+14-04-2021,Town Hall,7,5,5,3
+14-04-2021,Kuniyamuthur,8,8,1,5
+14-04-2021,Sundarapuram,15,24,11,9
+14-04-2021,Podanur,5,1,3,2
+14-04-2021,Thudiyalur,8,16,8,5
+14-04-2021,Vadakovai,13,21,16,6
+14-04-2021,Ganapathy,15,10,17,17
+14-04-2021,Kalapatti,24,27,19,9
+14-04-2021,Kovaipudur,9,12,8,12
+14-04-2021,Selvapuram,4,9,6,2
+14-04-2021,Kurichi,8,7,7,4
+14-04-2021,Vadavalli,17,19,12,12
+21-04-2021,Gandhipuram,9,11,12,4
+21-04-2021,RS Puram,11,7,9,4
+21-04-2021,Saibaba Colony,16,20,10,10
+21-04-2021,Peelamedu,6,12,7,4
+21-04-2021,Singanallur,10,12,6,6
+21-04-2021,Saravanampatti,23,23,24,11
+21-04-2021,Race Course,4,12,6,2
+21-04-2021,Ukkadam,10,9,10,7
+21-04-2021,Town Hall,7,6,7,6
+21-04-2021,Kuniyamuthur,12,12,11,6
+21-04-2021,Sundarapuram,12,14,12,8
+21-04-2021,Podanur,3,3,5,2
+21-04-2021,Thudiyalur,8,9,8,2
+21-04-2021,Vadakovai,12,7,8,10
+21-04-2021,Ganapathy,15,15,12,6
+21-04-2021,Kalapatti,22,30,19,24
+21-04-2021,Kovaipudur,16,17,5,8
+21-04-2021,Selvapuram,6,3,12,8
+21-04-2021,Kurichi,9,11,5,6
+21-04-2021,Vadavalli,16,17,15,9
+28-04-2021,Gandhipuram,11,17,16,9
+28-04-2021,RS Puram,6,5,4,3
+28-04-2021,Saibaba Colony,6,22,12,7
+28-04-2021,Peelamedu,3,13,1,2
+28-04-2021,Singanallur,11,18,11,5
+28-04-2021,Saravanampatti,17,15,25,16
+28-04-2021,Race Course,9,16,9,7
+28-04-2021,Ukkadam,7,9,5,8
+28-04-2021,Town Hall,8,8,9,1
+28-04-2021,Kuniyamuthur,11,16,8,4
+28-04-2021,Sundarapuram,14,13,14,8
+28-04-2021,Podanur,1,6,4,0
+28-04-2021,Thudiyalur,8,11,11,10
+28-04-2021,Vadakovai,3,11,10,10
+28-04-2021,Ganapathy,16,21,15,13
+28-04-2021,Kalapatti,18,27,21,11
+28-04-2021,Kovaipudur,6,10,8,5
+28-04-2021,Selvapuram,9,11,5,1
+28-04-2021,Kurichi,9,10,4,5
+28-04-2021,Vadavalli,22,14,13,7
+05-05-2021,Gandhipuram,8,13,14,8
+05-05-2021,RS Puram,6,6,4,5
+05-05-2021,Saibaba Colony,12,14,13,6
+05-05-2021,Peelamedu,8,14,11,4
+05-05-2021,Singanallur,17,17,36,8
+05-05-2021,Saravanampatti,31,31,26,17
+05-05-2021,Race Course,3,10,16,7
+05-05-2021,Ukkadam,10,14,14,4
+05-05-2021,Town Hall,4,13,8,7
+05-05-2021,Kuniyamuthur,6,13,7,4
+05-05-2021,Sundarapuram,12,18,18,4
+05-05-2021,Podanur,3,8,7,0
+05-05-2021,Thudiyalur,10,9,15,6
+05-05-2021,Vadakovai,12,9,14,4
+05-05-2021,Ganapathy,12,21,20,14
+05-05-2021,Kalapatti,30,29,33,12
+05-05-2021,Kovaipudur,6,10,10,3
+05-05-2021,Selvapuram,8,11,9,6
+05-05-2021,Kurichi,8,11,11,7
+05-05-2021,Vadavalli,11,19,18,13
+12-05-2021,Gandhipuram,22,16,14,9
+12-05-2021,RS Puram,4,6,7,6
+12-05-2021,Saibaba Colony,10,12,18,7
+12-05-2021,Peelamedu,6,4,8,3
+12-05-2021,Singanallur,11,16,16,12
+12-05-2021,Saravanampatti,26,26,30,21
+12-05-2021,Race Course,4,17,23,8
+12-05-2021,Ukkadam,7,12,8,4
+12-05-2021,Town Hall,5,8,3,0
+12-05-2021,Kuniyamuthur,4,7,4,2
+12-05-2021,Sundarapuram,6,24,21,4
+12-05-2021,Podanur,8,5,6,1
+12-05-2021,Thudiyalur,12,13,8,5
+12-05-2021,Vadakovai,20,9,11,11
+12-05-2021,Ganapathy,14,17,17,8
+12-05-2021,Kalapatti,22,23,18,12
+12-05-2021,Kovaipudur,5,12,18,5
+12-05-2021,Selvapuram,11,6,15,5
+12-05-2021,Kurichi,9,9,12,8
+12-05-2021,Vadavalli,10,9,13,4
+19-05-2021,Gandhipuram,8,6,12,6
+19-05-2021,RS Puram,9,9,12,9
+19-05-2021,Saibaba Colony,5,12,12,8
+19-05-2021,Peelamedu,8,17,19,7
+19-05-2021,Singanallur,13,13,34,15
+19-05-2021,Saravanampatti,8,22,23,9
+19-05-2021,Race Course,9,11,9,10
+19-05-2021,Ukkadam,8,10,9,7
+19-05-2021,Town Hall,6,7,11,4
+19-05-2021,Kuniyamuthur,11,11,10,3
+19-05-2021,Sundarapuram,13,11,15,11
+19-05-2021,Podanur,5,6,6,5
+19-05-2021,Thudiyalur,4,9,5,5
+19-05-2021,Vadakovai,9,11,13,5
+19-05-2021,Ganapathy,6,21,25,5
+19-05-2021,Kalapatti,22,22,26,18
+19-05-2021,Kovaipudur,11,7,13,6
+19-05-2021,Selvapuram,4,13,13,3
+19-05-2021,Kurichi,9,12,19,7
+19-05-2021,Vadavalli,9,9,21,12
+26-05-2021,Gandhipuram,9,21,17,8
+26-05-2021,RS Puram,5,5,10,7
+26-05-2021,Saibaba Colony,11,11,11,10
+26-05-2021,Peelamedu,11,13,7,4
+26-05-2021,Singanallur,18,18,21,14
+26-05-2021,Saravanampatti,17,15,24,9
+26-05-2021,Race Course,14,11,11,11
+26-05-2021,Ukkadam,8,6,9,3
+26-05-2021,Town Hall,12,6,11,6
+26-05-2021,Kuniyamuthur,10,13,6,8
+26-05-2021,Sundarapuram,10,13,21,11
+26-05-2021,Podanur,9,7,9,4
+26-05-2021,Thudiyalur,10,9,12,9
+26-05-2021,Vadakovai,14,17,15,13
+26-05-2021,Ganapathy,26,25,25,10
+26-05-2021,Kalapatti,18,29,31,18
+26-05-2021,Kovaipudur,12,10,20,4
+26-05-2021,Selvapuram,7,4,9,3
+26-05-2021,Kurichi,16,8,11,9
+26-05-2021,Vadavalli,14,20,15,10
+02-06-2021,Gandhipuram,13,20,16,6
+02-06-2021,RS Puram,12,13,7,4
+02-06-2021,Saibaba Colony,9,15,16,13
+02-06-2021,Peelamedu,12,12,12,10
+02-06-2021,Singanallur,31,17,26,10
+02-06-2021,Saravanampatti,35,25,25,17
+02-06-2021,Race Course,9,24,11,4
+02-06-2021,Ukkadam,14,10,14,12
+02-06-2021,Town Hall,10,10,16,5
+02-06-2021,Kuniyamuthur,7,12,9,11
+02-06-2021,Sundarapuram,17,20,23,9
+02-06-2021,Podanur,11,6,7,3
+02-06-2021,Thudiyalur,8,7,17,9
+02-06-2021,Vadakovai,15,15,13,20
+02-06-2021,Ganapathy,23,15,25,16
+02-06-2021,Kalapatti,35,31,25,8
+02-06-2021,Kovaipudur,14,22,10,9
+02-06-2021,Selvapuram,11,14,13,9
+02-06-2021,Kurichi,17,11,11,7
+02-06-2021,Vadavalli,28,22,31,9
+09-06-2021,Gandhipuram,18,17,12,8
+09-06-2021,RS Puram,9,5,7,1
+09-06-2021,Saibaba Colony,17,14,21,4
+09-06-2021,Peelamedu,17,10,9,10
+09-06-2021,Singanallur,24,21,22,15
+09-06-2021,Saravanampatti,35,16,35,15
+09-06-2021,Race Course,15,14,17,16
+09-06-2021,Ukkadam,22,12,11,9
+09-06-2021,Town Hall,9,7,8,7
+09-06-2021,Kuniyamuthur,12,12,17,7
+09-06-2021,Sundarapuram,16,17,22,7
+09-06-2021,Podanur,8,8,10,1
+09-06-2021,Thudiyalur,13,12,18,5
+09-06-2021,Vadakovai,11,19,16,4
+09-06-2021,Ganapathy,32,23,17,11
+09-06-2021,Kalapatti,27,30,33,15
+09-06-2021,Kovaipudur,21,16,14,8
+09-06-2021,Selvapuram,19,14,9,5
+09-06-2021,Kurichi,16,20,13,3
+09-06-2021,Vadavalli,18,21,18,6
+16-06-2021,Gandhipuram,31,17,15,6
+16-06-2021,RS Puram,11,12,14,5
+16-06-2021,Saibaba Colony,18,10,17,8
+16-06-2021,Peelamedu,11,14,10,3
+16-06-2021,Singanallur,21,20,21,10
+16-06-2021,Saravanampatti,34,37,39,21
+16-06-2021,Race Course,15,17,15,10
+16-06-2021,Ukkadam,8,12,5,5
+16-06-2021,Town Hall,7,14,8,9
+16-06-2021,Kuniyamuthur,15,11,14,8
+16-06-2021,Sundarapuram,24,12,18,7
+16-06-2021,Podanur,12,7,8,1
+16-06-2021,Thudiyalur,13,7,17,8
+16-06-2021,Vadakovai,13,16,19,15
+16-06-2021,Ganapathy,25,12,27,15
+16-06-2021,Kalapatti,29,34,31,16
+16-06-2021,Kovaipudur,17,11,22,4
+16-06-2021,Selvapuram,15,13,19,6
+16-06-2021,Kurichi,13,18,14,5
+16-06-2021,Vadavalli,33,16,21,13
+23-06-2021,Gandhipuram,29,15,14,8
+23-06-2021,RS Puram,10,9,11,4
+23-06-2021,Saibaba Colony,18,14,16,11
+23-06-2021,Peelamedu,19,12,11,7
+23-06-2021,Singanallur,18,22,27,17
+23-06-2021,Saravanampatti,23,27,26,14
+23-06-2021,Race Course,11,17,10,6
+23-06-2021,Ukkadam,13,11,12,5
+23-06-2021,Town Hall,9,6,9,9
+23-06-2021,Kuniyamuthur,23,9,16,11
+23-06-2021,Sundarapuram,20,17,11,11
+23-06-2021,Podanur,10,6,7,4
+23-06-2021,Thudiyalur,20,15,6,4
+23-06-2021,Vadakovai,20,12,10,8
+23-06-2021,Ganapathy,22,24,23,12
+23-06-2021,Kalapatti,37,30,29,12
+23-06-2021,Kovaipudur,17,11,17,6
+23-06-2021,Selvapuram,9,7,11,7
+23-06-2021,Kurichi,15,15,8,8
+23-06-2021,Vadavalli,22,27,19,18
+30-06-2021,Gandhipuram,13,15,14,11
+30-06-2021,RS Puram,9,6,9,4
+30-06-2021,Saibaba Colony,21,13,16,9
+30-06-2021,Peelamedu,16,11,13,8
+30-06-2021,Singanallur,20,26,29,6
+30-06-2021,Saravanampatti,39,26,19,19
+30-06-2021,Race Course,11,22,21,15
+30-06-2021,Ukkadam,8,11,15,5
+30-06-2021,Town Hall,6,9,18,6
+30-06-2021,Kuniyamuthur,14,15,14,9
+30-06-2021,Sundarapuram,21,16,18,4
+30-06-2021,Podanur,9,4,5,0
+30-06-2021,Thudiyalur,13,9,12,11
+30-06-2021,Vadakovai,11,15,15,13
+30-06-2021,Ganapathy,20,18,25,9
+30-06-2021,Kalapatti,27,27,31,21
+30-06-2021,Kovaipudur,16,18,14,10
+30-06-2021,Selvapuram,14,10,13,8
+30-06-2021,Kurichi,18,11,9,8
+30-06-2021,Vadavalli,23,13,21,12
+07-07-2021,Gandhipuram,23,16,15,8
+07-07-2021,RS Puram,14,11,10,2
+07-07-2021,Saibaba Colony,11,14,26,5
+07-07-2021,Peelamedu,18,25,16,8
+07-07-2021,Singanallur,19,30,20,8
+07-07-2021,Saravanampatti,37,36,18,10
+07-07-2021,Race Course,17,28,14,9
+07-07-2021,Ukkadam,18,11,10,5
+07-07-2021,Town Hall,12,13,12,2
+07-07-2021,Kuniyamuthur,15,15,12,5
+07-07-2021,Sundarapuram,27,19,17,11
+07-07-2021,Podanur,12,14,4,5
+07-07-2021,Thudiyalur,11,18,19,9
+07-07-2021,Vadakovai,15,20,11,7
+07-07-2021,Ganapathy,24,32,26,10
+07-07-2021,Kalapatti,31,34,35,19
+07-07-2021,Kovaipudur,12,28,17,8
+07-07-2021,Selvapuram,21,15,6,10
+07-07-2021,Kurichi,18,14,13,9
+07-07-2021,Vadavalli,24,30,27,11
+14-07-2021,Gandhipuram,15,25,14,7
+14-07-2021,RS Puram,14,14,6,4
+14-07-2021,Saibaba Colony,14,15,13,7
+14-07-2021,Peelamedu,15,13,14,7
+14-07-2021,Singanallur,19,27,17,6
+14-07-2021,Saravanampatti,21,36,24,13
+14-07-2021,Race Course,25,24,23,10
+14-07-2021,Ukkadam,15,25,9,5
+14-07-2021,Town Hall,12,15,13,4
+14-07-2021,Kuniyamuthur,15,23,7,9
+14-07-2021,Sundarapuram,14,17,14,10
+14-07-2021,Podanur,13,7,6,5
+14-07-2021,Thudiyalur,13,20,14,7
+14-07-2021,Vadakovai,15,25,22,8
+14-07-2021,Ganapathy,22,39,16,13
+14-07-2021,Kalapatti,36,34,29,18
+14-07-2021,Kovaipudur,16,15,7,7
+14-07-2021,Selvapuram,16,24,13,7
+14-07-2021,Kurichi,14,23,12,8
+14-07-2021,Vadavalli,26,33,16,11
+21-07-2021,Gandhipuram,21,30,12,11
+21-07-2021,RS Puram,19,13,9,3
+21-07-2021,Saibaba Colony,18,24,18,11
+21-07-2021,Peelamedu,13,23,14,2
+21-07-2021,Singanallur,20,32,21,9
+21-07-2021,Saravanampatti,32,39,19,22
+21-07-2021,Race Course,16,21,23,10
+21-07-2021,Ukkadam,11,13,10,4
+21-07-2021,Town Hall,21,20,7,5
+21-07-2021,Kuniyamuthur,20,24,10,6
+21-07-2021,Sundarapuram,25,20,9,4
+21-07-2021,Podanur,8,12,5,6
+21-07-2021,Thudiyalur,12,12,12,7
+21-07-2021,Vadakovai,16,19,7,6
+21-07-2021,Ganapathy,24,34,24,12
+21-07-2021,Kalapatti,33,44,36,16
+21-07-2021,Kovaipudur,21,18,11,11
+21-07-2021,Selvapuram,17,23,23,7
+21-07-2021,Kurichi,8,16,13,10
+21-07-2021,Vadavalli,26,32,24,9
+28-07-2021,Gandhipuram,11,26,13,4
+28-07-2021,RS Puram,7,11,9,3
+28-07-2021,Saibaba Colony,18,24,18,13
+28-07-2021,Peelamedu,17,21,15,8
+28-07-2021,Singanallur,17,35,26,10
+28-07-2021,Saravanampatti,28,29,33,14
+28-07-2021,Race Course,20,27,22,12
+28-07-2021,Ukkadam,7,21,18,7
+28-07-2021,Town Hall,12,18,16,5
+28-07-2021,Kuniyamuthur,11,20,10,13
+28-07-2021,Sundarapuram,22,19,15,8
+28-07-2021,Podanur,7,13,16,4
+28-07-2021,Thudiyalur,15,20,10,5
+28-07-2021,Vadakovai,16,24,20,8
+28-07-2021,Ganapathy,32,30,24,13
+28-07-2021,Kalapatti,36,35,28,20
+28-07-2021,Kovaipudur,21,20,21,12
+28-07-2021,Selvapuram,13,25,14,10
+28-07-2021,Kurichi,13,18,14,8
+28-07-2021,Vadavalli,20,22,19,12
+04-08-2021,Gandhipuram,20,23,18,21
+04-08-2021,RS Puram,9,20,13,9
+04-08-2021,Saibaba Colony,15,26,19,11
+04-08-2021,Peelamedu,19,23,9,8
+04-08-2021,Singanallur,20,25,13,14
+04-08-2021,Saravanampatti,35,39,18,21
+04-08-2021,Race Course,20,18,16,15
+04-08-2021,Ukkadam,14,19,22,12
+04-08-2021,Town Hall,9,20,16,15
+04-08-2021,Kuniyamuthur,9,12,21,8
+04-08-2021,Sundarapuram,22,16,8,11
+04-08-2021,Podanur,6,11,6,6
+04-08-2021,Thudiyalur,12,22,10,12
+04-08-2021,Vadakovai,15,26,14,10
+04-08-2021,Ganapathy,27,33,21,15
+04-08-2021,Kalapatti,40,58,28,15
+04-08-2021,Kovaipudur,17,28,19,16
+04-08-2021,Selvapuram,19,16,11,10
+04-08-2021,Kurichi,9,21,14,11
+04-08-2021,Vadavalli,25,43,17,13
+11-08-2021,Gandhipuram,20,21,19,13
+11-08-2021,RS Puram,10,8,6,10
+11-08-2021,Saibaba Colony,14,22,20,8
+11-08-2021,Peelamedu,13,15,18,10
+11-08-2021,Singanallur,26,22,17,8
+11-08-2021,Saravanampatti,33,38,31,26
+11-08-2021,Race Course,15,22,19,13
+11-08-2021,Ukkadam,15,16,13,4
+11-08-2021,Town Hall,15,20,9,8
+11-08-2021,Kuniyamuthur,15,17,17,7
+11-08-2021,Sundarapuram,19,22,16,12
+11-08-2021,Podanur,10,5,8,2
+11-08-2021,Thudiyalur,13,13,8,9
+11-08-2021,Vadakovai,19,23,18,8
+11-08-2021,Ganapathy,26,35,22,14
+11-08-2021,Kalapatti,29,38,23,23
+11-08-2021,Kovaipudur,17,21,14,13
+11-08-2021,Selvapuram,13,13,12,5
+11-08-2021,Kurichi,11,10,15,15
+11-08-2021,Vadavalli,25,27,25,16
+18-08-2021,Gandhipuram,27,22,15,13
+18-08-2021,RS Puram,15,9,11,9
+18-08-2021,Saibaba Colony,13,17,16,13
+18-08-2021,Peelamedu,15,16,12,9
+18-08-2021,Singanallur,20,29,19,18
+18-08-2021,Saravanampatti,20,39,22,25
+18-08-2021,Race Course,20,20,21,10
+18-08-2021,Ukkadam,17,15,14,10
+18-08-2021,Town Hall,8,14,5,8
+18-08-2021,Kuniyamuthur,7,23,13,9
+18-08-2021,Sundarapuram,21,22,23,12
+18-08-2021,Podanur,12,11,10,6
+18-08-2021,Thudiyalur,16,23,13,12
+18-08-2021,Vadakovai,22,38,26,12
+18-08-2021,Ganapathy,30,27,19,9
+18-08-2021,Kalapatti,38,44,24,13
+18-08-2021,Kovaipudur,22,20,26,6
+18-08-2021,Selvapuram,8,16,14,10
+18-08-2021,Kurichi,9,20,25,7
+18-08-2021,Vadavalli,19,39,17,20
+25-08-2021,Gandhipuram,14,29,20,12
+25-08-2021,RS Puram,5,17,12,10
+25-08-2021,Saibaba Colony,16,29,15,19
+25-08-2021,Peelamedu,14,11,10,5
+25-08-2021,Singanallur,24,34,25,22
+25-08-2021,Saravanampatti,29,40,28,19
+25-08-2021,Race Course,13,15,16,9
+25-08-2021,Ukkadam,17,19,14,16
+25-08-2021,Town Hall,18,8,11,8
+25-08-2021,Kuniyamuthur,7,18,12,8
+25-08-2021,Sundarapuram,18,29,22,16
+25-08-2021,Podanur,8,6,9,6
+25-08-2021,Thudiyalur,12,17,14,12
+25-08-2021,Vadakovai,18,15,14,14
+25-08-2021,Ganapathy,25,29,19,23
+25-08-2021,Kalapatti,34,38,34,25
+25-08-2021,Kovaipudur,17,22,14,17
+25-08-2021,Selvapuram,13,20,8,8
+25-08-2021,Kurichi,13,22,11,15
+25-08-2021,Vadavalli,30,30,26,13
+01-09-2021,Gandhipuram,15,22,7,10
+01-09-2021,RS Puram,8,17,8,4
+01-09-2021,Saibaba Colony,18,26,9,7
+01-09-2021,Peelamedu,14,20,10,17
+01-09-2021,Singanallur,26,36,12,11
+01-09-2021,Saravanampatti,26,43,16,22
+01-09-2021,Race Course,23,28,15,15
+01-09-2021,Ukkadam,12,14,9,10
+01-09-2021,Town Hall,5,13,4,7
+01-09-2021,Kuniyamuthur,21,26,14,9
+01-09-2021,Sundarapuram,13,26,7,19
+01-09-2021,Podanur,8,9,6,1
+01-09-2021,Thudiyalur,21,28,11,11
+01-09-2021,Vadakovai,19,17,11,9
+01-09-2021,Ganapathy,19,31,15,9
+01-09-2021,Kalapatti,37,42,19,23
+01-09-2021,Kovaipudur,20,19,11,6
+01-09-2021,Selvapuram,14,16,7,6
+01-09-2021,Kurichi,13,28,16,5
+01-09-2021,Vadavalli,29,29,13,13
+08-09-2021,Gandhipuram,22,16,9,24
+08-09-2021,RS Puram,13,12,8,7
+08-09-2021,Saibaba Colony,16,19,16,12
+08-09-2021,Peelamedu,9,12,6,13
+08-09-2021,Singanallur,29,27,12,20
+08-09-2021,Saravanampatti,27,44,18,22
+08-09-2021,Race Course,22,26,17,6
+08-09-2021,Ukkadam,10,20,10,8
+08-09-2021,Town Hall,12,14,6,8
+08-09-2021,Kuniyamuthur,11,29,9,6
+08-09-2021,Sundarapuram,23,28,9,17
+08-09-2021,Podanur,9,14,3,10
+08-09-2021,Thudiyalur,13,20,11,12
+08-09-2021,Vadakovai,12,21,7,16
+08-09-2021,Ganapathy,23,40,19,19
+08-09-2021,Kalapatti,38,56,19,28
+08-09-2021,Kovaipudur,13,16,16,11
+08-09-2021,Selvapuram,15,22,6,6
+08-09-2021,Kurichi,16,26,9,10
+08-09-2021,Vadavalli,22,41,17,18
+15-09-2021,Gandhipuram,16,20,4,14
+15-09-2021,RS Puram,14,11,8,8
+15-09-2021,Saibaba Colony,12,18,7,11
+15-09-2021,Peelamedu,17,20,17,6
+15-09-2021,Singanallur,21,30,11,15
+15-09-2021,Saravanampatti,31,40,17,15
+15-09-2021,Race Course,13,23,7,15
+15-09-2021,Ukkadam,19,18,8,8
+15-09-2021,Town Hall,5,12,9,13
+15-09-2021,Kuniyamuthur,11,19,6,4
+15-09-2021,Sundarapuram,21,29,5,15
+15-09-2021,Podanur,10,8,7,6
+15-09-2021,Thudiyalur,20,12,14,12
+15-09-2021,Vadakovai,23,15,14,12
+15-09-2021,Ganapathy,29,27,21,15
+15-09-2021,Kalapatti,36,41,16,21
+15-09-2021,Kovaipudur,19,17,20,12
+15-09-2021,Selvapuram,12,16,9,12
+15-09-2021,Kurichi,28,17,10,12
+15-09-2021,Vadavalli,25,26,18,20
+22-09-2021,Gandhipuram,22,21,13,12
+22-09-2021,RS Puram,14,14,8,9
+22-09-2021,Saibaba Colony,16,21,7,16
+22-09-2021,Peelamedu,18,17,8,9
+22-09-2021,Singanallur,15,37,15,15
+22-09-2021,Saravanampatti,29,35,12,24
+22-09-2021,Race Course,18,22,17,14
+22-09-2021,Ukkadam,19,8,5,11
+22-09-2021,Town Hall,11,19,8,8
+22-09-2021,Kuniyamuthur,20,19,7,11
+22-09-2021,Sundarapuram,22,22,7,11
+22-09-2021,Podanur,9,9,5,13
+22-09-2021,Thudiyalur,13,19,8,8
+22-09-2021,Vadakovai,15,26,8,12
+22-09-2021,Ganapathy,28,41,20,23
+22-09-2021,Kalapatti,40,48,19,24
+22-09-2021,Kovaipudur,13,30,9,12
+22-09-2021,Selvapuram,14,24,11,9
+22-09-2021,Kurichi,15,23,14,9
+22-09-2021,Vadavalli,17,34,20,11
+29-09-2021,Gandhipuram,16,25,21,5
+29-09-2021,RS Puram,13,15,5,5
+29-09-2021,Saibaba Colony,16,21,7,13
+29-09-2021,Peelamedu,15,27,11,8
+29-09-2021,Singanallur,18,33,13,17
+29-09-2021,Saravanampatti,40,35,23,17
+29-09-2021,Race Course,19,31,10,18
+29-09-2021,Ukkadam,17,20,7,5
+29-09-2021,Town Hall,7,15,6,5
+29-09-2021,Kuniyamuthur,8,19,9,12
+29-09-2021,Sundarapuram,14,21,13,17
+29-09-2021,Podanur,6,16,6,4
+29-09-2021,Thudiyalur,11,22,9,5
+29-09-2021,Vadakovai,15,14,13,12
+29-09-2021,Ganapathy,22,42,25,15
+29-09-2021,Kalapatti,36,49,25,35
+29-09-2021,Kovaipudur,17,14,9,10
+29-09-2021,Selvapuram,23,13,6,3
+29-09-2021,Kurichi,18,17,9,14
+29-09-2021,Vadavalli,30,25,14,15
+06-10-2021,Gandhipuram,9,25,12,18
+06-10-2021,RS Puram,10,13,10,11
+06-10-2021,Saibaba Colony,9,14,11,10
+06-10-2021,Peelamedu,12,16,8,9
+06-10-2021,Singanallur,12,34,12,10
+06-10-2021,Saravanampatti,15,47,15,27
+06-10-2021,Race Course,12,21,10,14
+06-10-2021,Ukkadam,10,15,7,12
+06-10-2021,Town Hall,10,13,8,6
+06-10-2021,Kuniyamuthur,9,16,7,9
+06-10-2021,Sundarapuram,8,22,9,11
+06-10-2021,Podanur,7,15,4,6
+06-10-2021,Thudiyalur,11,13,7,11
+06-10-2021,Vadakovai,12,25,13,7
+06-10-2021,Ganapathy,15,36,19,16
+06-10-2021,Kalapatti,26,46,22,24
+06-10-2021,Kovaipudur,13,20,8,12
+06-10-2021,Selvapuram,7,25,10,11
+06-10-2021,Kurichi,7,20,11,9
+06-10-2021,Vadavalli,16,25,14,14
+13-10-2021,Gandhipuram,20,20,12,23
+13-10-2021,RS Puram,4,14,6,6
+13-10-2021,Saibaba Colony,7,28,16,10
+13-10-2021,Peelamedu,6,19,7,8
+13-10-2021,Singanallur,17,27,9,19
+13-10-2021,Saravanampatti,21,45,18,21
+13-10-2021,Race Course,13,28,4,14
+13-10-2021,Ukkadam,12,15,13,5
+13-10-2021,Town Hall,7,7,7,5
+13-10-2021,Kuniyamuthur,9,22,10,10
+13-10-2021,Sundarapuram,12,17,6,10
+13-10-2021,Podanur,12,10,5,7
+13-10-2021,Thudiyalur,9,18,11,9
+13-10-2021,Vadakovai,20,25,15,14
+13-10-2021,Ganapathy,15,26,19,23
+13-10-2021,Kalapatti,23,46,24,29
+13-10-2021,Kovaipudur,8,20,14,7
+13-10-2021,Selvapuram,7,15,5,11
+13-10-2021,Kurichi,8,16,7,7
+13-10-2021,Vadavalli,17,27,16,17
+20-10-2021,Gandhipuram,9,19,11,7
+20-10-2021,RS Puram,8,12,8,9
+20-10-2021,Saibaba Colony,11,25,11,11
+20-10-2021,Peelamedu,9,20,7,5
+20-10-2021,Singanallur,9,31,15,20
+20-10-2021,Saravanampatti,20,49,22,26
+20-10-2021,Race Course,19,21,15,11
+20-10-2021,Ukkadam,9,23,3,6
+20-10-2021,Town Hall,6,16,7,8
+20-10-2021,Kuniyamuthur,7,20,13,6
+20-10-2021,Sundarapuram,13,23,11,17
+20-10-2021,Podanur,9,10,4,5
+20-10-2021,Thudiyalur,11,18,8,10
+20-10-2021,Vadakovai,9,25,11,6
+20-10-2021,Ganapathy,15,31,16,12
+20-10-2021,Kalapatti,23,36,21,17
+20-10-2021,Kovaipudur,8,16,11,12
+20-10-2021,Selvapuram,12,17,5,7
+20-10-2021,Kurichi,9,17,14,11
+20-10-2021,Vadavalli,17,32,15,21
+27-10-2021,Gandhipuram,8,24,15,15
+27-10-2021,RS Puram,9,15,4,10
+27-10-2021,Saibaba Colony,8,24,10,16
+27-10-2021,Peelamedu,12,24,8,10
+27-10-2021,Singanallur,14,20,9,13
+27-10-2021,Saravanampatti,22,36,18,24
+27-10-2021,Race Course,5,28,13,8
+27-10-2021,Ukkadam,10,18,9,7
+27-10-2021,Town Hall,7,15,6,8
+27-10-2021,Kuniyamuthur,7,27,12,14
+27-10-2021,Sundarapuram,17,17,6,14
+27-10-2021,Podanur,7,8,2,3
+27-10-2021,Thudiyalur,8,18,8,11
+27-10-2021,Vadakovai,9,26,17,15
+27-10-2021,Ganapathy,21,36,17,17
+27-10-2021,Kalapatti,32,29,20,15
+27-10-2021,Kovaipudur,9,16,13,12
+27-10-2021,Selvapuram,7,12,6,9
+27-10-2021,Kurichi,9,16,8,4
+27-10-2021,Vadavalli,16,21,15,19
+03-11-2021,Gandhipuram,15,17,11,12
+03-11-2021,RS Puram,9,11,10,5
+03-11-2021,Saibaba Colony,12,16,4,13
+03-11-2021,Peelamedu,13,9,14,16
+03-11-2021,Singanallur,13,18,24,24
+03-11-2021,Saravanampatti,20,28,22,25
+03-11-2021,Race Course,10,16,10,17
+03-11-2021,Ukkadam,12,13,6,8
+03-11-2021,Town Hall,11,12,9,7
+03-11-2021,Kuniyamuthur,9,4,6,8
+03-11-2021,Sundarapuram,15,14,8,13
+03-11-2021,Podanur,2,6,7,7
+03-11-2021,Thudiyalur,16,10,15,12
+03-11-2021,Vadakovai,11,11,15,19
+03-11-2021,Ganapathy,17,22,11,24
+03-11-2021,Kalapatti,27,26,23,17
+03-11-2021,Kovaipudur,8,15,8,6
+03-11-2021,Selvapuram,10,10,6,8
+03-11-2021,Kurichi,11,10,7,9
+03-11-2021,Vadavalli,14,14,19,16
+10-11-2021,Gandhipuram,14,20,4,10
+10-11-2021,RS Puram,5,8,10,10
+10-11-2021,Saibaba Colony,9,12,10,10
+10-11-2021,Peelamedu,9,9,13,10
+10-11-2021,Singanallur,12,19,20,11
+10-11-2021,Saravanampatti,18,29,20,20
+10-11-2021,Race Course,10,11,10,6
+10-11-2021,Ukkadam,10,17,5,14
+10-11-2021,Town Hall,16,6,5,3
+10-11-2021,Kuniyamuthur,9,14,14,10
+10-11-2021,Sundarapuram,12,19,8,13
+10-11-2021,Podanur,5,11,3,5
+10-11-2021,Thudiyalur,6,9,8,6
+10-11-2021,Vadakovai,16,13,10,17
+10-11-2021,Ganapathy,16,25,12,16
+10-11-2021,Kalapatti,27,26,20,15
+10-11-2021,Kovaipudur,17,10,9,5
+10-11-2021,Selvapuram,12,14,4,9
+10-11-2021,Kurichi,10,15,11,12
+10-11-2021,Vadavalli,14,18,17,19
+17-11-2021,Gandhipuram,10,18,9,13
+17-11-2021,RS Puram,4,14,8,3
+17-11-2021,Saibaba Colony,10,11,15,9
+17-11-2021,Peelamedu,8,19,9,8
+17-11-2021,Singanallur,13,21,10,10
+17-11-2021,Saravanampatti,23,18,17,21
+17-11-2021,Race Course,10,12,17,11
+17-11-2021,Ukkadam,8,10,11,19
+17-11-2021,Town Hall,11,9,10,9
+17-11-2021,Kuniyamuthur,5,10,14,10
+17-11-2021,Sundarapuram,16,14,8,11
+17-11-2021,Podanur,4,5,4,6
+17-11-2021,Thudiyalur,9,16,7,11
+17-11-2021,Vadakovai,11,15,7,19
+17-11-2021,Ganapathy,20,14,17,19
+17-11-2021,Kalapatti,22,28,20,26
+17-11-2021,Kovaipudur,6,9,13,14
+17-11-2021,Selvapuram,7,16,8,9
+17-11-2021,Kurichi,14,8,12,7
+17-11-2021,Vadavalli,20,21,24,18
+24-11-2021,Gandhipuram,12,17,12,14
+24-11-2021,RS Puram,6,7,12,5
+24-11-2021,Saibaba Colony,16,12,12,15
+24-11-2021,Peelamedu,11,14,7,13
+24-11-2021,Singanallur,18,21,15,18
+24-11-2021,Saravanampatti,25,28,17,21
+24-11-2021,Race Course,16,15,18,21
+24-11-2021,Ukkadam,5,13,10,13
+24-11-2021,Town Hall,6,13,5,6
+24-11-2021,Kuniyamuthur,7,13,9,5
+24-11-2021,Sundarapuram,8,17,13,16
+24-11-2021,Podanur,2,1,1,5
+24-11-2021,Thudiyalur,8,20,8,10
+24-11-2021,Vadakovai,9,9,10,18
+24-11-2021,Ganapathy,9,18,19,20
+24-11-2021,Kalapatti,13,31,19,23
+24-11-2021,Kovaipudur,8,10,10,7
+24-11-2021,Selvapuram,10,9,9,8
+24-11-2021,Kurichi,8,8,11,11
+24-11-2021,Vadavalli,20,18,19,18
+01-12-2021,Gandhipuram,10,10,7,6
+01-12-2021,RS Puram,9,18,9,8
+01-12-2021,Saibaba Colony,11,18,10,8
+01-12-2021,Peelamedu,16,9,7,8
+01-12-2021,Singanallur,19,13,16,10
+01-12-2021,Saravanampatti,30,23,21,19
+01-12-2021,Race Course,8,10,9,11
+01-12-2021,Ukkadam,7,12,8,4
+01-12-2021,Town Hall,6,9,5,8
+01-12-2021,Kuniyamuthur,12,13,12,12
+01-12-2021,Sundarapuram,16,15,19,11
+01-12-2021,Podanur,5,4,4,3
+01-12-2021,Thudiyalur,5,15,11,5
+01-12-2021,Vadakovai,12,25,8,8
+01-12-2021,Ganapathy,14,24,13,8
+01-12-2021,Kalapatti,26,24,17,10
+01-12-2021,Kovaipudur,11,15,10,6
+01-12-2021,Selvapuram,11,16,13,8
+01-12-2021,Kurichi,9,13,9,7
+01-12-2021,Vadavalli,18,18,20,15
+08-12-2021,Gandhipuram,11,19,7,13
+08-12-2021,RS Puram,6,4,2,2
+08-12-2021,Saibaba Colony,10,13,10,8
+08-12-2021,Peelamedu,13,11,10,8
+08-12-2021,Singanallur,17,19,19,13
+08-12-2021,Saravanampatti,17,25,17,5
+08-12-2021,Race Course,15,14,2,8
+08-12-2021,Ukkadam,5,8,6,3
+08-12-2021,Town Hall,6,7,6,5
+08-12-2021,Kuniyamuthur,11,12,12,11
+08-12-2021,Sundarapuram,11,13,8,7
+08-12-2021,Podanur,0,13,3,1
+08-12-2021,Thudiyalur,5,11,7,6
+08-12-2021,Vadakovai,8,16,20,5
+08-12-2021,Ganapathy,19,27,12,11
+08-12-2021,Kalapatti,18,24,13,9
+08-12-2021,Kovaipudur,9,9,7,6
+08-12-2021,Selvapuram,9,9,7,5
+08-12-2021,Kurichi,18,8,8,6
+08-12-2021,Vadavalli,10,15,12,13
+15-12-2021,Gandhipuram,14,13,7,9
+15-12-2021,RS Puram,3,6,6,2
+15-12-2021,Saibaba Colony,7,17,11,8
+15-12-2021,Peelamedu,13,11,11,6
+15-12-2021,Singanallur,14,27,15,12
+15-12-2021,Saravanampatti,26,24,15,11
+15-12-2021,Race Course,10,23,7,8
+15-12-2021,Ukkadam,6,11,7,6
+15-12-2021,Town Hall,9,11,8,7
+15-12-2021,Kuniyamuthur,7,7,8,4
+15-12-2021,Sundarapuram,8,13,11,11
+15-12-2021,Podanur,2,7,0,5
+15-12-2021,Thudiyalur,5,13,11,6
+15-12-2021,Vadakovai,13,22,17,8
+15-12-2021,Ganapathy,15,23,19,11
+15-12-2021,Kalapatti,26,36,24,16
+15-12-2021,Kovaipudur,4,6,10,6
+15-12-2021,Selvapuram,11,8,8,3
+15-12-2021,Kurichi,13,5,13,10
+15-12-2021,Vadavalli,15,20,16,9
+22-12-2021,Gandhipuram,14,18,9,5
+22-12-2021,RS Puram,4,8,4,3
+22-12-2021,Saibaba Colony,11,12,6,9
+22-12-2021,Peelamedu,6,11,12,5
+22-12-2021,Singanallur,18,15,13,7
+22-12-2021,Saravanampatti,13,26,16,11
+22-12-2021,Race Course,9,14,12,10
+22-12-2021,Ukkadam,10,6,10,2
+22-12-2021,Town Hall,3,3,8,5
+22-12-2021,Kuniyamuthur,4,10,10,5
+22-12-2021,Sundarapuram,9,11,11,8
+22-12-2021,Podanur,3,5,2,1
+22-12-2021,Thudiyalur,8,9,6,6
+22-12-2021,Vadakovai,9,10,11,10
+22-12-2021,Ganapathy,20,19,13,11
+22-12-2021,Kalapatti,24,22,11,19
+22-12-2021,Kovaipudur,9,11,6,13
+22-12-2021,Selvapuram,11,8,9,7
+22-12-2021,Kurichi,7,11,3,10
+22-12-2021,Vadavalli,14,12,19,13
+29-12-2021,Gandhipuram,12,12,5,8
+29-12-2021,RS Puram,5,11,7,7
+29-12-2021,Saibaba Colony,6,15,7,7
+29-12-2021,Peelamedu,7,6,6,9
+29-12-2021,Singanallur,13,21,13,8
+29-12-2021,Saravanampatti,20,27,18,14
+29-12-2021,Race Course,23,13,8,10
+29-12-2021,Ukkadam,11,7,3,8
+29-12-2021,Town Hall,10,7,6,0
+29-12-2021,Kuniyamuthur,8,9,8,7
+29-12-2021,Sundarapuram,8,22,10,10
+29-12-2021,Podanur,3,7,3,1
+29-12-2021,Thudiyalur,11,11,4,9
+29-12-2021,Vadakovai,8,12,13,7
+29-12-2021,Ganapathy,16,28,24,11
+29-12-2021,Kalapatti,26,17,15,15
+29-12-2021,Kovaipudur,11,8,13,8
+29-12-2021,Selvapuram,10,4,1,4
+29-12-2021,Kurichi,4,15,10,8
+29-12-2021,Vadavalli,14,25,21,6
+05-01-2022,Gandhipuram,8,15,10,5
+05-01-2022,RS Puram,6,7,7,5
+05-01-2022,Saibaba Colony,11,11,12,4
+05-01-2022,Peelamedu,2,9,8,3
+05-01-2022,Singanallur,11,13,12,16
+05-01-2022,Saravanampatti,24,18,15,12
+05-01-2022,Race Course,10,10,7,12
+05-01-2022,Ukkadam,4,20,6,5
+05-01-2022,Town Hall,7,9,12,12
+05-01-2022,Kuniyamuthur,5,10,8,2
+05-01-2022,Sundarapuram,13,19,11,5
+05-01-2022,Podanur,5,4,6,3
+05-01-2022,Thudiyalur,6,11,15,6
+05-01-2022,Vadakovai,9,15,7,10
+05-01-2022,Ganapathy,17,18,14,12
+05-01-2022,Kalapatti,18,32,23,27
+05-01-2022,Kovaipudur,9,14,10,5
+05-01-2022,Selvapuram,6,14,11,7
+05-01-2022,Kurichi,12,12,5,7
+05-01-2022,Vadavalli,11,22,12,10
+12-01-2022,Gandhipuram,6,16,4,5
+12-01-2022,RS Puram,7,10,7,7
+12-01-2022,Saibaba Colony,8,11,5,9
+12-01-2022,Peelamedu,13,11,10,6
+12-01-2022,Singanallur,16,11,13,8
+12-01-2022,Saravanampatti,21,11,23,12
+12-01-2022,Race Course,14,5,8,3
+12-01-2022,Ukkadam,6,2,12,5
+12-01-2022,Town Hall,9,5,6,3
+12-01-2022,Kuniyamuthur,3,8,9,6
+12-01-2022,Sundarapuram,11,7,11,8
+12-01-2022,Podanur,8,2,5,3
+12-01-2022,Thudiyalur,10,13,8,6
+12-01-2022,Vadakovai,8,19,7,6
+12-01-2022,Ganapathy,24,11,15,6
+12-01-2022,Kalapatti,32,25,19,16
+12-01-2022,Kovaipudur,9,15,9,12
+12-01-2022,Selvapuram,8,9,7,6
+12-01-2022,Kurichi,3,13,9,4
+12-01-2022,Vadavalli,13,21,13,8
+19-01-2022,Gandhipuram,14,9,11,12
+19-01-2022,RS Puram,6,10,7,4
+19-01-2022,Saibaba Colony,10,13,14,12
+19-01-2022,Peelamedu,10,15,14,4
+19-01-2022,Singanallur,14,23,12,10
+19-01-2022,Saravanampatti,19,22,14,13
+19-01-2022,Race Course,23,10,7,12
+19-01-2022,Ukkadam,3,7,8,8
+19-01-2022,Town Hall,8,8,11,6
+19-01-2022,Kuniyamuthur,3,8,6,4
+19-01-2022,Sundarapuram,12,15,5,10
+19-01-2022,Podanur,3,4,5,4
+19-01-2022,Thudiyalur,8,7,7,2
+19-01-2022,Vadakovai,6,15,7,12
+19-01-2022,Ganapathy,17,25,20,13
+19-01-2022,Kalapatti,12,26,27,10
+19-01-2022,Kovaipudur,10,9,9,8
+19-01-2022,Selvapuram,8,13,7,7
+19-01-2022,Kurichi,13,6,7,7
+19-01-2022,Vadavalli,11,14,12,14
+26-01-2022,Gandhipuram,16,19,8,8
+26-01-2022,RS Puram,8,6,7,10
+26-01-2022,Saibaba Colony,12,14,4,4
+26-01-2022,Peelamedu,7,8,8,4
+26-01-2022,Singanallur,16,23,17,4
+26-01-2022,Saravanampatti,18,31,23,19
+26-01-2022,Race Course,14,12,12,7
+26-01-2022,Ukkadam,7,9,5,4
+26-01-2022,Town Hall,6,7,9,3
+26-01-2022,Kuniyamuthur,10,15,7,4
+26-01-2022,Sundarapuram,6,16,7,9
+26-01-2022,Podanur,3,5,2,1
+26-01-2022,Thudiyalur,6,11,5,1
+26-01-2022,Vadakovai,13,20,13,9
+26-01-2022,Ganapathy,15,12,19,11
+26-01-2022,Kalapatti,17,18,22,12
+26-01-2022,Kovaipudur,7,22,12,5
+26-01-2022,Selvapuram,2,4,5,4
+26-01-2022,Kurichi,9,14,13,2
+26-01-2022,Vadavalli,13,14,13,7
+02-02-2022,Gandhipuram,9,19,9,7
+02-02-2022,RS Puram,6,5,4,4
+02-02-2022,Saibaba Colony,7,7,13,7
+02-02-2022,Peelamedu,13,8,8,3
+02-02-2022,Singanallur,10,15,11,13
+02-02-2022,Saravanampatti,18,21,21,11
+02-02-2022,Race Course,15,10,10,2
+02-02-2022,Ukkadam,6,6,3,1
+02-02-2022,Town Hall,6,14,6,3
+02-02-2022,Kuniyamuthur,6,9,6,2
+02-02-2022,Sundarapuram,8,9,5,7
+02-02-2022,Podanur,9,6,2,3
+02-02-2022,Thudiyalur,14,8,7,1
+02-02-2022,Vadakovai,12,13,5,8
+02-02-2022,Ganapathy,21,22,7,7
+02-02-2022,Kalapatti,18,35,26,10
+02-02-2022,Kovaipudur,8,9,6,2
+02-02-2022,Selvapuram,9,11,7,3
+02-02-2022,Kurichi,12,21,7,8
+02-02-2022,Vadavalli,15,18,10,11
+09-02-2022,Gandhipuram,13,20,14,6
+09-02-2022,RS Puram,4,7,7,5
+09-02-2022,Saibaba Colony,3,10,5,4
+09-02-2022,Peelamedu,6,21,4,9
+09-02-2022,Singanallur,10,14,17,13
+09-02-2022,Saravanampatti,22,30,24,12
+09-02-2022,Race Course,8,15,13,9
+09-02-2022,Ukkadam,12,14,12,6
+09-02-2022,Town Hall,6,5,1,6
+09-02-2022,Kuniyamuthur,5,6,5,3
+09-02-2022,Sundarapuram,6,11,10,4
+09-02-2022,Podanur,5,7,4,1
+09-02-2022,Thudiyalur,4,14,6,6
+09-02-2022,Vadakovai,16,20,14,7
+09-02-2022,Ganapathy,19,22,20,16
+09-02-2022,Kalapatti,22,25,19,12
+09-02-2022,Kovaipudur,11,11,4,8
+09-02-2022,Selvapuram,9,12,10,4
+09-02-2022,Kurichi,8,11,10,8
+09-02-2022,Vadavalli,14,12,14,9
+16-02-2022,Gandhipuram,15,14,10,8
+16-02-2022,RS Puram,5,6,2,5
+16-02-2022,Saibaba Colony,10,10,8,9
+16-02-2022,Peelamedu,5,10,3,5
+16-02-2022,Singanallur,11,17,12,10
+16-02-2022,Saravanampatti,20,20,17,12
+16-02-2022,Race Course,7,18,11,10
+16-02-2022,Ukkadam,10,12,2,5
+16-02-2022,Town Hall,3,7,4,4
+16-02-2022,Kuniyamuthur,6,12,16,3
+16-02-2022,Sundarapuram,15,13,10,6
+16-02-2022,Podanur,7,8,10,4
+16-02-2022,Thudiyalur,10,9,9,2
+16-02-2022,Vadakovai,12,14,13,8
+16-02-2022,Ganapathy,16,25,23,11
+16-02-2022,Kalapatti,20,25,19,11
+16-02-2022,Kovaipudur,11,22,6,6
+16-02-2022,Selvapuram,13,11,3,4
+16-02-2022,Kurichi,6,11,12,7
+16-02-2022,Vadavalli,16,12,18,9
+23-02-2022,Gandhipuram,13,14,7,8
+23-02-2022,RS Puram,8,3,4,3
+23-02-2022,Saibaba Colony,13,15,7,9
+23-02-2022,Peelamedu,6,13,8,8
+23-02-2022,Singanallur,15,25,14,13
+23-02-2022,Saravanampatti,17,27,28,19
+23-02-2022,Race Course,10,8,9,3
+23-02-2022,Ukkadam,4,14,5,8
+23-02-2022,Town Hall,7,9,11,5
+23-02-2022,Kuniyamuthur,9,6,4,3
+23-02-2022,Sundarapuram,17,25,15,14
+23-02-2022,Podanur,6,4,4,6
+23-02-2022,Thudiyalur,9,11,11,7
+23-02-2022,Vadakovai,19,16,11,4
+23-02-2022,Ganapathy,20,14,24,8
+23-02-2022,Kalapatti,28,33,10,12
+23-02-2022,Kovaipudur,7,8,7,9
+23-02-2022,Selvapuram,6,13,11,5
+23-02-2022,Kurichi,11,17,6,9
+23-02-2022,Vadavalli,12,17,15,12
+02-03-2022,Gandhipuram,8,16,11,8
+02-03-2022,RS Puram,7,7,5,6
+02-03-2022,Saibaba Colony,13,9,10,6
+02-03-2022,Peelamedu,12,9,3,1
+02-03-2022,Singanallur,17,13,17,7
+02-03-2022,Saravanampatti,11,20,13,11
+02-03-2022,Race Course,9,10,11,3
+02-03-2022,Ukkadam,5,6,8,3
+02-03-2022,Town Hall,10,10,6,7
+02-03-2022,Kuniyamuthur,5,13,10,6
+02-03-2022,Sundarapuram,9,18,11,9
+02-03-2022,Podanur,4,8,4,2
+02-03-2022,Thudiyalur,3,15,6,5
+02-03-2022,Vadakovai,10,9,16,4
+02-03-2022,Ganapathy,18,25,22,8
+02-03-2022,Kalapatti,16,22,12,16
+02-03-2022,Kovaipudur,8,12,3,6
+02-03-2022,Selvapuram,9,9,13,4
+02-03-2022,Kurichi,10,13,8,8
+02-03-2022,Vadavalli,12,14,10,7
+09-03-2022,Gandhipuram,12,18,14,5
+09-03-2022,RS Puram,6,8,8,4
+09-03-2022,Saibaba Colony,6,15,13,6
+09-03-2022,Peelamedu,11,14,10,5
+09-03-2022,Singanallur,16,20,12,5
+09-03-2022,Saravanampatti,18,16,19,10
+09-03-2022,Race Course,18,14,14,10
+09-03-2022,Ukkadam,7,8,7,4
+09-03-2022,Town Hall,9,8,4,6
+09-03-2022,Kuniyamuthur,5,13,5,7
+09-03-2022,Sundarapuram,8,15,13,13
+09-03-2022,Podanur,1,6,10,3
+09-03-2022,Thudiyalur,11,13,6,6
+09-03-2022,Vadakovai,15,13,13,4
+09-03-2022,Ganapathy,17,24,15,6
+09-03-2022,Kalapatti,28,27,26,9
+09-03-2022,Kovaipudur,9,10,10,3
+09-03-2022,Selvapuram,10,12,5,8
+09-03-2022,Kurichi,14,13,5,6
+09-03-2022,Vadavalli,16,17,15,12
+16-03-2022,Gandhipuram,6,9,4,7
+16-03-2022,RS Puram,7,6,8,2
+16-03-2022,Saibaba Colony,10,21,11,5
+16-03-2022,Peelamedu,6,11,9,4
+16-03-2022,Singanallur,17,25,11,9
+16-03-2022,Saravanampatti,26,27,17,13
+16-03-2022,Race Course,10,17,15,6
+16-03-2022,Ukkadam,8,6,4,4
+16-03-2022,Town Hall,2,11,5,3
+16-03-2022,Kuniyamuthur,10,12,7,6
+16-03-2022,Sundarapuram,12,9,9,10
+16-03-2022,Podanur,1,5,5,4
+16-03-2022,Thudiyalur,9,12,11,2
+16-03-2022,Vadakovai,15,13,10,10
+16-03-2022,Ganapathy,11,22,13,8
+16-03-2022,Kalapatti,23,27,21,11
+16-03-2022,Kovaipudur,12,9,15,5
+16-03-2022,Selvapuram,8,11,7,7
+16-03-2022,Kurichi,8,13,7,3
+16-03-2022,Vadavalli,10,18,14,8
+23-03-2022,Gandhipuram,8,19,16,2
+23-03-2022,RS Puram,5,8,6,3
+23-03-2022,Saibaba Colony,7,10,9,8
+23-03-2022,Peelamedu,9,15,8,4
+23-03-2022,Singanallur,13,17,11,5
+23-03-2022,Saravanampatti,14,19,14,17
+23-03-2022,Race Course,10,12,9,9
+23-03-2022,Ukkadam,11,9,5,2
+23-03-2022,Town Hall,8,9,6,5
+23-03-2022,Kuniyamuthur,9,10,4,11
+23-03-2022,Sundarapuram,14,13,8,9
+23-03-2022,Podanur,4,1,5,4
+23-03-2022,Thudiyalur,17,8,9,3
+23-03-2022,Vadakovai,13,18,12,8
+23-03-2022,Ganapathy,13,17,14,12
+23-03-2022,Kalapatti,10,14,13,11
+23-03-2022,Kovaipudur,7,18,9,6
+23-03-2022,Selvapuram,5,11,6,7
+23-03-2022,Kurichi,4,7,11,5
+23-03-2022,Vadavalli,9,14,18,12
+30-03-2022,Gandhipuram,10,18,7,6
+30-03-2022,RS Puram,5,8,4,6
+30-03-2022,Saibaba Colony,11,11,6,4
+30-03-2022,Peelamedu,7,7,7,4
+30-03-2022,Singanallur,22,28,21,8
+30-03-2022,Saravanampatti,26,30,23,11
+30-03-2022,Race Course,4,15,12,5
+30-03-2022,Ukkadam,10,13,3,10
+30-03-2022,Town Hall,5,7,3,2
+30-03-2022,Kuniyamuthur,9,7,12,7
+30-03-2022,Sundarapuram,10,14,11,10
+30-03-2022,Podanur,6,7,3,5
+30-03-2022,Thudiyalur,8,16,6,3
+30-03-2022,Vadakovai,11,20,18,7
+30-03-2022,Ganapathy,9,14,11,7
+30-03-2022,Kalapatti,17,25,18,20
+30-03-2022,Kovaipudur,10,10,10,5
+30-03-2022,Selvapuram,12,9,5,10
+30-03-2022,Kurichi,14,10,10,3
+30-03-2022,Vadavalli,15,15,18,8
+06-04-2022,Gandhipuram,15,12,11,8
+06-04-2022,RS Puram,4,8,1,7
+06-04-2022,Saibaba Colony,6,12,13,6
+06-04-2022,Peelamedu,5,7,6,5
+06-04-2022,Singanallur,15,15,11,19
+06-04-2022,Saravanampatti,14,26,16,11
+06-04-2022,Race Course,10,21,13,13
+06-04-2022,Ukkadam,5,8,6,2
+06-04-2022,Town Hall,7,13,3,4
+06-04-2022,Kuniyamuthur,11,7,5,7
+06-04-2022,Sundarapuram,17,15,7,5
+06-04-2022,Podanur,9,9,5,1
+06-04-2022,Thudiyalur,7,7,9,8
+06-04-2022,Vadakovai,13,18,10,7
+06-04-2022,Ganapathy,9,26,21,14
+06-04-2022,Kalapatti,22,30,25,20
+06-04-2022,Kovaipudur,6,11,9,3
+06-04-2022,Selvapuram,6,6,4,3
+06-04-2022,Kurichi,8,9,10,5
+06-04-2022,Vadavalli,19,17,9,11
+13-04-2022,Gandhipuram,8,7,13,10
+13-04-2022,RS Puram,7,8,1,3
+13-04-2022,Saibaba Colony,7,8,6,1
+13-04-2022,Peelamedu,14,15,7,8
+13-04-2022,Singanallur,11,13,11,8
+13-04-2022,Saravanampatti,22,25,18,7
+13-04-2022,Race Course,14,15,16,5
+13-04-2022,Ukkadam,11,7,6,3
+13-04-2022,Town Hall,5,11,9,7
+13-04-2022,Kuniyamuthur,5,12,8,4
+13-04-2022,Sundarapuram,12,13,14,5
+13-04-2022,Podanur,4,3,3,2
+13-04-2022,Thudiyalur,3,12,5,7
+13-04-2022,Vadakovai,15,11,11,7
+13-04-2022,Ganapathy,27,24,20,9
+13-04-2022,Kalapatti,26,32,21,18
+13-04-2022,Kovaipudur,9,13,13,1
+13-04-2022,Selvapuram,10,7,3,2
+13-04-2022,Kurichi,7,16,5,4
+13-04-2022,Vadavalli,14,25,18,6
+20-04-2022,Gandhipuram,19,15,14,5
+20-04-2022,RS Puram,10,6,4,1
+20-04-2022,Saibaba Colony,9,11,8,5
+20-04-2022,Peelamedu,7,13,10,5
+20-04-2022,Singanallur,24,13,13,11
+20-04-2022,Saravanampatti,17,20,14,9
+20-04-2022,Race Course,18,17,12,16
+20-04-2022,Ukkadam,5,5,7,4
+20-04-2022,Town Hall,5,5,6,4
+20-04-2022,Kuniyamuthur,7,11,4,6
+20-04-2022,Sundarapuram,11,14,11,9
+20-04-2022,Podanur,4,4,4,5
+20-04-2022,Thudiyalur,5,15,6,7
+20-04-2022,Vadakovai,9,16,13,9
+20-04-2022,Ganapathy,9,17,18,5
+20-04-2022,Kalapatti,22,29,16,15
+20-04-2022,Kovaipudur,8,3,10,7
+20-04-2022,Selvapuram,5,15,5,6
+20-04-2022,Kurichi,15,22,8,6
+20-04-2022,Vadavalli,16,20,15,8
+27-04-2022,Gandhipuram,7,12,17,7
+27-04-2022,RS Puram,5,10,9,2
+27-04-2022,Saibaba Colony,15,6,10,6
+27-04-2022,Peelamedu,9,11,8,6
+27-04-2022,Singanallur,16,18,11,10
+27-04-2022,Saravanampatti,14,22,21,13
+27-04-2022,Race Course,10,20,11,11
+27-04-2022,Ukkadam,7,13,8,5
+27-04-2022,Town Hall,9,12,1,4
+27-04-2022,Kuniyamuthur,11,10,4,7
+27-04-2022,Sundarapuram,5,13,12,10
+27-04-2022,Podanur,7,4,5,4
+27-04-2022,Thudiyalur,7,7,10,3
+27-04-2022,Vadakovai,11,9,10,7
+27-04-2022,Ganapathy,16,30,21,12
+27-04-2022,Kalapatti,27,26,16,15
+27-04-2022,Kovaipudur,10,19,8,8
+27-04-2022,Selvapuram,12,11,11,8
+27-04-2022,Kurichi,7,10,8,6
+27-04-2022,Vadavalli,9,23,11,16
+04-05-2022,Gandhipuram,8,12,10,8
+04-05-2022,RS Puram,6,11,11,2
+04-05-2022,Saibaba Colony,5,11,14,10
+04-05-2022,Peelamedu,13,10,9,3
+04-05-2022,Singanallur,12,12,16,11
+04-05-2022,Saravanampatti,16,28,28,10
+04-05-2022,Race Course,8,8,13,7
+04-05-2022,Ukkadam,4,9,12,8
+04-05-2022,Town Hall,7,11,14,4
+04-05-2022,Kuniyamuthur,4,11,16,3
+04-05-2022,Sundarapuram,10,14,15,4
+04-05-2022,Podanur,5,6,10,4
+04-05-2022,Thudiyalur,3,12,6,3
+04-05-2022,Vadakovai,11,15,16,11
+04-05-2022,Ganapathy,15,35,14,17
+04-05-2022,Kalapatti,31,31,34,13
+04-05-2022,Kovaipudur,9,9,15,8
+04-05-2022,Selvapuram,8,4,13,6
+04-05-2022,Kurichi,9,9,10,6
+04-05-2022,Vadavalli,11,19,16,7
+11-05-2022,Gandhipuram,10,20,20,5
+11-05-2022,RS Puram,3,10,7,5
+11-05-2022,Saibaba Colony,5,14,14,8
+11-05-2022,Peelamedu,7,9,9,5
+11-05-2022,Singanallur,19,25,23,7
+11-05-2022,Saravanampatti,12,16,23,11
+11-05-2022,Race Course,9,15,16,5
+11-05-2022,Ukkadam,7,3,11,3
+11-05-2022,Town Hall,4,7,5,4
+11-05-2022,Kuniyamuthur,10,10,9,6
+11-05-2022,Sundarapuram,12,19,19,6
+11-05-2022,Podanur,5,14,10,7
+11-05-2022,Thudiyalur,4,7,13,2
+11-05-2022,Vadakovai,7,16,23,10
+11-05-2022,Ganapathy,12,13,24,10
+11-05-2022,Kalapatti,17,25,30,11
+11-05-2022,Kovaipudur,5,6,15,7
+11-05-2022,Selvapuram,10,8,13,6
+11-05-2022,Kurichi,7,8,10,6
+11-05-2022,Vadavalli,17,19,17,14
+18-05-2022,Gandhipuram,8,13,17,4
+18-05-2022,RS Puram,7,3,12,3
+18-05-2022,Saibaba Colony,6,14,13,8
+18-05-2022,Peelamedu,9,6,12,5
+18-05-2022,Singanallur,9,27,21,5
+18-05-2022,Saravanampatti,21,28,31,14
+18-05-2022,Race Course,13,10,13,3
+18-05-2022,Ukkadam,1,9,11,4
+18-05-2022,Town Hall,12,8,6,1
+18-05-2022,Kuniyamuthur,9,6,13,8
+18-05-2022,Sundarapuram,9,16,15,8
+18-05-2022,Podanur,4,4,10,1
+18-05-2022,Thudiyalur,8,8,8,7
+18-05-2022,Vadakovai,6,17,19,8
+18-05-2022,Ganapathy,16,15,24,7
+18-05-2022,Kalapatti,19,31,22,21
+18-05-2022,Kovaipudur,13,10,7,12
+18-05-2022,Selvapuram,7,12,12,6
+18-05-2022,Kurichi,7,7,11,5
+18-05-2022,Vadavalli,19,23,22,11
+25-05-2022,Gandhipuram,8,16,8,9
+25-05-2022,RS Puram,5,10,6,2
+25-05-2022,Saibaba Colony,11,16,14,5
+25-05-2022,Peelamedu,11,9,9,8
+25-05-2022,Singanallur,10,20,20,7
+25-05-2022,Saravanampatti,10,27,24,23
+25-05-2022,Race Course,10,10,19,14
+25-05-2022,Ukkadam,12,10,8,7
+25-05-2022,Town Hall,7,9,12,3
+25-05-2022,Kuniyamuthur,9,7,11,8
+25-05-2022,Sundarapuram,15,16,12,12
+25-05-2022,Podanur,9,5,5,1
+25-05-2022,Thudiyalur,7,13,9,4
+25-05-2022,Vadakovai,8,17,9,5
+25-05-2022,Ganapathy,21,23,13,7
+25-05-2022,Kalapatti,17,13,21,11
+25-05-2022,Kovaipudur,15,11,17,6
+25-05-2022,Selvapuram,8,16,14,3
+25-05-2022,Kurichi,7,10,8,4
+25-05-2022,Vadavalli,11,13,11,4
+01-06-2022,Gandhipuram,22,14,20,4
+01-06-2022,RS Puram,8,7,12,4
+01-06-2022,Saibaba Colony,15,16,11,5
+01-06-2022,Peelamedu,17,8,15,9
+01-06-2022,Singanallur,16,21,25,12
+01-06-2022,Saravanampatti,27,20,20,17
+01-06-2022,Race Course,14,16,13,7
+01-06-2022,Ukkadam,10,16,10,5
+01-06-2022,Town Hall,14,11,7,9
+01-06-2022,Kuniyamuthur,22,16,11,10
+01-06-2022,Sundarapuram,25,10,22,7
+01-06-2022,Podanur,3,9,6,5
+01-06-2022,Thudiyalur,17,16,7,9
+01-06-2022,Vadakovai,24,17,21,10
+01-06-2022,Ganapathy,29,22,19,5
+01-06-2022,Kalapatti,34,25,35,21
+01-06-2022,Kovaipudur,15,17,15,4
+01-06-2022,Selvapuram,16,13,12,6
+01-06-2022,Kurichi,13,8,15,6
+01-06-2022,Vadavalli,20,23,20,12
+08-06-2022,Gandhipuram,19,15,12,10
+08-06-2022,RS Puram,13,5,12,4
+08-06-2022,Saibaba Colony,16,22,15,8
+08-06-2022,Peelamedu,12,6,10,7
+08-06-2022,Singanallur,15,17,19,10
+08-06-2022,Saravanampatti,29,26,28,14
+08-06-2022,Race Course,19,10,14,10
+08-06-2022,Ukkadam,17,12,11,8
+08-06-2022,Town Hall,8,8,7,7
+08-06-2022,Kuniyamuthur,9,15,22,7
+08-06-2022,Sundarapuram,20,21,16,6
+08-06-2022,Podanur,9,11,12,8
+08-06-2022,Thudiyalur,17,15,16,4
+08-06-2022,Vadakovai,23,13,18,13
+08-06-2022,Ganapathy,27,17,25,14
+08-06-2022,Kalapatti,41,27,22,13
+08-06-2022,Kovaipudur,10,13,12,4
+08-06-2022,Selvapuram,19,16,10,9
+08-06-2022,Kurichi,15,6,16,12
+08-06-2022,Vadavalli,29,19,20,13
+15-06-2022,Gandhipuram,22,15,12,8
+15-06-2022,RS Puram,11,7,20,3
+15-06-2022,Saibaba Colony,8,14,11,7
+15-06-2022,Peelamedu,13,14,16,3
+15-06-2022,Singanallur,34,23,15,10
+15-06-2022,Saravanampatti,40,24,28,11
+15-06-2022,Race Course,26,16,19,7
+15-06-2022,Ukkadam,8,16,12,2
+15-06-2022,Town Hall,11,14,11,5
+15-06-2022,Kuniyamuthur,11,9,7,5
+15-06-2022,Sundarapuram,25,13,16,11
+15-06-2022,Podanur,11,9,9,4
+15-06-2022,Thudiyalur,15,7,17,12
+15-06-2022,Vadakovai,19,14,11,12
+15-06-2022,Ganapathy,27,16,27,9
+15-06-2022,Kalapatti,30,34,42,13
+15-06-2022,Kovaipudur,9,11,22,8
+15-06-2022,Selvapuram,14,15,19,5
+15-06-2022,Kurichi,15,10,11,4
+15-06-2022,Vadavalli,15,16,22,11
+22-06-2022,Gandhipuram,19,18,25,11
+22-06-2022,RS Puram,10,6,8,2
+22-06-2022,Saibaba Colony,23,15,17,13
+22-06-2022,Peelamedu,15,12,13,9
+22-06-2022,Singanallur,15,15,16,15
+22-06-2022,Saravanampatti,32,28,27,9
+22-06-2022,Race Course,17,16,23,13
+22-06-2022,Ukkadam,13,13,10,2
+22-06-2022,Town Hall,12,9,12,3
+22-06-2022,Kuniyamuthur,15,7,18,8
+22-06-2022,Sundarapuram,22,9,22,6
+22-06-2022,Podanur,7,6,7,8
+22-06-2022,Thudiyalur,15,15,15,3
+22-06-2022,Vadakovai,15,13,16,8
+22-06-2022,Ganapathy,37,19,18,7
+22-06-2022,Kalapatti,36,29,40,21
+22-06-2022,Kovaipudur,14,10,17,8
+22-06-2022,Selvapuram,14,9,15,3
+22-06-2022,Kurichi,14,13,17,7
+22-06-2022,Vadavalli,34,16,29,13
+29-06-2022,Gandhipuram,18,18,13,7
+29-06-2022,RS Puram,13,5,9,4
+29-06-2022,Saibaba Colony,24,19,27,3
+29-06-2022,Peelamedu,13,10,10,9
+29-06-2022,Singanallur,27,21,26,8
+29-06-2022,Saravanampatti,35,22,28,17
+29-06-2022,Race Course,13,10,18,6
+29-06-2022,Ukkadam,20,5,8,6
+29-06-2022,Town Hall,7,8,13,6
+29-06-2022,Kuniyamuthur,15,9,13,5
+29-06-2022,Sundarapuram,13,21,20,7
+29-06-2022,Podanur,7,9,2,3
+29-06-2022,Thudiyalur,16,13,10,12
+29-06-2022,Vadakovai,15,15,15,7
+29-06-2022,Ganapathy,34,19,22,7
+29-06-2022,Kalapatti,28,29,32,14
+29-06-2022,Kovaipudur,19,18,14,6
+29-06-2022,Selvapuram,14,7,21,6
+29-06-2022,Kurichi,16,9,5,4
+29-06-2022,Vadavalli,29,23,19,12
+06-07-2022,Gandhipuram,14,28,18,8
+06-07-2022,RS Puram,14,12,9,6
+06-07-2022,Saibaba Colony,19,25,17,12
+06-07-2022,Peelamedu,23,26,17,7
+06-07-2022,Singanallur,18,33,26,10
+06-07-2022,Saravanampatti,23,47,38,22
+06-07-2022,Race Course,21,18,23,9
+06-07-2022,Ukkadam,17,15,14,7
+06-07-2022,Town Hall,9,13,7,2
+06-07-2022,Kuniyamuthur,8,18,14,2
+06-07-2022,Sundarapuram,15,26,12,7
+06-07-2022,Podanur,8,15,11,1
+06-07-2022,Thudiyalur,16,25,9,12
+06-07-2022,Vadakovai,14,20,23,14
+06-07-2022,Ganapathy,27,32,27,19
+06-07-2022,Kalapatti,35,65,29,28
+06-07-2022,Kovaipudur,16,14,20,11
+06-07-2022,Selvapuram,17,24,12,6
+06-07-2022,Kurichi,11,19,23,10
+06-07-2022,Vadavalli,28,34,29,7
+13-07-2022,Gandhipuram,18,27,19,6
+13-07-2022,RS Puram,12,14,6,2
+13-07-2022,Saibaba Colony,13,14,19,12
+13-07-2022,Peelamedu,9,12,14,4
+13-07-2022,Singanallur,27,33,25,11
+13-07-2022,Saravanampatti,33,39,31,13
+13-07-2022,Race Course,21,28,11,11
+13-07-2022,Ukkadam,17,29,11,7
+13-07-2022,Town Hall,9,11,7,7
+13-07-2022,Kuniyamuthur,16,17,16,8
+13-07-2022,Sundarapuram,16,25,22,10
+13-07-2022,Podanur,12,11,4,2
+13-07-2022,Thudiyalur,18,16,11,6
+13-07-2022,Vadakovai,29,21,11,7
+13-07-2022,Ganapathy,24,34,26,2
+13-07-2022,Kalapatti,29,47,28,14
+13-07-2022,Kovaipudur,15,16,18,7
+13-07-2022,Selvapuram,21,19,16,2
+13-07-2022,Kurichi,12,21,15,5
+13-07-2022,Vadavalli,19,23,23,11
+20-07-2022,Gandhipuram,24,29,12,6
+20-07-2022,RS Puram,5,11,11,5
+20-07-2022,Saibaba Colony,13,20,19,11
+20-07-2022,Peelamedu,11,20,18,12
+20-07-2022,Singanallur,19,32,32,9
+20-07-2022,Saravanampatti,34,43,31,17
+20-07-2022,Race Course,29,27,20,9
+20-07-2022,Ukkadam,10,7,13,4
+20-07-2022,Town Hall,11,4,10,3
+20-07-2022,Kuniyamuthur,18,19,17,6
+20-07-2022,Sundarapuram,20,22,18,5
+20-07-2022,Podanur,11,5,13,5
+20-07-2022,Thudiyalur,17,20,20,5
+20-07-2022,Vadakovai,17,19,13,11
+20-07-2022,Ganapathy,11,37,23,14
+20-07-2022,Kalapatti,36,42,31,13
+20-07-2022,Kovaipudur,20,16,14,5
+20-07-2022,Selvapuram,18,24,10,4
+20-07-2022,Kurichi,16,15,22,10
+20-07-2022,Vadavalli,18,22,23,11
+27-07-2022,Gandhipuram,12,19,15,5
+27-07-2022,RS Puram,7,16,15,4
+27-07-2022,Saibaba Colony,16,18,22,11
+27-07-2022,Peelamedu,12,17,17,7
+27-07-2022,Singanallur,23,29,30,17
+27-07-2022,Saravanampatti,29,41,37,23
+27-07-2022,Race Course,16,25,16,11
+27-07-2022,Ukkadam,11,14,12,5
+27-07-2022,Town Hall,4,7,7,5
+27-07-2022,Kuniyamuthur,14,23,14,9
+27-07-2022,Sundarapuram,26,27,18,9
+27-07-2022,Podanur,6,12,6,3
+27-07-2022,Thudiyalur,15,16,22,9
+27-07-2022,Vadakovai,26,24,16,6
+27-07-2022,Ganapathy,29,27,18,15
+27-07-2022,Kalapatti,30,39,37,21
+27-07-2022,Kovaipudur,21,18,10,9
+27-07-2022,Selvapuram,16,13,12,10
+27-07-2022,Kurichi,13,23,22,8
+27-07-2022,Vadavalli,36,25,17,11
+03-08-2022,Gandhipuram,22,25,25,6
+03-08-2022,RS Puram,10,6,14,6
+03-08-2022,Saibaba Colony,23,24,14,11
+03-08-2022,Peelamedu,11,20,20,8
+03-08-2022,Singanallur,21,29,22,16
+03-08-2022,Saravanampatti,23,42,30,13
+03-08-2022,Race Course,20,22,15,4
+03-08-2022,Ukkadam,23,23,7,11
+03-08-2022,Town Hall,10,17,12,7
+03-08-2022,Kuniyamuthur,21,25,16,11
+03-08-2022,Sundarapuram,23,15,18,11
+03-08-2022,Podanur,9,14,9,10
+03-08-2022,Thudiyalur,23,20,17,7
+03-08-2022,Vadakovai,15,27,15,16
+03-08-2022,Ganapathy,24,31,21,17
+03-08-2022,Kalapatti,39,55,33,30
+03-08-2022,Kovaipudur,14,10,16,12
+03-08-2022,Selvapuram,10,15,17,13
+03-08-2022,Kurichi,17,21,10,21
+03-08-2022,Vadavalli,24,28,23,19
+10-08-2022,Gandhipuram,15,23,11,19
+10-08-2022,RS Puram,13,16,12,9
+10-08-2022,Saibaba Colony,16,27,21,11
+10-08-2022,Peelamedu,15,14,10,9
+10-08-2022,Singanallur,24,25,13,21
+10-08-2022,Saravanampatti,44,44,35,17
+10-08-2022,Race Course,25,21,13,12
+10-08-2022,Ukkadam,14,28,13,14
+10-08-2022,Town Hall,12,12,7,11
+10-08-2022,Kuniyamuthur,22,23,17,11
+10-08-2022,Sundarapuram,16,31,22,10
+10-08-2022,Podanur,10,10,10,3
+10-08-2022,Thudiyalur,18,20,15,9
+10-08-2022,Vadakovai,18,18,14,13
+10-08-2022,Ganapathy,23,38,23,17
+10-08-2022,Kalapatti,40,46,20,26
+10-08-2022,Kovaipudur,19,16,22,12
+10-08-2022,Selvapuram,12,17,10,9
+10-08-2022,Kurichi,22,28,22,9
+10-08-2022,Vadavalli,34,35,27,19
+17-08-2022,Gandhipuram,26,26,18,9
+17-08-2022,RS Puram,10,12,14,6
+17-08-2022,Saibaba Colony,12,26,19,7
+17-08-2022,Peelamedu,22,13,8,14
+17-08-2022,Singanallur,31,27,19,20
+17-08-2022,Saravanampatti,35,47,26,20
+17-08-2022,Race Course,18,21,19,10
+17-08-2022,Ukkadam,9,19,9,7
+17-08-2022,Town Hall,12,20,14,4
+17-08-2022,Kuniyamuthur,22,19,15,9
+17-08-2022,Sundarapuram,12,25,17,19
+17-08-2022,Podanur,8,16,7,8
+17-08-2022,Thudiyalur,11,25,18,9
+17-08-2022,Vadakovai,17,26,14,14
+17-08-2022,Ganapathy,30,27,21,16
+17-08-2022,Kalapatti,28,39,25,17
+17-08-2022,Kovaipudur,18,20,15,14
+17-08-2022,Selvapuram,11,22,14,10
+17-08-2022,Kurichi,17,20,10,8
+17-08-2022,Vadavalli,30,25,17,14
+24-08-2022,Gandhipuram,28,23,18,14
+24-08-2022,RS Puram,12,19,11,3
+24-08-2022,Saibaba Colony,25,28,11,11
+24-08-2022,Peelamedu,14,19,14,6
+24-08-2022,Singanallur,21,28,25,19
+24-08-2022,Saravanampatti,26,26,24,19
+24-08-2022,Race Course,21,25,22,19
+24-08-2022,Ukkadam,10,21,9,9
+24-08-2022,Town Hall,14,14,14,8
+24-08-2022,Kuniyamuthur,3,17,13,12
+24-08-2022,Sundarapuram,17,25,11,9
+24-08-2022,Podanur,8,4,5,4
+24-08-2022,Thudiyalur,19,16,18,13
+24-08-2022,Vadakovai,19,22,16,24
+24-08-2022,Ganapathy,19,36,29,16
+24-08-2022,Kalapatti,31,35,31,21
+24-08-2022,Kovaipudur,19,11,24,11
+24-08-2022,Selvapuram,16,13,19,9
+24-08-2022,Kurichi,11,23,24,7
+24-08-2022,Vadavalli,27,45,17,26
+31-08-2022,Gandhipuram,20,22,22,8
+31-08-2022,RS Puram,11,13,12,12
+31-08-2022,Saibaba Colony,14,22,17,12
+31-08-2022,Peelamedu,12,11,16,9
+31-08-2022,Singanallur,27,34,26,11
+31-08-2022,Saravanampatti,31,36,30,19
+31-08-2022,Race Course,16,22,16,7
+31-08-2022,Ukkadam,13,19,11,8
+31-08-2022,Town Hall,14,12,13,10
+31-08-2022,Kuniyamuthur,9,21,15,17
+31-08-2022,Sundarapuram,17,24,18,9
+31-08-2022,Podanur,5,7,5,4
+31-08-2022,Thudiyalur,13,14,9,13
+31-08-2022,Vadakovai,25,20,22,19
+31-08-2022,Ganapathy,23,28,19,15
+31-08-2022,Kalapatti,38,36,32,22
+31-08-2022,Kovaipudur,13,32,20,12
+31-08-2022,Selvapuram,9,14,17,10
+31-08-2022,Kurichi,16,12,24,16
+31-08-2022,Vadavalli,17,31,26,10
+07-09-2022,Gandhipuram,23,12,14,15
+07-09-2022,RS Puram,20,18,7,10
+07-09-2022,Saibaba Colony,20,17,10,23
+07-09-2022,Peelamedu,19,20,6,9
+07-09-2022,Singanallur,22,26,12,13
+07-09-2022,Saravanampatti,35,33,16,23
+07-09-2022,Race Course,18,16,11,14
+07-09-2022,Ukkadam,17,11,8,11
+07-09-2022,Town Hall,5,15,6,7
+07-09-2022,Kuniyamuthur,14,18,10,11
+07-09-2022,Sundarapuram,15,17,12,12
+07-09-2022,Podanur,6,8,5,4
+07-09-2022,Thudiyalur,18,19,5,8
+07-09-2022,Vadakovai,24,8,14,14
+07-09-2022,Ganapathy,27,36,13,11
+07-09-2022,Kalapatti,30,54,20,22
+07-09-2022,Kovaipudur,18,25,8,11
+07-09-2022,Selvapuram,14,16,10,12
+07-09-2022,Kurichi,14,14,9,10
+07-09-2022,Vadavalli,21,20,19,32
+14-09-2022,Gandhipuram,27,20,20,9
+14-09-2022,RS Puram,8,16,5,9
+14-09-2022,Saibaba Colony,12,20,12,10
+14-09-2022,Peelamedu,21,20,13,12
+14-09-2022,Singanallur,24,27,13,14
+14-09-2022,Saravanampatti,32,36,22,23
+14-09-2022,Race Course,20,23,9,10
+14-09-2022,Ukkadam,16,17,8,15
+14-09-2022,Town Hall,20,15,7,7
+14-09-2022,Kuniyamuthur,8,15,12,10
+14-09-2022,Sundarapuram,15,29,9,14
+14-09-2022,Podanur,8,8,1,3
+14-09-2022,Thudiyalur,17,21,10,20
+14-09-2022,Vadakovai,16,33,17,13
+14-09-2022,Ganapathy,26,33,17,17
+14-09-2022,Kalapatti,30,40,25,21
+14-09-2022,Kovaipudur,14,24,9,11
+14-09-2022,Selvapuram,16,20,9,12
+14-09-2022,Kurichi,14,10,14,6
+14-09-2022,Vadavalli,34,35,17,21
+21-09-2022,Gandhipuram,20,22,14,17
+21-09-2022,RS Puram,6,15,8,6
+21-09-2022,Saibaba Colony,16,20,17,11
+21-09-2022,Peelamedu,21,16,8,11
+21-09-2022,Singanallur,26,36,14,15
+21-09-2022,Saravanampatti,26,43,18,24
+21-09-2022,Race Course,22,20,11,14
+21-09-2022,Ukkadam,14,21,10,10
+21-09-2022,Town Hall,12,15,8,11
+21-09-2022,Kuniyamuthur,15,14,14,7
+21-09-2022,Sundarapuram,17,18,10,8
+21-09-2022,Podanur,4,11,11,5
+21-09-2022,Thudiyalur,14,16,7,9
+21-09-2022,Vadakovai,15,29,8,15
+21-09-2022,Ganapathy,18,31,8,17
+21-09-2022,Kalapatti,39,42,11,23
+21-09-2022,Kovaipudur,16,23,10,18
+21-09-2022,Selvapuram,12,15,14,7
+21-09-2022,Kurichi,13,8,8,11
+21-09-2022,Vadavalli,18,26,12,15
+28-09-2022,Gandhipuram,24,30,7,8
+28-09-2022,RS Puram,9,17,13,9
+28-09-2022,Saibaba Colony,13,23,6,13
+28-09-2022,Peelamedu,24,22,6,13
+28-09-2022,Singanallur,20,21,13,16
+28-09-2022,Saravanampatti,32,35,22,18
+28-09-2022,Race Course,14,14,14,10
+28-09-2022,Ukkadam,15,20,5,10
+28-09-2022,Town Hall,16,11,4,7
+28-09-2022,Kuniyamuthur,10,20,10,7
+28-09-2022,Sundarapuram,19,18,10,17
+28-09-2022,Podanur,2,9,11,5
+28-09-2022,Thudiyalur,15,20,6,13
+28-09-2022,Vadakovai,17,18,15,16
+28-09-2022,Ganapathy,27,33,20,25
+28-09-2022,Kalapatti,35,44,28,33
+28-09-2022,Kovaipudur,8,19,7,10
+28-09-2022,Selvapuram,16,17,9,10
+28-09-2022,Kurichi,15,18,8,7
+28-09-2022,Vadavalli,23,32,9,16
+05-10-2022,Gandhipuram,11,18,18,9
+05-10-2022,RS Puram,7,13,6,5
+05-10-2022,Saibaba Colony,8,20,15,8
+05-10-2022,Peelamedu,9,15,6,7
+05-10-2022,Singanallur,17,33,16,13
+05-10-2022,Saravanampatti,21,38,18,21
+05-10-2022,Race Course,5,15,14,8
+05-10-2022,Ukkadam,6,17,10,9
+05-10-2022,Town Hall,3,16,5,9
+05-10-2022,Kuniyamuthur,7,17,8,10
+05-10-2022,Sundarapuram,9,22,13,12
+05-10-2022,Podanur,4,17,3,3
+05-10-2022,Thudiyalur,15,11,4,10
+05-10-2022,Vadakovai,12,15,8,14
+05-10-2022,Ganapathy,13,29,6,18
+05-10-2022,Kalapatti,21,45,27,25
+05-10-2022,Kovaipudur,5,20,8,16
+05-10-2022,Selvapuram,10,12,11,5
+05-10-2022,Kurichi,11,24,11,9
+05-10-2022,Vadavalli,12,31,9,16
+12-10-2022,Gandhipuram,12,20,4,18
+12-10-2022,RS Puram,2,12,12,10
+12-10-2022,Saibaba Colony,8,27,6,16
+12-10-2022,Peelamedu,9,19,10,10
+12-10-2022,Singanallur,17,31,16,16
+12-10-2022,Saravanampatti,23,40,10,27
+12-10-2022,Race Course,12,20,19,18
+12-10-2022,Ukkadam,14,19,9,16
+12-10-2022,Town Hall,8,11,10,6
+12-10-2022,Kuniyamuthur,11,22,7,10
+12-10-2022,Sundarapuram,8,19,10,14
+12-10-2022,Podanur,6,10,5,2
+12-10-2022,Thudiyalur,11,20,13,12
+12-10-2022,Vadakovai,12,22,13,12
+12-10-2022,Ganapathy,15,37,16,10
+12-10-2022,Kalapatti,17,37,22,21
+12-10-2022,Kovaipudur,12,18,12,18
+12-10-2022,Selvapuram,8,18,9,6
+12-10-2022,Kurichi,10,16,11,12
+12-10-2022,Vadavalli,14,29,16,14
+19-10-2022,Gandhipuram,15,28,10,22
+19-10-2022,RS Puram,8,24,5,10
+19-10-2022,Saibaba Colony,10,25,9,13
+19-10-2022,Peelamedu,9,19,11,8
+19-10-2022,Singanallur,16,28,9,14
+19-10-2022,Saravanampatti,18,38,21,21
+19-10-2022,Race Course,17,29,12,16
+19-10-2022,Ukkadam,12,8,12,6
+19-10-2022,Town Hall,8,9,9,7
+19-10-2022,Kuniyamuthur,10,17,7,11
+19-10-2022,Sundarapuram,13,21,14,14
+19-10-2022,Podanur,6,12,5,3
+19-10-2022,Thudiyalur,7,18,12,11
+19-10-2022,Vadakovai,11,18,17,8
+19-10-2022,Ganapathy,20,37,14,16
+19-10-2022,Kalapatti,17,34,21,14
+19-10-2022,Kovaipudur,7,15,11,5
+19-10-2022,Selvapuram,9,24,14,7
+19-10-2022,Kurichi,9,19,8,12
+19-10-2022,Vadavalli,12,25,13,18
+26-10-2022,Gandhipuram,15,19,16,14
+26-10-2022,RS Puram,6,12,8,7
+26-10-2022,Saibaba Colony,6,18,9,17
+26-10-2022,Peelamedu,13,15,4,8
+26-10-2022,Singanallur,11,24,18,19
+26-10-2022,Saravanampatti,14,43,19,19
+26-10-2022,Race Course,9,23,18,12
+26-10-2022,Ukkadam,7,18,6,12
+26-10-2022,Town Hall,6,8,8,3
+26-10-2022,Kuniyamuthur,10,22,6,11
+26-10-2022,Sundarapuram,16,30,12,12
+26-10-2022,Podanur,5,15,2,3
+26-10-2022,Thudiyalur,3,20,10,7
+26-10-2022,Vadakovai,10,24,13,5
+26-10-2022,Ganapathy,22,29,19,15
+26-10-2022,Kalapatti,25,51,24,20
+26-10-2022,Kovaipudur,16,28,13,10
+26-10-2022,Selvapuram,14,12,11,10
+26-10-2022,Kurichi,10,18,5,7
+26-10-2022,Vadavalli,16,19,21,21
+02-11-2022,Gandhipuram,15,11,17,11
+02-11-2022,RS Puram,3,11,7,7
+02-11-2022,Saibaba Colony,10,13,14,12
+02-11-2022,Peelamedu,4,10,8,10
+02-11-2022,Singanallur,11,28,15,17
+02-11-2022,Saravanampatti,22,21,18,27
+02-11-2022,Race Course,20,15,10,16
+02-11-2022,Ukkadam,9,16,8,7
+02-11-2022,Town Hall,4,8,11,7
+02-11-2022,Kuniyamuthur,5,13,5,18
+02-11-2022,Sundarapuram,12,13,8,23
+02-11-2022,Podanur,6,1,9,8
+02-11-2022,Thudiyalur,10,10,5,8
+02-11-2022,Vadakovai,8,11,8,12
+02-11-2022,Ganapathy,17,23,17,17
+02-11-2022,Kalapatti,23,22,31,22
+02-11-2022,Kovaipudur,14,16,11,12
+02-11-2022,Selvapuram,6,14,9,10
+02-11-2022,Kurichi,10,9,6,7
+02-11-2022,Vadavalli,16,13,14,20
+09-11-2022,Gandhipuram,10,10,4,10
+09-11-2022,RS Puram,10,9,8,5
+09-11-2022,Saibaba Colony,11,16,9,12
+09-11-2022,Peelamedu,12,14,8,9
+09-11-2022,Singanallur,25,20,12,10
+09-11-2022,Saravanampatti,28,27,24,25
+09-11-2022,Race Course,13,7,12,10
+09-11-2022,Ukkadam,8,20,9,12
+09-11-2022,Town Hall,4,7,3,10
+09-11-2022,Kuniyamuthur,13,13,8,16
+09-11-2022,Sundarapuram,8,16,9,12
+09-11-2022,Podanur,7,4,3,2
+09-11-2022,Thudiyalur,6,18,9,6
+09-11-2022,Vadakovai,9,10,9,13
+09-11-2022,Ganapathy,20,12,11,27
+09-11-2022,Kalapatti,24,22,21,17
+09-11-2022,Kovaipudur,5,9,10,8
+09-11-2022,Selvapuram,5,14,14,8
+09-11-2022,Kurichi,11,9,12,6
+09-11-2022,Vadavalli,16,24,19,13
+16-11-2022,Gandhipuram,18,14,13,14
+16-11-2022,RS Puram,7,7,6,5
+16-11-2022,Saibaba Colony,12,20,8,14
+16-11-2022,Peelamedu,9,9,8,6
+16-11-2022,Singanallur,13,21,8,23
+16-11-2022,Saravanampatti,26,34,21,23
+16-11-2022,Race Course,13,19,6,17
+16-11-2022,Ukkadam,12,17,6,6
+16-11-2022,Town Hall,9,11,10,11
+16-11-2022,Kuniyamuthur,9,12,7,9
+16-11-2022,Sundarapuram,13,15,7,12
+16-11-2022,Podanur,7,4,7,8
+16-11-2022,Thudiyalur,11,14,15,12
+16-11-2022,Vadakovai,15,15,10,13
+16-11-2022,Ganapathy,23,23,17,17
+16-11-2022,Kalapatti,20,31,27,21
+16-11-2022,Kovaipudur,20,16,11,11
+16-11-2022,Selvapuram,12,12,7,5
+16-11-2022,Kurichi,10,6,11,15
+16-11-2022,Vadavalli,11,17,15,19
+23-11-2022,Gandhipuram,13,20,14,15
+23-11-2022,RS Puram,7,7,10,7
+23-11-2022,Saibaba Colony,22,15,11,9
+23-11-2022,Peelamedu,8,7,9,8
+23-11-2022,Singanallur,11,19,13,15
+23-11-2022,Saravanampatti,21,33,16,18
+23-11-2022,Race Course,14,14,13,19
+23-11-2022,Ukkadam,8,10,12,18
+23-11-2022,Town Hall,6,11,7,3
+23-11-2022,Kuniyamuthur,11,12,10,10
+23-11-2022,Sundarapuram,10,18,9,19
+23-11-2022,Podanur,6,5,5,8
+23-11-2022,Thudiyalur,3,9,9,13
+23-11-2022,Vadakovai,12,16,17,13
+23-11-2022,Ganapathy,16,17,14,27
+23-11-2022,Kalapatti,19,34,26,31
+23-11-2022,Kovaipudur,14,15,10,9
+23-11-2022,Selvapuram,5,7,6,8
+23-11-2022,Kurichi,15,9,10,11
+23-11-2022,Vadavalli,12,20,14,13
+30-11-2022,Gandhipuram,9,11,10,6
+30-11-2022,RS Puram,5,12,15,3
+30-11-2022,Saibaba Colony,15,12,6,10
+30-11-2022,Peelamedu,10,15,7,7
+30-11-2022,Singanallur,13,22,18,14
+30-11-2022,Saravanampatti,20,29,17,24
+30-11-2022,Race Course,15,23,10,14
+30-11-2022,Ukkadam,7,7,13,12
+30-11-2022,Town Hall,6,9,5,8
+30-11-2022,Kuniyamuthur,5,11,12,12
+30-11-2022,Sundarapuram,15,17,13,13
+30-11-2022,Podanur,5,9,9,4
+30-11-2022,Thudiyalur,9,18,6,9
+30-11-2022,Vadakovai,13,15,16,19
+30-11-2022,Ganapathy,13,23,20,20
+30-11-2022,Kalapatti,23,22,20,22
+30-11-2022,Kovaipudur,9,12,7,11
+30-11-2022,Selvapuram,9,12,7,9
+30-11-2022,Kurichi,14,5,13,8
+30-11-2022,Vadavalli,19,17,16,14
+07-12-2022,Gandhipuram,8,12,8,10
+07-12-2022,RS Puram,2,7,6,7
+07-12-2022,Saibaba Colony,6,8,7,11
+07-12-2022,Peelamedu,9,17,13,4
+07-12-2022,Singanallur,6,22,4,11
+07-12-2022,Saravanampatti,22,25,26,13
+07-12-2022,Race Course,12,11,13,10
+07-12-2022,Ukkadam,6,9,6,1
+07-12-2022,Town Hall,12,6,8,6
+07-12-2022,Kuniyamuthur,10,11,6,16
+07-12-2022,Sundarapuram,8,13,9,9
+07-12-2022,Podanur,3,4,4,1
+07-12-2022,Thudiyalur,7,6,12,5
+07-12-2022,Vadakovai,19,12,16,11
+07-12-2022,Ganapathy,12,19,10,12
+07-12-2022,Kalapatti,26,28,19,14
+07-12-2022,Kovaipudur,10,10,7,6
+07-12-2022,Selvapuram,10,11,5,4
+07-12-2022,Kurichi,7,15,9,11
+07-12-2022,Vadavalli,7,13,18,14
+14-12-2022,Gandhipuram,14,17,11,7
+14-12-2022,RS Puram,4,9,4,12
+14-12-2022,Saibaba Colony,9,18,16,8
+14-12-2022,Peelamedu,11,17,5,3
+14-12-2022,Singanallur,6,10,4,11
+14-12-2022,Saravanampatti,28,35,22,11
+14-12-2022,Race Course,11,16,16,6
+14-12-2022,Ukkadam,8,8,7,4
+14-12-2022,Town Hall,5,13,6,7
+14-12-2022,Kuniyamuthur,11,7,9,2
+14-12-2022,Sundarapuram,16,11,16,7
+14-12-2022,Podanur,5,4,6,2
+14-12-2022,Thudiyalur,7,9,3,5
+14-12-2022,Vadakovai,13,11,8,6
+14-12-2022,Ganapathy,14,25,19,12
+14-12-2022,Kalapatti,22,19,14,15
+14-12-2022,Kovaipudur,9,7,6,5
+14-12-2022,Selvapuram,13,10,11,1
+14-12-2022,Kurichi,7,12,11,5
+14-12-2022,Vadavalli,11,11,15,4
+21-12-2022,Gandhipuram,8,9,8,2
+21-12-2022,RS Puram,4,10,8,6
+21-12-2022,Saibaba Colony,19,16,12,6
+21-12-2022,Peelamedu,12,6,9,3
+21-12-2022,Singanallur,13,14,12,8
+21-12-2022,Saravanampatti,30,25,17,18
+21-12-2022,Race Course,19,18,13,6
+21-12-2022,Ukkadam,13,11,5,5
+21-12-2022,Town Hall,6,12,4,7
+21-12-2022,Kuniyamuthur,9,8,9,5
+21-12-2022,Sundarapuram,11,8,11,7
+21-12-2022,Podanur,3,4,1,3
+21-12-2022,Thudiyalur,8,5,6,1
+21-12-2022,Vadakovai,15,19,7,9
+21-12-2022,Ganapathy,15,15,18,8
+21-12-2022,Kalapatti,15,30,23,18
+21-12-2022,Kovaipudur,13,9,9,2
+21-12-2022,Selvapuram,12,11,4,6
+21-12-2022,Kurichi,8,7,3,11
+21-12-2022,Vadavalli,13,19,20,8
+28-12-2022,Gandhipuram,16,16,10,16
+28-12-2022,RS Puram,5,6,7,5
+28-12-2022,Saibaba Colony,9,14,13,10
+28-12-2022,Peelamedu,7,12,5,9
+28-12-2022,Singanallur,5,16,16,13
+28-12-2022,Saravanampatti,18,28,15,11
+28-12-2022,Race Course,7,12,12,4
+28-12-2022,Ukkadam,5,6,14,4
+28-12-2022,Town Hall,9,7,6,5
+28-12-2022,Kuniyamuthur,9,11,13,9
+28-12-2022,Sundarapuram,18,12,13,3
+28-12-2022,Podanur,2,4,3,2
+28-12-2022,Thudiyalur,4,8,1,3
+28-12-2022,Vadakovai,12,7,13,12
+28-12-2022,Ganapathy,22,18,10,16
+28-12-2022,Kalapatti,31,30,17,13
+28-12-2022,Kovaipudur,8,15,8,4
+28-12-2022,Selvapuram,5,5,7,2
+28-12-2022,Kurichi,11,8,7,12
+28-12-2022,Vadavalli,22,18,7,8
+04-01-2023,Gandhipuram,16,15,15,5
+04-01-2023,RS Puram,8,8,9,8
+04-01-2023,Saibaba Colony,9,10,8,4
+04-01-2023,Peelamedu,8,8,6,2
+04-01-2023,Singanallur,13,20,19,21
+04-01-2023,Saravanampatti,16,21,22,15
+04-01-2023,Race Course,10,14,9,6
+04-01-2023,Ukkadam,7,5,5,3
+04-01-2023,Town Hall,6,6,5,4
+04-01-2023,Kuniyamuthur,9,10,12,8
+04-01-2023,Sundarapuram,12,10,8,11
+04-01-2023,Podanur,3,7,5,3
+04-01-2023,Thudiyalur,4,11,4,5
+04-01-2023,Vadakovai,18,11,15,10
+04-01-2023,Ganapathy,12,33,12,12
+04-01-2023,Kalapatti,17,36,19,19
+04-01-2023,Kovaipudur,13,9,8,9
+04-01-2023,Selvapuram,9,9,5,6
+04-01-2023,Kurichi,6,8,9,11
+04-01-2023,Vadavalli,15,17,15,11
+11-01-2023,Gandhipuram,18,18,14,9
+11-01-2023,RS Puram,2,3,2,4
+11-01-2023,Saibaba Colony,8,18,10,9
+11-01-2023,Peelamedu,11,9,4,4
+11-01-2023,Singanallur,14,19,17,6
+11-01-2023,Saravanampatti,20,24,23,13
+11-01-2023,Race Course,9,6,8,11
+11-01-2023,Ukkadam,9,11,8,5
+11-01-2023,Town Hall,7,15,4,4
+11-01-2023,Kuniyamuthur,9,17,12,4
+11-01-2023,Sundarapuram,11,9,13,7
+11-01-2023,Podanur,4,4,7,3
+11-01-2023,Thudiyalur,11,8,10,2
+11-01-2023,Vadakovai,13,13,9,3
+11-01-2023,Ganapathy,17,18,14,12
+11-01-2023,Kalapatti,22,22,27,21
+11-01-2023,Kovaipudur,12,11,8,5
+11-01-2023,Selvapuram,5,6,5,5
+11-01-2023,Kurichi,3,15,12,2
+11-01-2023,Vadavalli,16,16,11,7
+18-01-2023,Gandhipuram,12,18,11,8
+18-01-2023,RS Puram,7,8,8,5
+18-01-2023,Saibaba Colony,7,10,7,2
+18-01-2023,Peelamedu,7,5,4,3
+18-01-2023,Singanallur,13,15,15,12
+18-01-2023,Saravanampatti,15,9,18,14
+18-01-2023,Race Course,14,19,9,8
+18-01-2023,Ukkadam,6,5,4,5
+18-01-2023,Town Hall,8,6,9,7
+18-01-2023,Kuniyamuthur,9,14,12,8
+18-01-2023,Sundarapuram,16,8,14,4
+18-01-2023,Podanur,4,6,8,5
+18-01-2023,Thudiyalur,1,5,4,4
+18-01-2023,Vadakovai,4,14,6,9
+18-01-2023,Ganapathy,9,19,13,8
+18-01-2023,Kalapatti,17,16,13,11
+18-01-2023,Kovaipudur,12,14,9,4
+18-01-2023,Selvapuram,11,9,0,6
+18-01-2023,Kurichi,8,14,11,8
+18-01-2023,Vadavalli,7,25,11,13
+25-01-2023,Gandhipuram,8,13,6,4
+25-01-2023,RS Puram,5,4,4,1
+25-01-2023,Saibaba Colony,12,16,11,10
+25-01-2023,Peelamedu,12,11,12,5
+25-01-2023,Singanallur,10,20,13,4
+25-01-2023,Saravanampatti,19,17,19,15
+25-01-2023,Race Course,10,10,5,6
+25-01-2023,Ukkadam,8,10,7,2
+25-01-2023,Town Hall,5,4,7,3
+25-01-2023,Kuniyamuthur,11,15,15,4
+25-01-2023,Sundarapuram,9,12,8,5
+25-01-2023,Podanur,5,6,7,3
+25-01-2023,Thudiyalur,3,7,6,7
+25-01-2023,Vadakovai,13,9,11,3
+25-01-2023,Ganapathy,18,12,12,8
+25-01-2023,Kalapatti,24,16,19,14
+25-01-2023,Kovaipudur,10,10,7,8
+25-01-2023,Selvapuram,19,13,9,5
+25-01-2023,Kurichi,11,6,14,8
+25-01-2023,Vadavalli,11,12,12,12
+01-02-2023,Gandhipuram,10,15,14,9
+01-02-2023,RS Puram,5,4,7,3
+01-02-2023,Saibaba Colony,16,11,8,9
+01-02-2023,Peelamedu,11,15,3,12
+01-02-2023,Singanallur,16,20,12,8
+01-02-2023,Saravanampatti,16,16,18,12
+01-02-2023,Race Course,16,12,13,9
+01-02-2023,Ukkadam,10,9,6,4
+01-02-2023,Town Hall,9,8,13,2
+01-02-2023,Kuniyamuthur,7,9,9,3
+01-02-2023,Sundarapuram,21,16,16,11
+01-02-2023,Podanur,6,6,3,2
+01-02-2023,Thudiyalur,14,9,4,9
+01-02-2023,Vadakovai,11,14,10,5
+01-02-2023,Ganapathy,12,14,4,9
+01-02-2023,Kalapatti,21,21,22,16
+01-02-2023,Kovaipudur,11,9,10,7
+01-02-2023,Selvapuram,10,10,16,2
+01-02-2023,Kurichi,9,7,5,9
+01-02-2023,Vadavalli,13,18,8,5
+08-02-2023,Gandhipuram,10,17,8,9
+08-02-2023,RS Puram,3,5,8,3
+08-02-2023,Saibaba Colony,2,11,5,9
+08-02-2023,Peelamedu,11,15,10,2
+08-02-2023,Singanallur,12,22,23,5
+08-02-2023,Saravanampatti,25,24,16,11
+08-02-2023,Race Course,9,12,11,7
+08-02-2023,Ukkadam,9,7,4,5
+08-02-2023,Town Hall,7,6,6,5
+08-02-2023,Kuniyamuthur,4,10,6,7
+08-02-2023,Sundarapuram,11,13,10,7
+08-02-2023,Podanur,4,5,4,6
+08-02-2023,Thudiyalur,8,9,12,3
+08-02-2023,Vadakovai,11,10,8,12
+08-02-2023,Ganapathy,13,14,14,10
+08-02-2023,Kalapatti,25,21,12,17
+08-02-2023,Kovaipudur,3,8,8,6
+08-02-2023,Selvapuram,12,14,4,1
+08-02-2023,Kurichi,5,10,11,6
+08-02-2023,Vadavalli,17,20,12,10
+15-02-2023,Gandhipuram,9,13,15,7
+15-02-2023,RS Puram,8,12,11,8
+15-02-2023,Saibaba Colony,5,11,12,10
+15-02-2023,Peelamedu,12,13,10,4
+15-02-2023,Singanallur,18,17,15,12
+15-02-2023,Saravanampatti,16,24,17,18
+15-02-2023,Race Course,17,15,11,4
+15-02-2023,Ukkadam,7,15,7,7
+15-02-2023,Town Hall,7,14,11,3
+15-02-2023,Kuniyamuthur,6,9,6,6
+15-02-2023,Sundarapuram,11,17,11,7
+15-02-2023,Podanur,3,7,4,7
+15-02-2023,Thudiyalur,7,11,10,3
+15-02-2023,Vadakovai,7,17,11,11
+15-02-2023,Ganapathy,16,11,14,8
+15-02-2023,Kalapatti,23,20,24,10
+15-02-2023,Kovaipudur,4,12,4,7
+15-02-2023,Selvapuram,7,15,8,7
+15-02-2023,Kurichi,10,7,8,3
+15-02-2023,Vadavalli,14,10,10,13
+22-02-2023,Gandhipuram,5,19,5,6
+22-02-2023,RS Puram,6,8,6,9
+22-02-2023,Saibaba Colony,11,13,9,9
+22-02-2023,Peelamedu,6,13,8,6
+22-02-2023,Singanallur,21,17,12,5
+22-02-2023,Saravanampatti,26,31,13,15
+22-02-2023,Race Course,7,14,11,10
+22-02-2023,Ukkadam,8,6,16,7
+22-02-2023,Town Hall,11,11,5,3
+22-02-2023,Kuniyamuthur,6,8,4,7
+22-02-2023,Sundarapuram,11,9,7,5
+22-02-2023,Podanur,7,6,6,1
+22-02-2023,Thudiyalur,10,9,10,8
+22-02-2023,Vadakovai,8,14,9,7
+22-02-2023,Ganapathy,17,25,23,12
+22-02-2023,Kalapatti,26,20,20,12
+22-02-2023,Kovaipudur,4,11,8,2
+22-02-2023,Selvapuram,6,13,9,4
+22-02-2023,Kurichi,9,7,8,4
+22-02-2023,Vadavalli,11,17,5,3
+01-03-2023,Gandhipuram,13,7,8,11
+01-03-2023,RS Puram,1,3,5,5
+01-03-2023,Saibaba Colony,16,14,11,5
+01-03-2023,Peelamedu,7,15,13,7
+01-03-2023,Singanallur,18,17,11,8
+01-03-2023,Saravanampatti,16,20,10,11
+01-03-2023,Race Course,10,12,9,2
+01-03-2023,Ukkadam,9,10,11,6
+01-03-2023,Town Hall,8,10,12,9
+01-03-2023,Kuniyamuthur,7,15,5,3
+01-03-2023,Sundarapuram,11,19,11,11
+01-03-2023,Podanur,4,4,5,3
+01-03-2023,Thudiyalur,10,7,9,5
+01-03-2023,Vadakovai,14,12,14,6
+01-03-2023,Ganapathy,21,11,15,14
+01-03-2023,Kalapatti,17,29,22,10
+01-03-2023,Kovaipudur,7,20,8,7
+01-03-2023,Selvapuram,11,11,9,2
+01-03-2023,Kurichi,8,10,11,12
+01-03-2023,Vadavalli,12,17,11,13
+08-03-2023,Gandhipuram,15,10,12,9
+08-03-2023,RS Puram,7,8,7,7
+08-03-2023,Saibaba Colony,14,19,11,11
+08-03-2023,Peelamedu,10,6,7,6
+08-03-2023,Singanallur,18,19,11,5
+08-03-2023,Saravanampatti,15,29,13,11
+08-03-2023,Race Course,16,19,13,5
+08-03-2023,Ukkadam,5,11,5,5
+08-03-2023,Town Hall,4,5,11,5
+08-03-2023,Kuniyamuthur,6,9,8,2
+08-03-2023,Sundarapuram,11,12,21,12
+08-03-2023,Podanur,4,2,8,1
+08-03-2023,Thudiyalur,3,13,8,7
+08-03-2023,Vadakovai,10,11,12,7
+08-03-2023,Ganapathy,15,17,11,13
+08-03-2023,Kalapatti,22,26,15,12
+08-03-2023,Kovaipudur,14,11,6,6
+08-03-2023,Selvapuram,6,6,1,3
+08-03-2023,Kurichi,15,7,9,7
+08-03-2023,Vadavalli,13,20,14,14
+15-03-2023,Gandhipuram,9,8,10,10
+15-03-2023,RS Puram,9,5,4,4
+15-03-2023,Saibaba Colony,11,14,11,6
+15-03-2023,Peelamedu,9,13,6,4
+15-03-2023,Singanallur,10,16,13,9
+15-03-2023,Saravanampatti,24,33,15,14
+15-03-2023,Race Course,11,13,6,4
+15-03-2023,Ukkadam,3,6,3,6
+15-03-2023,Town Hall,2,10,8,5
+15-03-2023,Kuniyamuthur,4,12,9,4
+15-03-2023,Sundarapuram,5,12,8,12
+15-03-2023,Podanur,6,9,3,5
+15-03-2023,Thudiyalur,16,6,12,4
+15-03-2023,Vadakovai,20,16,10,5
+15-03-2023,Ganapathy,10,19,18,14
+15-03-2023,Kalapatti,20,23,19,11
+15-03-2023,Kovaipudur,9,12,7,2
+15-03-2023,Selvapuram,10,10,6,7
+15-03-2023,Kurichi,9,18,8,7
+15-03-2023,Vadavalli,13,11,10,10
+22-03-2023,Gandhipuram,10,3,7,5
+22-03-2023,RS Puram,3,9,5,7
+22-03-2023,Saibaba Colony,1,16,7,10
+22-03-2023,Peelamedu,10,14,4,8
+22-03-2023,Singanallur,15,19,12,8
+22-03-2023,Saravanampatti,22,22,18,17
+22-03-2023,Race Course,10,13,6,6
+22-03-2023,Ukkadam,3,7,7,2
+22-03-2023,Town Hall,3,16,13,6
+22-03-2023,Kuniyamuthur,10,15,14,6
+22-03-2023,Sundarapuram,3,9,5,14
+22-03-2023,Podanur,7,4,4,7
+22-03-2023,Thudiyalur,3,6,8,8
+22-03-2023,Vadakovai,15,17,8,7
+22-03-2023,Ganapathy,19,11,20,11
+22-03-2023,Kalapatti,18,22,18,12
+22-03-2023,Kovaipudur,7,8,10,7
+22-03-2023,Selvapuram,11,12,8,8
+22-03-2023,Kurichi,12,13,8,7
+22-03-2023,Vadavalli,13,19,22,5
+29-03-2023,Gandhipuram,6,15,7,3
+29-03-2023,RS Puram,10,7,7,6
+29-03-2023,Saibaba Colony,10,8,15,2
+29-03-2023,Peelamedu,11,7,6,1
+29-03-2023,Singanallur,12,16,15,9
+29-03-2023,Saravanampatti,12,18,15,8
+29-03-2023,Race Course,9,10,8,12
+29-03-2023,Ukkadam,5,7,5,5
+29-03-2023,Town Hall,7,10,7,5
+29-03-2023,Kuniyamuthur,3,8,10,2
+29-03-2023,Sundarapuram,18,17,15,7
+29-03-2023,Podanur,8,8,5,1
+29-03-2023,Thudiyalur,8,9,6,4
+29-03-2023,Vadakovai,10,9,7,6
+29-03-2023,Ganapathy,9,13,9,13
+29-03-2023,Kalapatti,23,20,21,7
+29-03-2023,Kovaipudur,6,9,8,5
+29-03-2023,Selvapuram,9,9,10,3
+29-03-2023,Kurichi,10,16,13,6
+29-03-2023,Vadavalli,14,14,14,8
+05-04-2023,Gandhipuram,10,13,9,11
+05-04-2023,RS Puram,5,5,6,5
+05-04-2023,Saibaba Colony,13,8,11,11
+05-04-2023,Peelamedu,13,22,10,8
+05-04-2023,Singanallur,20,25,10,5
+05-04-2023,Saravanampatti,22,23,15,13
+05-04-2023,Race Course,8,9,9,8
+05-04-2023,Ukkadam,6,11,7,6
+05-04-2023,Town Hall,5,7,7,9
+05-04-2023,Kuniyamuthur,16,11,11,4
+05-04-2023,Sundarapuram,11,16,10,5
+05-04-2023,Podanur,8,8,8,2
+05-04-2023,Thudiyalur,4,14,2,8
+05-04-2023,Vadakovai,11,12,9,4
+05-04-2023,Ganapathy,18,21,19,12
+05-04-2023,Kalapatti,17,37,15,28
+05-04-2023,Kovaipudur,5,10,8,4
+05-04-2023,Selvapuram,11,9,7,8
+05-04-2023,Kurichi,5,10,7,6
+05-04-2023,Vadavalli,11,19,12,5
+12-04-2023,Gandhipuram,9,15,10,4
+12-04-2023,RS Puram,4,8,3,4
+12-04-2023,Saibaba Colony,6,9,8,7
+12-04-2023,Peelamedu,11,8,10,2
+12-04-2023,Singanallur,13,12,9,9
+12-04-2023,Saravanampatti,21,29,26,14
+12-04-2023,Race Course,16,14,6,10
+12-04-2023,Ukkadam,9,15,5,4
+12-04-2023,Town Hall,9,11,4,6
+12-04-2023,Kuniyamuthur,11,12,13,5
+12-04-2023,Sundarapuram,8,21,13,5
+12-04-2023,Podanur,3,7,0,6
+12-04-2023,Thudiyalur,12,11,6,4
+12-04-2023,Vadakovai,12,14,11,6
+12-04-2023,Ganapathy,22,28,13,13
+12-04-2023,Kalapatti,22,30,24,24
+12-04-2023,Kovaipudur,10,19,10,11
+12-04-2023,Selvapuram,7,13,9,5
+12-04-2023,Kurichi,5,7,6,4
+12-04-2023,Vadavalli,14,20,12,4
+19-04-2023,Gandhipuram,8,17,22,5
+19-04-2023,RS Puram,6,3,2,3
+19-04-2023,Saibaba Colony,12,14,7,9
+19-04-2023,Peelamedu,5,9,6,5
+19-04-2023,Singanallur,8,17,6,7
+19-04-2023,Saravanampatti,27,30,26,17
+19-04-2023,Race Course,9,16,7,6
+19-04-2023,Ukkadam,10,9,10,4
+19-04-2023,Town Hall,5,11,15,3
+19-04-2023,Kuniyamuthur,10,9,9,6
+19-04-2023,Sundarapuram,18,18,9,14
+19-04-2023,Podanur,4,4,2,3
+19-04-2023,Thudiyalur,3,8,2,6
+19-04-2023,Vadakovai,10,19,8,9
+19-04-2023,Ganapathy,13,13,16,10
+19-04-2023,Kalapatti,22,25,24,28
+19-04-2023,Kovaipudur,11,7,13,7
+19-04-2023,Selvapuram,8,7,9,8
+19-04-2023,Kurichi,10,11,15,7
+19-04-2023,Vadavalli,15,27,16,12
+26-04-2023,Gandhipuram,10,13,12,9
+26-04-2023,RS Puram,5,8,6,10
+26-04-2023,Saibaba Colony,6,15,9,8
+26-04-2023,Peelamedu,13,14,4,7
+26-04-2023,Singanallur,11,12,17,7
+26-04-2023,Saravanampatti,12,29,17,19
+26-04-2023,Race Course,15,15,6,7
+26-04-2023,Ukkadam,7,4,4,2
+26-04-2023,Town Hall,7,4,7,3
+26-04-2023,Kuniyamuthur,10,11,8,3
+26-04-2023,Sundarapuram,12,16,11,6
+26-04-2023,Podanur,2,5,2,2
+26-04-2023,Thudiyalur,5,12,13,5
+26-04-2023,Vadakovai,7,12,12,5
+26-04-2023,Ganapathy,22,21,21,7
+26-04-2023,Kalapatti,12,33,19,11
+26-04-2023,Kovaipudur,13,14,6,6
+26-04-2023,Selvapuram,14,11,7,4
+26-04-2023,Kurichi,14,13,9,6
+26-04-2023,Vadavalli,12,17,9,8
+03-05-2023,Gandhipuram,6,14,6,2
+03-05-2023,RS Puram,7,5,8,3
+03-05-2023,Saibaba Colony,10,12,14,9
+03-05-2023,Peelamedu,14,14,20,6
+03-05-2023,Singanallur,9,19,21,12
+03-05-2023,Saravanampatti,10,20,28,12
+03-05-2023,Race Course,9,16,20,1
+03-05-2023,Ukkadam,3,6,15,5
+03-05-2023,Town Hall,8,7,16,1
+03-05-2023,Kuniyamuthur,8,17,4,9
+03-05-2023,Sundarapuram,6,9,14,8
+03-05-2023,Podanur,4,4,13,3
+03-05-2023,Thudiyalur,11,14,12,7
+03-05-2023,Vadakovai,6,11,16,11
+03-05-2023,Ganapathy,8,19,35,10
+03-05-2023,Kalapatti,26,22,24,13
+03-05-2023,Kovaipudur,6,9,13,7
+03-05-2023,Selvapuram,8,15,8,5
+03-05-2023,Kurichi,9,14,15,6
+03-05-2023,Vadavalli,13,17,21,11
+10-05-2023,Gandhipuram,13,13,11,8
+10-05-2023,RS Puram,4,10,14,5
+10-05-2023,Saibaba Colony,9,10,18,11
+10-05-2023,Peelamedu,10,13,9,7
+10-05-2023,Singanallur,13,14,23,12
+10-05-2023,Saravanampatti,18,23,24,18
+10-05-2023,Race Course,6,13,8,4
+10-05-2023,Ukkadam,2,7,12,4
+10-05-2023,Town Hall,3,6,12,2
+10-05-2023,Kuniyamuthur,11,9,10,5
+10-05-2023,Sundarapuram,16,10,22,9
+10-05-2023,Podanur,3,6,5,0
+10-05-2023,Thudiyalur,6,7,8,7
+10-05-2023,Vadakovai,9,7,11,8
+10-05-2023,Ganapathy,20,23,24,9
+10-05-2023,Kalapatti,12,19,21,15
+10-05-2023,Kovaipudur,9,11,13,7
+10-05-2023,Selvapuram,7,10,16,5
+10-05-2023,Kurichi,12,5,10,4
+10-05-2023,Vadavalli,16,11,19,6
+17-05-2023,Gandhipuram,15,23,11,14
+17-05-2023,RS Puram,5,8,8,5
+17-05-2023,Saibaba Colony,5,8,17,8
+17-05-2023,Peelamedu,7,10,12,7
+17-05-2023,Singanallur,13,17,26,11
+17-05-2023,Saravanampatti,18,24,24,16
+17-05-2023,Race Course,10,15,17,6
+17-05-2023,Ukkadam,8,5,14,4
+17-05-2023,Town Hall,3,9,10,4
+17-05-2023,Kuniyamuthur,20,12,10,3
+17-05-2023,Sundarapuram,8,17,13,9
+17-05-2023,Podanur,5,5,5,4
+17-05-2023,Thudiyalur,5,9,4,3
+17-05-2023,Vadakovai,15,8,17,7
+17-05-2023,Ganapathy,17,22,26,13
+17-05-2023,Kalapatti,21,33,41,12
+17-05-2023,Kovaipudur,13,11,25,8
+17-05-2023,Selvapuram,7,8,8,2
+17-05-2023,Kurichi,9,11,8,8
+17-05-2023,Vadavalli,16,16,15,12
+24-05-2023,Gandhipuram,14,13,22,8
+24-05-2023,RS Puram,1,7,5,8
+24-05-2023,Saibaba Colony,8,18,12,6
+24-05-2023,Peelamedu,5,16,18,6
+24-05-2023,Singanallur,5,21,22,7
+24-05-2023,Saravanampatti,25,23,33,17
+24-05-2023,Race Course,9,21,13,12
+24-05-2023,Ukkadam,2,9,12,7
+24-05-2023,Town Hall,10,9,10,8
+24-05-2023,Kuniyamuthur,6,7,14,7
+24-05-2023,Sundarapuram,12,19,18,7
+24-05-2023,Podanur,7,8,6,10
+24-05-2023,Thudiyalur,8,10,8,4
+24-05-2023,Vadakovai,13,16,11,5
+24-05-2023,Ganapathy,16,21,19,11
+24-05-2023,Kalapatti,18,24,33,12
+24-05-2023,Kovaipudur,7,14,14,3
+24-05-2023,Selvapuram,10,13,17,8
+24-05-2023,Kurichi,12,9,15,4
+24-05-2023,Vadavalli,20,15,27,12
+31-05-2023,Gandhipuram,7,12,19,10
+31-05-2023,RS Puram,6,8,5,6
+31-05-2023,Saibaba Colony,9,14,16,8
+31-05-2023,Peelamedu,6,5,12,7
+31-05-2023,Singanallur,13,22,17,12
+31-05-2023,Saravanampatti,18,31,19,18
+31-05-2023,Race Course,12,19,11,7
+31-05-2023,Ukkadam,10,7,11,2
+31-05-2023,Town Hall,5,7,5,3
+31-05-2023,Kuniyamuthur,7,5,13,1
+31-05-2023,Sundarapuram,9,15,20,10
+31-05-2023,Podanur,7,7,6,3
+31-05-2023,Thudiyalur,11,12,9,6
+31-05-2023,Vadakovai,7,13,12,7
+31-05-2023,Ganapathy,17,19,21,12
+31-05-2023,Kalapatti,27,35,32,13
+31-05-2023,Kovaipudur,13,19,15,5
+31-05-2023,Selvapuram,12,14,12,6
+31-05-2023,Kurichi,17,18,8,7
+31-05-2023,Vadavalli,14,14,20,6
+07-06-2023,Gandhipuram,16,9,19,8
+07-06-2023,RS Puram,9,9,11,5
+07-06-2023,Saibaba Colony,15,18,11,5
+07-06-2023,Peelamedu,13,13,10,7
+07-06-2023,Singanallur,26,17,18,9
+07-06-2023,Saravanampatti,33,30,30,10
+07-06-2023,Race Course,22,15,17,6
+07-06-2023,Ukkadam,13,11,8,6
+07-06-2023,Town Hall,11,11,14,3
+07-06-2023,Kuniyamuthur,10,12,12,7
+07-06-2023,Sundarapuram,23,22,19,8
+07-06-2023,Podanur,8,10,7,3
+07-06-2023,Thudiyalur,18,13,14,7
+07-06-2023,Vadakovai,23,17,12,6
+07-06-2023,Ganapathy,23,18,18,13
+07-06-2023,Kalapatti,28,25,35,19
+07-06-2023,Kovaipudur,15,11,15,14
+07-06-2023,Selvapuram,13,9,13,7
+07-06-2023,Kurichi,20,6,16,3
+07-06-2023,Vadavalli,23,11,19,11
+14-06-2023,Gandhipuram,17,14,18,6
+14-06-2023,RS Puram,11,6,11,6
+14-06-2023,Saibaba Colony,27,21,14,7
+14-06-2023,Peelamedu,11,12,14,6
+14-06-2023,Singanallur,22,23,17,5
+14-06-2023,Saravanampatti,22,31,14,9
+14-06-2023,Race Course,17,14,9,11
+14-06-2023,Ukkadam,17,19,14,2
+14-06-2023,Town Hall,10,6,11,6
+14-06-2023,Kuniyamuthur,16,13,16,5
+14-06-2023,Sundarapuram,15,10,16,6
+14-06-2023,Podanur,4,9,6,3
+14-06-2023,Thudiyalur,11,7,19,8
+14-06-2023,Vadakovai,13,11,20,2
+14-06-2023,Ganapathy,33,21,28,18
+14-06-2023,Kalapatti,41,24,44,19
+14-06-2023,Kovaipudur,17,12,10,9
+14-06-2023,Selvapuram,20,12,28,10
+14-06-2023,Kurichi,15,11,14,9
+14-06-2023,Vadavalli,19,19,23,14
+21-06-2023,Gandhipuram,12,17,16,10
+21-06-2023,RS Puram,14,14,8,8
+21-06-2023,Saibaba Colony,28,14,14,14
+21-06-2023,Peelamedu,14,15,14,9
+21-06-2023,Singanallur,16,22,18,12
+21-06-2023,Saravanampatti,43,22,30,16
+21-06-2023,Race Course,14,8,16,8
+21-06-2023,Ukkadam,11,14,8,7
+21-06-2023,Town Hall,12,6,11,1
+21-06-2023,Kuniyamuthur,9,6,12,3
+21-06-2023,Sundarapuram,18,17,16,8
+21-06-2023,Podanur,8,9,6,1
+21-06-2023,Thudiyalur,23,14,11,12
+21-06-2023,Vadakovai,21,19,14,10
+21-06-2023,Ganapathy,29,24,25,8
+21-06-2023,Kalapatti,30,33,35,13
+21-06-2023,Kovaipudur,14,9,15,9
+21-06-2023,Selvapuram,18,19,20,2
+21-06-2023,Kurichi,14,14,16,5
+21-06-2023,Vadavalli,28,19,27,12
+28-06-2023,Gandhipuram,18,17,20,6
+28-06-2023,RS Puram,10,12,14,5
+28-06-2023,Saibaba Colony,17,10,15,7
+28-06-2023,Peelamedu,18,9,11,10
+28-06-2023,Singanallur,23,10,21,9
+28-06-2023,Saravanampatti,29,23,30,23
+28-06-2023,Race Course,18,17,19,6
+28-06-2023,Ukkadam,12,11,14,6
+28-06-2023,Town Hall,13,14,11,6
+28-06-2023,Kuniyamuthur,13,10,11,11
+28-06-2023,Sundarapuram,17,14,22,7
+28-06-2023,Podanur,6,4,15,7
+28-06-2023,Thudiyalur,12,12,16,8
+28-06-2023,Vadakovai,25,22,12,9
+28-06-2023,Ganapathy,23,18,16,12
+28-06-2023,Kalapatti,29,33,35,11
+28-06-2023,Kovaipudur,14,12,18,8
+28-06-2023,Selvapuram,16,20,17,4
+28-06-2023,Kurichi,25,13,13,5
+28-06-2023,Vadavalli,24,16,18,11
+05-07-2023,Gandhipuram,18,22,9,4
+05-07-2023,RS Puram,14,10,11,6
+05-07-2023,Saibaba Colony,20,19,10,6
+05-07-2023,Peelamedu,18,16,13,14
+05-07-2023,Singanallur,28,38,17,8
+05-07-2023,Saravanampatti,39,43,31,18
+05-07-2023,Race Course,12,29,23,7
+05-07-2023,Ukkadam,11,10,13,10
+05-07-2023,Town Hall,12,17,14,2
+05-07-2023,Kuniyamuthur,5,17,18,1
+05-07-2023,Sundarapuram,20,19,16,6
+05-07-2023,Podanur,7,12,6,5
+05-07-2023,Thudiyalur,13,15,20,8
+05-07-2023,Vadakovai,14,27,14,13
+05-07-2023,Ganapathy,27,34,15,7
+05-07-2023,Kalapatti,31,48,44,13
+05-07-2023,Kovaipudur,15,29,17,7
+05-07-2023,Selvapuram,19,17,14,4
+05-07-2023,Kurichi,20,24,11,9
+05-07-2023,Vadavalli,29,36,27,7
+12-07-2023,Gandhipuram,21,22,26,6
+12-07-2023,RS Puram,17,19,7,2
+12-07-2023,Saibaba Colony,22,21,19,4
+12-07-2023,Peelamedu,14,21,8,9
+12-07-2023,Singanallur,25,26,29,15
+12-07-2023,Saravanampatti,39,39,44,11
+12-07-2023,Race Course,10,30,16,11
+12-07-2023,Ukkadam,16,18,10,6
+12-07-2023,Town Hall,12,23,11,6
+12-07-2023,Kuniyamuthur,18,16,16,11
+12-07-2023,Sundarapuram,14,21,18,9
+12-07-2023,Podanur,9,4,8,2
+12-07-2023,Thudiyalur,20,18,14,9
+12-07-2023,Vadakovai,25,31,16,8
+12-07-2023,Ganapathy,30,26,23,9
+12-07-2023,Kalapatti,34,50,29,15
+12-07-2023,Kovaipudur,12,27,16,2
+12-07-2023,Selvapuram,11,22,13,5
+12-07-2023,Kurichi,13,16,18,11
+12-07-2023,Vadavalli,28,24,23,10
+19-07-2023,Gandhipuram,12,20,13,17
+19-07-2023,RS Puram,15,13,16,5
+19-07-2023,Saibaba Colony,23,20,21,4
+19-07-2023,Peelamedu,16,19,14,6
+19-07-2023,Singanallur,25,30,22,13
+19-07-2023,Saravanampatti,43,36,35,16
+19-07-2023,Race Course,16,28,21,9
+19-07-2023,Ukkadam,23,14,17,5
+19-07-2023,Town Hall,5,22,8,7
+19-07-2023,Kuniyamuthur,14,20,21,7
+19-07-2023,Sundarapuram,20,19,18,10
+19-07-2023,Podanur,9,11,8,7
+19-07-2023,Thudiyalur,14,24,17,8
+19-07-2023,Vadakovai,24,27,20,5
+19-07-2023,Ganapathy,24,32,37,15
+19-07-2023,Kalapatti,38,51,27,9
+19-07-2023,Kovaipudur,19,16,15,5
+19-07-2023,Selvapuram,14,10,8,7
+19-07-2023,Kurichi,14,22,16,5
+19-07-2023,Vadavalli,17,34,20,13
+26-07-2023,Gandhipuram,23,21,27,9
+26-07-2023,RS Puram,11,9,15,8
+26-07-2023,Saibaba Colony,14,20,10,3
+26-07-2023,Peelamedu,11,17,14,4
+26-07-2023,Singanallur,23,23,19,10
+26-07-2023,Saravanampatti,40,44,28,19
+26-07-2023,Race Course,19,25,20,10
+26-07-2023,Ukkadam,19,20,9,6
+26-07-2023,Town Hall,8,18,15,10
+26-07-2023,Kuniyamuthur,14,17,9,8
+26-07-2023,Sundarapuram,21,23,15,10
+26-07-2023,Podanur,8,12,12,3
+26-07-2023,Thudiyalur,19,18,11,10
+26-07-2023,Vadakovai,18,24,15,10
+26-07-2023,Ganapathy,27,32,25,16
+26-07-2023,Kalapatti,34,34,21,12
+26-07-2023,Kovaipudur,16,25,14,6
+26-07-2023,Selvapuram,12,15,14,8
+26-07-2023,Kurichi,17,21,16,4
+26-07-2023,Vadavalli,27,33,32,5
+02-08-2023,Gandhipuram,23,25,22,13
+02-08-2023,RS Puram,12,15,14,7
+02-08-2023,Saibaba Colony,20,24,17,10
+02-08-2023,Peelamedu,16,14,13,14
+02-08-2023,Singanallur,19,24,18,18
+02-08-2023,Saravanampatti,26,47,26,25
+02-08-2023,Race Course,18,23,17,17
+02-08-2023,Ukkadam,13,18,15,18
+02-08-2023,Town Hall,9,14,10,8
+02-08-2023,Kuniyamuthur,22,16,11,13
+02-08-2023,Sundarapuram,18,27,16,10
+02-08-2023,Podanur,10,12,12,7
+02-08-2023,Thudiyalur,13,17,20,11
+02-08-2023,Vadakovai,20,22,18,13
+02-08-2023,Ganapathy,25,27,16,12
+02-08-2023,Kalapatti,29,34,27,25
+02-08-2023,Kovaipudur,24,20,16,7
+02-08-2023,Selvapuram,16,19,14,14
+02-08-2023,Kurichi,15,12,9,10
+02-08-2023,Vadavalli,21,34,24,15
+09-08-2023,Gandhipuram,21,19,23,17
+09-08-2023,RS Puram,8,10,8,4
+09-08-2023,Saibaba Colony,26,25,18,10
+09-08-2023,Peelamedu,9,21,19,12
+09-08-2023,Singanallur,22,27,20,13
+09-08-2023,Saravanampatti,28,38,38,30
+09-08-2023,Race Course,22,21,13,13
+09-08-2023,Ukkadam,9,17,14,10
+09-08-2023,Town Hall,16,11,9,4
+09-08-2023,Kuniyamuthur,12,18,13,18
+09-08-2023,Sundarapuram,23,25,21,14
+09-08-2023,Podanur,10,10,12,8
+09-08-2023,Thudiyalur,15,19,14,13
+09-08-2023,Vadakovai,13,29,20,12
+09-08-2023,Ganapathy,35,38,31,26
+09-08-2023,Kalapatti,27,49,36,25
+09-08-2023,Kovaipudur,16,20,11,6
+09-08-2023,Selvapuram,15,22,10,9
+09-08-2023,Kurichi,14,16,16,14
+09-08-2023,Vadavalli,21,30,24,15
+16-08-2023,Gandhipuram,15,37,16,16
+16-08-2023,RS Puram,7,15,13,7
+16-08-2023,Saibaba Colony,22,25,8,8
+16-08-2023,Peelamedu,13,14,16,17
+16-08-2023,Singanallur,27,28,24,10
+16-08-2023,Saravanampatti,35,41,29,24
+16-08-2023,Race Course,15,23,14,14
+16-08-2023,Ukkadam,13,19,12,8
+16-08-2023,Town Hall,16,17,9,12
+16-08-2023,Kuniyamuthur,9,25,17,15
+16-08-2023,Sundarapuram,25,14,15,12
+16-08-2023,Podanur,8,4,9,7
+16-08-2023,Thudiyalur,20,16,12,13
+16-08-2023,Vadakovai,15,26,14,16
+16-08-2023,Ganapathy,21,25,16,17
+16-08-2023,Kalapatti,29,41,49,29
+16-08-2023,Kovaipudur,19,12,15,10
+16-08-2023,Selvapuram,18,10,10,11
+16-08-2023,Kurichi,21,24,9,16
+16-08-2023,Vadavalli,21,31,19,18
+23-08-2023,Gandhipuram,17,32,18,8
+23-08-2023,RS Puram,7,17,11,6
+23-08-2023,Saibaba Colony,15,23,9,15
+23-08-2023,Peelamedu,11,18,13,7
+23-08-2023,Singanallur,32,20,12,15
+23-08-2023,Saravanampatti,33,29,37,21
+23-08-2023,Race Course,18,31,18,11
+23-08-2023,Ukkadam,17,12,10,16
+23-08-2023,Town Hall,9,21,12,11
+23-08-2023,Kuniyamuthur,12,23,18,7
+23-08-2023,Sundarapuram,22,24,20,15
+23-08-2023,Podanur,7,12,8,3
+23-08-2023,Thudiyalur,11,9,8,13
+23-08-2023,Vadakovai,13,31,16,16
+23-08-2023,Ganapathy,26,32,28,19
+23-08-2023,Kalapatti,36,40,30,20
+23-08-2023,Kovaipudur,13,23,14,12
+23-08-2023,Selvapuram,8,23,19,11
+23-08-2023,Kurichi,16,18,17,12
+23-08-2023,Vadavalli,26,32,21,18
+30-08-2023,Gandhipuram,18,28,27,11
+30-08-2023,RS Puram,13,15,11,11
+30-08-2023,Saibaba Colony,12,18,9,14
+30-08-2023,Peelamedu,17,12,12,12
+30-08-2023,Singanallur,24,37,20,19
+30-08-2023,Saravanampatti,30,43,19,26
+30-08-2023,Race Course,24,28,20,12
+30-08-2023,Ukkadam,16,20,17,5
+30-08-2023,Town Hall,10,13,12,10
+30-08-2023,Kuniyamuthur,10,22,11,6
+30-08-2023,Sundarapuram,29,31,18,16
+30-08-2023,Podanur,6,8,8,2
+30-08-2023,Thudiyalur,12,16,13,11
+30-08-2023,Vadakovai,18,25,10,10
+30-08-2023,Ganapathy,15,25,26,26
+30-08-2023,Kalapatti,30,36,39,26
+30-08-2023,Kovaipudur,17,16,10,7
+30-08-2023,Selvapuram,14,18,13,10
+30-08-2023,Kurichi,11,15,20,11
+30-08-2023,Vadavalli,27,25,16,15
+06-09-2023,Gandhipuram,13,30,7,18
+06-09-2023,RS Puram,11,9,9,13
+06-09-2023,Saibaba Colony,17,12,14,9
+06-09-2023,Peelamedu,17,15,8,11
+06-09-2023,Singanallur,16,20,11,15
+06-09-2023,Saravanampatti,33,37,19,22
+06-09-2023,Race Course,20,21,7,19
+06-09-2023,Ukkadam,8,13,11,9
+06-09-2023,Town Hall,9,14,5,9
+06-09-2023,Kuniyamuthur,8,21,10,9
+06-09-2023,Sundarapuram,21,24,15,16
+06-09-2023,Podanur,12,14,5,5
+06-09-2023,Thudiyalur,14,22,6,15
+06-09-2023,Vadakovai,12,21,7,15
+06-09-2023,Ganapathy,30,26,20,17
+06-09-2023,Kalapatti,29,33,19,27
+06-09-2023,Kovaipudur,10,18,4,14
+06-09-2023,Selvapuram,9,16,11,9
+06-09-2023,Kurichi,11,18,9,10
+06-09-2023,Vadavalli,25,32,19,12
+13-09-2023,Gandhipuram,16,17,15,10
+13-09-2023,RS Puram,12,16,5,4
+13-09-2023,Saibaba Colony,23,29,8,11
+13-09-2023,Peelamedu,14,24,10,8
+13-09-2023,Singanallur,26,17,13,18
+13-09-2023,Saravanampatti,35,27,20,22
+13-09-2023,Race Course,28,25,12,21
+13-09-2023,Ukkadam,16,19,6,8
+13-09-2023,Town Hall,13,17,8,6
+13-09-2023,Kuniyamuthur,14,16,10,8
+13-09-2023,Sundarapuram,14,33,10,15
+13-09-2023,Podanur,13,12,9,3
+13-09-2023,Thudiyalur,12,21,6,9
+13-09-2023,Vadakovai,16,24,11,8
+13-09-2023,Ganapathy,22,33,15,10
+13-09-2023,Kalapatti,31,39,22,18
+13-09-2023,Kovaipudur,15,28,13,21
+13-09-2023,Selvapuram,12,17,9,11
+13-09-2023,Kurichi,12,23,17,7
+13-09-2023,Vadavalli,27,18,22,9
+20-09-2023,Gandhipuram,17,20,10,14
+20-09-2023,RS Puram,13,11,6,6
+20-09-2023,Saibaba Colony,18,26,12,9
+20-09-2023,Peelamedu,12,23,6,7
+20-09-2023,Singanallur,19,25,8,15
+20-09-2023,Saravanampatti,30,32,14,28
+20-09-2023,Race Course,10,22,7,12
+20-09-2023,Ukkadam,16,11,7,9
+20-09-2023,Town Hall,12,13,6,7
+20-09-2023,Kuniyamuthur,18,16,8,11
+20-09-2023,Sundarapuram,18,26,8,12
+20-09-2023,Podanur,11,7,5,3
+20-09-2023,Thudiyalur,16,16,16,6
+20-09-2023,Vadakovai,18,29,9,14
+20-09-2023,Ganapathy,34,43,17,16
+20-09-2023,Kalapatti,31,37,19,32
+20-09-2023,Kovaipudur,20,21,14,10
+20-09-2023,Selvapuram,16,14,8,6
+20-09-2023,Kurichi,20,26,10,14
+20-09-2023,Vadavalli,29,25,19,18
+27-09-2023,Gandhipuram,23,21,15,10
+27-09-2023,RS Puram,7,13,8,10
+27-09-2023,Saibaba Colony,14,20,7,8
+27-09-2023,Peelamedu,13,17,12,13
+27-09-2023,Singanallur,24,38,13,20
+27-09-2023,Saravanampatti,34,33,23,20
+27-09-2023,Race Course,22,22,9,8
+27-09-2023,Ukkadam,11,20,8,10
+27-09-2023,Town Hall,11,16,13,5
+27-09-2023,Kuniyamuthur,13,11,13,11
+27-09-2023,Sundarapuram,19,14,12,14
+27-09-2023,Podanur,11,12,5,7
+27-09-2023,Thudiyalur,17,19,10,12
+27-09-2023,Vadakovai,23,26,8,12
+27-09-2023,Ganapathy,25,27,17,18
+27-09-2023,Kalapatti,26,40,15,26
+27-09-2023,Kovaipudur,13,21,9,12
+27-09-2023,Selvapuram,16,18,9,8
+27-09-2023,Kurichi,14,21,9,13
+27-09-2023,Vadavalli,24,30,15,18
+04-10-2023,Gandhipuram,6,25,10,12
+04-10-2023,RS Puram,13,11,11,11
+04-10-2023,Saibaba Colony,11,16,7,7
+04-10-2023,Peelamedu,8,20,8,12
+04-10-2023,Singanallur,15,30,15,24
+04-10-2023,Saravanampatti,18,45,27,26
+04-10-2023,Race Course,12,21,14,13
+04-10-2023,Ukkadam,7,12,11,11
+04-10-2023,Town Hall,12,14,4,10
+04-10-2023,Kuniyamuthur,9,15,4,8
+04-10-2023,Sundarapuram,17,23,9,14
+04-10-2023,Podanur,8,13,4,4
+04-10-2023,Thudiyalur,9,20,12,13
+04-10-2023,Vadakovai,12,17,13,19
+04-10-2023,Ganapathy,17,32,9,15
+04-10-2023,Kalapatti,16,45,14,22
+04-10-2023,Kovaipudur,7,28,9,16
+04-10-2023,Selvapuram,18,16,17,6
+04-10-2023,Kurichi,9,15,14,5
+04-10-2023,Vadavalli,23,24,21,15
+11-10-2023,Gandhipuram,8,19,14,11
+11-10-2023,RS Puram,7,21,8,7
+11-10-2023,Saibaba Colony,14,17,9,13
+11-10-2023,Peelamedu,10,12,7,12
+11-10-2023,Singanallur,25,26,16,16
+11-10-2023,Saravanampatti,13,32,20,18
+11-10-2023,Race Course,10,20,13,9
+11-10-2023,Ukkadam,6,14,7,20
+11-10-2023,Town Hall,10,12,7,9
+11-10-2023,Kuniyamuthur,11,23,14,7
+11-10-2023,Sundarapuram,11,24,14,19
+11-10-2023,Podanur,8,9,1,5
+11-10-2023,Thudiyalur,12,17,10,13
+11-10-2023,Vadakovai,9,28,12,12
+11-10-2023,Ganapathy,14,25,13,21
+11-10-2023,Kalapatti,18,30,21,16
+11-10-2023,Kovaipudur,10,17,8,12
+11-10-2023,Selvapuram,4,17,5,8
+11-10-2023,Kurichi,12,17,8,9
+11-10-2023,Vadavalli,14,36,18,14
+18-10-2023,Gandhipuram,15,23,9,13
+18-10-2023,RS Puram,9,15,6,3
+18-10-2023,Saibaba Colony,14,22,12,15
+18-10-2023,Peelamedu,8,15,6,13
+18-10-2023,Singanallur,13,30,13,12
+18-10-2023,Saravanampatti,15,42,23,24
+18-10-2023,Race Course,14,14,11,10
+18-10-2023,Ukkadam,8,15,12,10
+18-10-2023,Town Hall,3,17,5,7
+18-10-2023,Kuniyamuthur,14,18,13,7
+18-10-2023,Sundarapuram,17,19,11,8
+18-10-2023,Podanur,6,17,3,9
+18-10-2023,Thudiyalur,10,17,9,7
+18-10-2023,Vadakovai,12,23,12,11
+18-10-2023,Ganapathy,12,28,16,23
+18-10-2023,Kalapatti,12,28,17,24
+18-10-2023,Kovaipudur,9,22,7,11
+18-10-2023,Selvapuram,7,14,11,16
+18-10-2023,Kurichi,9,21,10,13
+18-10-2023,Vadavalli,19,26,16,23
+25-10-2023,Gandhipuram,13,28,11,11
+25-10-2023,RS Puram,4,14,4,4
+25-10-2023,Saibaba Colony,8,26,17,14
+25-10-2023,Peelamedu,9,16,9,8
+25-10-2023,Singanallur,15,26,13,12
+25-10-2023,Saravanampatti,23,43,17,21
+25-10-2023,Race Course,9,20,12,9
+25-10-2023,Ukkadam,8,16,13,17
+25-10-2023,Town Hall,9,22,7,10
+25-10-2023,Kuniyamuthur,6,17,4,8
+25-10-2023,Sundarapuram,11,25,8,17
+25-10-2023,Podanur,7,8,6,10
+25-10-2023,Thudiyalur,9,8,10,10
+25-10-2023,Vadakovai,9,20,8,13
+25-10-2023,Ganapathy,12,35,12,18
+25-10-2023,Kalapatti,12,46,22,22
+25-10-2023,Kovaipudur,11,30,10,7
+25-10-2023,Selvapuram,14,15,7,8
+25-10-2023,Kurichi,12,13,11,11
+25-10-2023,Vadavalli,18,32,13,17
+01-11-2023,Gandhipuram,13,15,9,17
+01-11-2023,RS Puram,6,8,5,8
+01-11-2023,Saibaba Colony,18,16,15,12
+01-11-2023,Peelamedu,7,13,11,8
+01-11-2023,Singanallur,17,23,9,16
+01-11-2023,Saravanampatti,16,30,29,32
+01-11-2023,Race Course,16,16,10,17
+01-11-2023,Ukkadam,6,13,12,9
+01-11-2023,Town Hall,6,15,4,19
+01-11-2023,Kuniyamuthur,9,14,9,8
+01-11-2023,Sundarapuram,19,13,13,14
+01-11-2023,Podanur,6,8,2,7
+01-11-2023,Thudiyalur,15,12,9,4
+01-11-2023,Vadakovai,13,23,8,12
+01-11-2023,Ganapathy,10,21,18,19
+01-11-2023,Kalapatti,14,34,20,27
+01-11-2023,Kovaipudur,10,19,5,11
+01-11-2023,Selvapuram,9,22,13,9
+01-11-2023,Kurichi,6,10,17,10
+01-11-2023,Vadavalli,20,24,19,20
+08-11-2023,Gandhipuram,10,15,10,17
+08-11-2023,RS Puram,8,4,8,1
+08-11-2023,Saibaba Colony,15,12,11,6
+08-11-2023,Peelamedu,10,12,8,14
+08-11-2023,Singanallur,14,20,16,13
+08-11-2023,Saravanampatti,19,19,19,19
+08-11-2023,Race Course,11,20,12,23
+08-11-2023,Ukkadam,11,11,2,9
+08-11-2023,Town Hall,5,13,9,4
+08-11-2023,Kuniyamuthur,5,9,7,9
+08-11-2023,Sundarapuram,14,18,10,18
+08-11-2023,Podanur,6,12,8,7
+08-11-2023,Thudiyalur,10,8,8,9
+08-11-2023,Vadakovai,13,9,13,15
+08-11-2023,Ganapathy,19,20,14,13
+08-11-2023,Kalapatti,20,27,21,20
+08-11-2023,Kovaipudur,14,17,10,10
+08-11-2023,Selvapuram,8,16,9,5
+08-11-2023,Kurichi,10,12,14,18
+08-11-2023,Vadavalli,23,35,10,11
+15-11-2023,Gandhipuram,15,16,14,19
+15-11-2023,RS Puram,10,10,10,13
+15-11-2023,Saibaba Colony,14,14,10,12
+15-11-2023,Peelamedu,8,12,9,13
+15-11-2023,Singanallur,5,29,16,15
+15-11-2023,Saravanampatti,20,29,21,21
+15-11-2023,Race Course,9,11,11,18
+15-11-2023,Ukkadam,7,10,6,5
+15-11-2023,Town Hall,3,3,5,6
+15-11-2023,Kuniyamuthur,13,17,8,11
+15-11-2023,Sundarapuram,15,16,14,13
+15-11-2023,Podanur,5,9,6,6
+15-11-2023,Thudiyalur,4,8,7,16
+15-11-2023,Vadakovai,12,14,10,14
+15-11-2023,Ganapathy,21,15,13,14
+15-11-2023,Kalapatti,17,29,28,24
+15-11-2023,Kovaipudur,7,13,4,15
+15-11-2023,Selvapuram,8,5,13,8
+15-11-2023,Kurichi,12,14,9,13
+15-11-2023,Vadavalli,12,18,13,12
+22-11-2023,Gandhipuram,17,12,7,16
+22-11-2023,RS Puram,7,10,9,8
+22-11-2023,Saibaba Colony,11,15,13,13
+22-11-2023,Peelamedu,15,12,7,8
+22-11-2023,Singanallur,14,21,16,11
+22-11-2023,Saravanampatti,18,28,20,19
+22-11-2023,Race Course,9,15,14,6
+22-11-2023,Ukkadam,9,6,7,20
+22-11-2023,Town Hall,9,11,6,7
+22-11-2023,Kuniyamuthur,13,13,9,10
+22-11-2023,Sundarapuram,15,24,12,19
+22-11-2023,Podanur,4,5,6,11
+22-11-2023,Thudiyalur,6,17,6,14
+22-11-2023,Vadakovai,19,8,9,11
+22-11-2023,Ganapathy,19,26,18,22
+22-11-2023,Kalapatti,24,22,24,26
+22-11-2023,Kovaipudur,6,14,7,9
+22-11-2023,Selvapuram,13,4,5,6
+22-11-2023,Kurichi,10,13,15,9
+22-11-2023,Vadavalli,19,15,7,13
+29-11-2023,Gandhipuram,17,19,11,10
+29-11-2023,RS Puram,4,8,13,5
+29-11-2023,Saibaba Colony,7,19,10,16
+29-11-2023,Peelamedu,12,14,14,8
+29-11-2023,Singanallur,20,14,19,21
+29-11-2023,Saravanampatti,14,36,28,15
+29-11-2023,Race Course,18,9,15,8
+29-11-2023,Ukkadam,11,8,3,13
+29-11-2023,Town Hall,4,4,7,8
+29-11-2023,Kuniyamuthur,18,14,14,4
+29-11-2023,Sundarapuram,13,16,10,9
+29-11-2023,Podanur,8,6,7,2
+29-11-2023,Thudiyalur,8,14,9,10
+29-11-2023,Vadakovai,16,11,7,14
+29-11-2023,Ganapathy,19,25,9,15
+29-11-2023,Kalapatti,15,35,27,22
+29-11-2023,Kovaipudur,12,13,7,8
+29-11-2023,Selvapuram,9,15,9,4
+29-11-2023,Kurichi,6,14,8,8
+29-11-2023,Vadavalli,19,23,20,16
+06-12-2023,Gandhipuram,8,19,10,13
+06-12-2023,RS Puram,7,10,8,3
+06-12-2023,Saibaba Colony,13,14,8,6
+06-12-2023,Peelamedu,9,16,16,7
+06-12-2023,Singanallur,9,22,16,10
+06-12-2023,Saravanampatti,25,26,15,12
+06-12-2023,Race Course,13,13,10,4
+06-12-2023,Ukkadam,8,16,14,7
+06-12-2023,Town Hall,13,6,6,3
+06-12-2023,Kuniyamuthur,7,12,9,7
+06-12-2023,Sundarapuram,12,13,21,14
+06-12-2023,Podanur,3,5,5,1
+06-12-2023,Thudiyalur,6,6,11,6
+06-12-2023,Vadakovai,11,14,12,11
+06-12-2023,Ganapathy,15,15,9,15
+06-12-2023,Kalapatti,23,17,20,9
+06-12-2023,Kovaipudur,12,13,11,13
+06-12-2023,Selvapuram,15,9,8,4
+06-12-2023,Kurichi,9,15,9,7
+06-12-2023,Vadavalli,13,21,16,13
+13-12-2023,Gandhipuram,13,6,7,2
+13-12-2023,RS Puram,7,5,4,1
+13-12-2023,Saibaba Colony,11,13,12,18
+13-12-2023,Peelamedu,6,7,5,7
+13-12-2023,Singanallur,16,17,15,7
+13-12-2023,Saravanampatti,21,29,20,14
+13-12-2023,Race Course,21,9,10,7
+13-12-2023,Ukkadam,7,12,3,4
+13-12-2023,Town Hall,9,12,11,6
+13-12-2023,Kuniyamuthur,10,10,6,6
+13-12-2023,Sundarapuram,18,15,10,6
+13-12-2023,Podanur,6,6,3,3
+13-12-2023,Thudiyalur,9,14,6,7
+13-12-2023,Vadakovai,3,9,5,7
+13-12-2023,Ganapathy,10,20,13,17
+13-12-2023,Kalapatti,17,26,24,14
+13-12-2023,Kovaipudur,8,10,5,7
+13-12-2023,Selvapuram,14,17,2,5
+13-12-2023,Kurichi,10,13,11,3
+13-12-2023,Vadavalli,14,19,15,6
+20-12-2023,Gandhipuram,16,10,13,5
+20-12-2023,RS Puram,12,8,9,6
+20-12-2023,Saibaba Colony,14,14,11,9
+20-12-2023,Peelamedu,12,11,14,7
+20-12-2023,Singanallur,14,19,10,9
+20-12-2023,Saravanampatti,21,14,14,19
+20-12-2023,Race Course,17,18,11,12
+20-12-2023,Ukkadam,6,5,4,1
+20-12-2023,Town Hall,5,9,4,3
+20-12-2023,Kuniyamuthur,8,15,8,10
+20-12-2023,Sundarapuram,8,12,7,7
+20-12-2023,Podanur,1,8,4,4
+20-12-2023,Thudiyalur,12,14,9,10
+20-12-2023,Vadakovai,12,19,11,6
+20-12-2023,Ganapathy,17,14,13,16
+20-12-2023,Kalapatti,17,24,16,15
+20-12-2023,Kovaipudur,13,13,8,4
+20-12-2023,Selvapuram,10,7,0,3
+20-12-2023,Kurichi,13,8,8,7
+20-12-2023,Vadavalli,18,25,15,8
+27-12-2023,Gandhipuram,2,10,14,15
+27-12-2023,RS Puram,9,11,6,4
+27-12-2023,Saibaba Colony,7,11,13,4
+27-12-2023,Peelamedu,10,13,11,7
+27-12-2023,Singanallur,10,20,7,8
+27-12-2023,Saravanampatti,23,36,21,10
+27-12-2023,Race Course,6,12,6,5
+27-12-2023,Ukkadam,8,8,7,6
+27-12-2023,Town Hall,5,8,2,7
+27-12-2023,Kuniyamuthur,5,10,4,6
+27-12-2023,Sundarapuram,15,3,10,11
+27-12-2023,Podanur,8,4,5,5
+27-12-2023,Thudiyalur,5,16,9,5
+27-12-2023,Vadakovai,9,13,14,11
+27-12-2023,Ganapathy,8,17,12,16
+27-12-2023,Kalapatti,26,24,10,12
+27-12-2023,Kovaipudur,12,10,7,5
+27-12-2023,Selvapuram,11,16,6,8
+27-12-2023,Kurichi,7,12,7,3
+27-12-2023,Vadavalli,12,16,6,8

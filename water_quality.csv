@@ -1,0 +1,4181 @@
+date,ward,chlorine_mgL,turbidity_NTU
+2020-01-01,Gandhipuram,0.32,5.6
+2020-01-01,RS Puram,0.59,4.0
+2020-01-01,Saibaba Colony,0.47,5.6
+2020-01-01,Peelamedu,0.44,3.4
+2020-01-01,Singanallur,0.28,3.8
+2020-01-01,Saravanampatti,0.1,4.6
+2020-01-01,Race Course,0.09,3.9
+2020-01-01,Ukkadam,0.55,3.8
+2020-01-01,Town Hall,0.48,4.4
+2020-01-01,Kuniyamuthur,0.46,2.0
+2020-01-01,Sundarapuram,0.05,6.2
+2020-01-01,Podanur,0.54,3.6
+2020-01-01,Thudiyalur,0.75,3.5
+2020-01-01,Vadakovai,0.06,9.5
+2020-01-01,Ganapathy,0.05,7.9
+2020-01-01,Kalapatti,0.07,5.2
+2020-01-01,Kovaipudur,0.51,5.0
+2020-01-01,Selvapuram,0.6,2.3
+2020-01-01,Kurichi,0.41,4.7
+2020-01-01,Vadavalli,0.05,4.2
+2020-01-08,Gandhipuram,0.05,18.8
+2020-01-08,RS Puram,0.41,17.6
+2020-01-08,Saibaba Colony,0.34,13.4
+2020-01-08,Peelamedu,0.2,11.7
+2020-01-08,Singanallur,0.05,11.4
+2020-01-08,Saravanampatti,0.05,15.3
+2020-01-08,Race Course,0.09,14.4
+2020-01-08,Ukkadam,0.14,18.4
+2020-01-08,Town Hall,0.14,14.1
+2020-01-08,Kuniyamuthur,0.05,18.6
+2020-01-08,Sundarapuram,0.05,23.5
+2020-01-08,Podanur,0.46,12.3
+2020-01-08,Thudiyalur,0.29,16.1
+2020-01-08,Vadakovai,0.05,21.7
+2020-01-08,Ganapathy,0.05,32.9
+2020-01-08,Kalapatti,0.05,17.7
+2020-01-08,Kovaipudur,0.21,30.0
+2020-01-08,Selvapuram,0.23,12.9
+2020-01-08,Kurichi,0.27,17.6
+2020-01-08,Vadavalli,0.16,18.2
+2020-01-15,Gandhipuram,0.19,18.1
+2020-01-15,RS Puram,0.05,23.9
+2020-01-15,Saibaba Colony,0.05,18.4
+2020-01-15,Peelamedu,0.05,16.4
+2020-01-15,Singanallur,0.05,14.6
+2020-01-15,Saravanampatti,0.05,23.3
+2020-01-15,Race Course,0.05,19.4
+2020-01-15,Ukkadam,0.08,22.9
+2020-01-15,Town Hall,0.05,19.0
+2020-01-15,Kuniyamuthur,0.18,12.5
+2020-01-15,Sundarapuram,0.07,13.1
+2020-01-15,Podanur,0.46,16.6
+2020-01-15,Thudiyalur,0.2,26.2
+2020-01-15,Vadakovai,0.05,20.5
+2020-01-15,Ganapathy,0.05,13.5
+2020-01-15,Kalapatti,0.05,13.4
+2020-01-15,Kovaipudur,0.05,19.6
+2020-01-15,Selvapuram,0.05,21.8
+2020-01-15,Kurichi,0.12,20.5
+2020-01-15,Vadavalli,0.05,17.5
+2020-01-22,Gandhipuram,0.53,11.4
+2020-01-22,RS Puram,0.3,26.9
+2020-01-22,Saibaba Colony,0.19,11.1
+2020-01-22,Peelamedu,0.13,17.2
+2020-01-22,Singanallur,0.05,23.6
+2020-01-22,Saravanampatti,0.05,31.6
+2020-01-22,Race Course,0.05,23.1
+2020-01-22,Ukkadam,0.36,16.4
+2020-01-22,Town Hall,0.17,17.4
+2020-01-22,Kuniyamuthur,0.05,8.9
+2020-01-22,Sundarapuram,0.05,19.3
+2020-01-22,Podanur,0.45,18.7
+2020-01-22,Thudiyalur,0.36,15.4
+2020-01-22,Vadakovai,0.05,19.8
+2020-01-22,Ganapathy,0.22,11.6
+2020-01-22,Kalapatti,0.05,16.1
+2020-01-22,Kovaipudur,0.28,15.6
+2020-01-22,Selvapuram,0.28,13.7
+2020-01-22,Kurichi,0.05,20.6
+2020-01-22,Vadavalli,0.11,10.8
+2020-01-29,Gandhipuram,0.1,17.7
+2020-01-29,RS Puram,0.12,32.4
+2020-01-29,Saibaba Colony,0.32,15.2
+2020-01-29,Peelamedu,0.32,17.4
+2020-01-29,Singanallur,0.05,23.1
+2020-01-29,Saravanampatti,0.05,18.0
+2020-01-29,Race Course,0.07,16.6
+2020-01-29,Ukkadam,0.25,17.6
+2020-01-29,Town Hall,0.07,23.5
+2020-01-29,Kuniyamuthur,0.05,26.4
+2020-01-29,Sundarapuram,0.05,14.4
+2020-01-29,Podanur,0.05,36.1
+2020-01-29,Thudiyalur,0.38,22.2
+2020-01-29,Vadakovai,0.05,24.2
+2020-01-29,Ganapathy,0.05,19.8
+2020-01-29,Kalapatti,0.05,27.2
+2020-01-29,Kovaipudur,0.07,12.7
+2020-01-29,Selvapuram,0.07,15.1
+2020-01-29,Kurichi,0.05,27.5
+2020-01-29,Vadavalli,0.14,14.3
+2020-02-05,Gandhipuram,0.14,14.9
+2020-02-05,RS Puram,0.05,19.6
+2020-02-05,Saibaba Colony,0.23,8.5
+2020-02-05,Peelamedu,0.45,10.9
+2020-02-05,Singanallur,0.05,12.9
+2020-02-05,Saravanampatti,0.05,24.6
+2020-02-05,Race Course,0.05,12.7
+2020-02-05,Ukkadam,0.18,19.3
+2020-02-05,Town Hall,0.1,9.5
+2020-02-05,Kuniyamuthur,0.17,8.8
+2020-02-05,Sundarapuram,0.31,10.2
+2020-02-05,Podanur,0.05,22.7
+2020-02-05,Thudiyalur,0.45,14.0
+2020-02-05,Vadakovai,0.05,10.2
+2020-02-05,Ganapathy,0.16,13.7
+2020-02-05,Kalapatti,0.05,27.5
+2020-02-05,Kovaipudur,0.32,11.6
+2020-02-05,Selvapuram,0.09,16.9
+2020-02-05,Kurichi,0.05,15.3
+2020-02-05,Vadavalli,0.05,17.9
+2020-02-12,Gandhipuram,0.05,21.6
+2020-02-12,RS Puram,0.41,9.3
+2020-02-12,Saibaba Colony,0.27,9.4
+2020-02-12,Peelamedu,0.05,24.6
+2020-02-12,Singanallur,0.28,12.8
+2020-02-12,Saravanampatti,0.05,28.2
+2020-02-12,Race Course,0.2,13.6
+2020-02-12,Ukkadam,0.05,27.6
+2020-02-12,Town Hall,0.11,16.3
+2020-02-12,Kuniyamuthur,0.05,20.2
+2020-02-12,Sundarapuram,0.05,12.4
+2020-02-12,Podanur,0.06,24.1
+2020-02-12,Thudiyalur,0.41,11.9
+2020-02-12,Vadakovai,0.05,15.9
+2020-02-12,Ganapathy,0.05,10.8
+2020-02-12,Kalapatti,0.06,15.5
+2020-02-12,Kovaipudur,0.05,19.7
+2020-02-12,Selvapuram,0.1,15.3
+2020-02-12,Kurichi,0.21,16.1
+2020-02-12,Vadavalli,0.05,15.8
+2020-02-19,Gandhipuram,0.25,13.0
+2020-02-19,RS Puram,0.52,17.4
+2020-02-19,Saibaba Colony,0.35,16.3
+2020-02-19,Peelamedu,0.13,16.4
+2020-02-19,Singanallur,0.05,13.8
+2020-02-19,Saravanampatti,0.19,14.0
+2020-02-19,Race Course,0.05,14.9
+2020-02-19,Ukkadam,0.58,18.7
+2020-02-19,Town Hall,0.05,14.6
+2020-02-19,Kuniyamuthur,0.28,17.3
+2020-02-19,Sundarapuram,0.05,18.8
+2020-02-19,Podanur,0.05,27.8
+2020-02-19,Thudiyalur,0.14,24.4
+2020-02-19,Vadakovai,0.05,12.3
+2020-02-19,Ganapathy,0.05,9.0
+2020-02-19,Kalapatti,0.08,16.4
+2020-02-19,Kovaipudur,0.31,15.2
+2020-02-19,Selvapuram,0.16,20.2
+2020-02-19,Kurichi,0.05,17.2
+2020-02-19,Vadavalli,0.05,10.7
+2020-02-26,Gandhipuram,0.08,19.0
+2020-02-26,RS Puram,0.05,27.6
+2020-02-26,Saibaba Colony,0.13,24.6
+2020-02-26,Peelamedu,0.05,29.3
+2020-02-26,Singanallur,0.05,39.6
+2020-02-26,Saravanampatti,0.05,18.6
+2020-02-26,Race Course,0.05,16.2
+2020-02-26,Ukkadam,0.51,18.5
+2020-02-26,Town Hall,0.08,25.0
+2020-02-26,Kuniyamuthur,0.34,12.5
+2020-02-26,Sundarapuram,0.05,21.8
+2020-02-26,Podanur,0.05,21.7
+2020-02-26,Thudiyalur,0.33,23.5
+2020-02-26,Vadakovai,0.05,14.4
+2020-02-26,Ganapathy,0.05,29.2
+2020-02-26,Kalapatti,0.05,24.7
+2020-02-26,Kovaipudur,0.34,11.1
+2020-02-26,Selvapuram,0.1,21.3
+2020-02-26,Kurichi,0.28,17.3
+2020-02-26,Vadavalli,0.18,13.8
+2020-03-04,Gandhipuram,0.05,27.6
+2020-03-04,RS Puram,0.68,11.7
+2020-03-04,Saibaba Colony,0.27,13.1
+2020-03-04,Peelamedu,0.05,21.9
+2020-03-04,Singanallur,0.05,8.8
+2020-03-04,Saravanampatti,0.05,21.4
+2020-03-04,Race Course,0.05,15.8
+2020-03-04,Ukkadam,0.63,9.5
+2020-03-04,Town Hall,0.05,20.1
+2020-03-04,Kuniyamuthur,0.05,22.2
+2020-03-04,Sundarapuram,0.05,17.4
+2020-03-04,Podanur,0.3,23.8
+2020-03-04,Thudiyalur,0.46,15.1
+2020-03-04,Vadakovai,0.14,12.2
+2020-03-04,Ganapathy,0.05,21.3
+2020-03-04,Kalapatti,0.14,13.9
+2020-03-04,Kovaipudur,0.07,23.5
+2020-03-04,Selvapuram,0.05,28.8
+2020-03-04,Kurichi,0.05,20.5
+2020-03-04,Vadavalli,0.28,11.7
+2020-03-11,Gandhipuram,0.05,11.5
+2020-03-11,RS Puram,0.35,15.3
+2020-03-11,Saibaba Colony,0.05,21.1
+2020-03-11,Peelamedu,0.1,11.1
+2020-03-11,Singanallur,0.05,29.1
+2020-03-11,Saravanampatti,0.05,16.9
+2020-03-11,Race Course,0.05,17.4
+2020-03-11,Ukkadam,0.19,23.1
+2020-03-11,Town Hall,0.05,22.9
+2020-03-11,Kuniyamuthur,0.21,15.7
+2020-03-11,Sundarapuram,0.05,21.7
+2020-03-11,Podanur,0.48,15.5
+2020-03-11,Thudiyalur,0.42,11.8
+2020-03-11,Vadakovai,0.05,28.3
+2020-03-11,Ganapathy,0.05,19.2
+2020-03-11,Kalapatti,0.05,29.1
+2020-03-11,Kovaipudur,0.43,16.7
+2020-03-11,Selvapuram,0.13,17.8
+2020-03-11,Kurichi,0.4,10.4
+2020-03-11,Vadavalli,0.05,16.8
+2020-03-18,Gandhipuram,0.05,18.2
+2020-03-18,RS Puram,0.55,13.0
+2020-03-18,Saibaba Colony,0.18,11.9
+2020-03-18,Peelamedu,0.56,9.8
+2020-03-18,Singanallur,0.05,39.3
+2020-03-18,Saravanampatti,0.05,14.0
+2020-03-18,Race Course,0.05,19.3
+2020-03-18,Ukkadam,0.34,25.0
+2020-03-18,Town Hall,0.06,20.9
+2020-03-18,Kuniyamuthur,0.05,20.9
+2020-03-18,Sundarapuram,0.05,19.0
+2020-03-18,Podanur,0.34,15.3
+2020-03-18,Thudiyalur,0.32,26.8
+2020-03-18,Vadakovai,0.06,19.2
+2020-03-18,Ganapathy,0.1,9.5
+2020-03-18,Kalapatti,0.05,18.4
+2020-03-18,Kovaipudur,0.23,12.5
+2020-03-18,Selvapuram,0.05,19.2
+2020-03-18,Kurichi,0.18,16.6
+2020-03-18,Vadavalli,0.05,33.0
+2020-03-25,Gandhipuram,0.05,16.9
+2020-03-25,RS Puram,0.56,16.8
+2020-03-25,Saibaba Colony,0.23,21.3
+2020-03-25,Peelamedu,0.05,20.1
+2020-03-25,Singanallur,0.05,24.1
+2020-03-25,Saravanampatti,0.05,20.6
+2020-03-25,Race Course,0.05,13.5
+2020-03-25,Ukkadam,0.37,17.8
+2020-03-25,Town Hall,0.37,16.2
+2020-03-25,Kuniyamuthur,0.05,18.2
+2020-03-25,Sundarapuram,0.05,15.0
+2020-03-25,Podanur,0.33,19.7
+2020-03-25,Thudiyalur,0.4,17.2
+2020-03-25,Vadakovai,0.05,15.5
+2020-03-25,Ganapathy,0.05,14.3
+2020-03-25,Kalapatti,0.05,24.6
+2020-03-25,Kovaipudur,0.14,16.6
+2020-03-25,Selvapuram,0.37,13.2
+2020-03-25,Kurichi,0.05,37.9
+2020-03-25,Vadavalli,0.05,23.9
+2020-04-01,Gandhipuram,0.05,26.9
+2020-04-01,RS Puram,0.16,19.6
+2020-04-01,Saibaba Colony,0.17,15.6
+2020-04-01,Peelamedu,0.05,12.1
+2020-04-01,Singanallur,0.05,22.1
+2020-04-01,Saravanampatti,0.05,15.4
+2020-04-01,Race Course,0.05,11.3
+2020-04-01,Ukkadam,0.05,30.1
+2020-04-01,Town Hall,0.05,21.1
+2020-04-01,Kuniyamuthur,0.07,10.3
+2020-04-01,Sundarapuram,0.05,17.2
+2020-04-01,Podanur,0.41,16.6
+2020-04-01,Thudiyalur,0.19,20.3
+2020-04-01,Vadakovai,0.05,20.4
+2020-04-01,Ganapathy,0.05,20.1
+2020-04-01,Kalapatti,0.05,32.5
+2020-04-01,Kovaipudur,0.14,26.5
+2020-04-01,Selvapuram,0.07,13.2
+2020-04-01,Kurichi,0.05,21.1
+2020-04-01,Vadavalli,0.06,11.8
+2020-04-08,Gandhipuram,0.32,12.3
+2020-04-08,RS Puram,0.31,15.9
+2020-04-08,Saibaba Colony,0.15,21.2
+2020-04-08,Peelamedu,0.11,15.2
+2020-04-08,Singanallur,0.05,30.3
+2020-04-08,Saravanampatti,0.05,15.7
+2020-04-08,Race Course,0.05,15.5
+2020-04-08,Ukkadam,0.4,9.2
+2020-04-08,Town Hall,0.05,15.8
+2020-04-08,Kuniyamuthur,0.05,18.7
+2020-04-08,Sundarapuram,0.2,11.5
+2020-04-08,Podanur,0.39,15.9
+2020-04-08,Thudiyalur,0.05,26.6
+2020-04-08,Vadakovai,0.05,16.9
+2020-04-08,Ganapathy,0.05,37.5
+2020-04-08,Kalapatti,0.05,23.4
+2020-04-08,Kovaipudur,0.05,20.7
+2020-04-08,Selvapuram,0.1,14.2
+2020-04-08,Kurichi,0.05,16.8
+2020-04-08,Vadavalli,0.05,18.8
+2020-04-15,Gandhipuram,0.05,19.7
+2020-04-15,RS Puram,0.42,17.0
+2020-04-15,Saibaba Colony,0.05,24.5
+2020-04-15,Peelamedu,0.12,12.7
+2020-04-15,Singanallur,0.05,23.3
+2020-04-15,Saravanampatti,0.05,16.7
+2020-04-15,Race Course,0.08,15.7
+2020-04-15,Ukkadam,0.26,23.5
+2020-04-15,Town Hall,0.05,13.9
+2020-04-15,Kuniyamuthur,0.05,19.1
+2020-04-15,Sundarapuram,0.05,18.0
+2020-04-15,Podanur,0.35,13.1
+2020-04-15,Thudiyalur,0.5,15.1
+2020-04-15,Vadakovai,0.05,25.9
+2020-04-15,Ganapathy,0.05,33.3
+2020-04-15,Kalapatti,0.05,20.3
+2020-04-15,Kovaipudur,0.45,13.6
+2020-04-15,Selvapuram,0.24,15.5
+2020-04-15,Kurichi,0.41,22.0
+2020-04-15,Vadavalli,0.05,21.4
+2020-04-22,Gandhipuram,0.05,27.8
+2020-04-22,RS Puram,0.36,9.3
+2020-04-22,Saibaba Colony,0.2,17.4
+2020-04-22,Peelamedu,0.05,22.0
+2020-04-22,Singanallur,0.05,23.1
+2020-04-22,Saravanampatti,0.05,30.3
+2020-04-22,Race Course,0.05,13.9
+2020-04-22,Ukkadam,0.11,16.5
+2020-04-22,Town Hall,0.25,16.4
+2020-04-22,Kuniyamuthur,0.2,17.2
+2020-04-22,Sundarapuram,0.05,12.5
+2020-04-22,Podanur,0.55,16.1
+2020-04-22,Thudiyalur,0.36,15.7
+2020-04-22,Vadakovai,0.05,28.0
+2020-04-22,Ganapathy,0.05,22.5
+2020-04-22,Kalapatti,0.14,19.0
+2020-04-22,Kovaipudur,0.05,18.4
+2020-04-22,Selvapuram,0.05,18.8
+2020-04-22,Kurichi,0.32,16.3
+2020-04-22,Vadavalli,0.05,14.2
+2020-04-29,Gandhipuram,0.05,19.9
+2020-04-29,RS Puram,0.59,14.4
+2020-04-29,Saibaba Colony,0.05,17.3
+2020-04-29,Peelamedu,0.17,10.7
+2020-04-29,Singanallur,0.05,23.1
+2020-04-29,Saravanampatti,0.05,19.1
+2020-04-29,Race Course,0.05,20.0
+2020-04-29,Ukkadam,0.29,10.3
+2020-04-29,Town Hall,0.15,19.9
+2020-04-29,Kuniyamuthur,0.27,13.2
+2020-04-29,Sundarapuram,0.05,15.1
+2020-04-29,Podanur,0.46,15.6
+2020-04-29,Thudiyalur,0.33,16.1
+2020-04-29,Vadakovai,0.05,18.2
+2020-04-29,Ganapathy,0.05,28.3
+2020-04-29,Kalapatti,0.05,17.5
+2020-04-29,Kovaipudur,0.05,15.0
+2020-04-29,Selvapuram,0.24,8.4
+2020-04-29,Kurichi,0.26,14.3
+2020-04-29,Vadavalli,0.05,11.8
+2020-05-06,Gandhipuram,0.05,21.9
+2020-05-06,RS Puram,0.34,18.8
+2020-05-06,Saibaba Colony,0.05,21.6
+2020-05-06,Peelamedu,0.17,16.6
+2020-05-06,Singanallur,0.16,14.5
+2020-05-06,Saravanampatti,0.05,17.6
+2020-05-06,Race Course,0.12,13.0
+2020-05-06,Ukkadam,0.34,21.2
+2020-05-06,Town Hall,0.22,24.6
+2020-05-06,Kuniyamuthur,0.05,25.1
+2020-05-06,Sundarapuram,0.05,12.4
+2020-05-06,Podanur,0.08,30.1
+2020-05-06,Thudiyalur,0.13,30.1
+2020-05-06,Vadakovai,0.05,17.4
+2020-05-06,Ganapathy,0.05,17.3
+2020-05-06,Kalapatti,0.05,29.8
+2020-05-06,Kovaipudur,0.05,14.1
+2020-05-06,Selvapuram,0.22,19.0
+2020-05-06,Kurichi,0.16,17.2
+2020-05-06,Vadavalli,0.05,17.6
+2020-05-13,Gandhipuram,0.17,19.7
+2020-05-13,RS Puram,0.05,22.1
+2020-05-13,Saibaba Colony,0.24,15.1
+2020-05-13,Peelamedu,0.18,16.5
+2020-05-13,Singanallur,0.31,9.5
+2020-05-13,Saravanampatti,0.15,15.1
+2020-05-13,Race Course,0.3,11.5
+2020-05-13,Ukkadam,0.23,14.8
+2020-05-13,Town Hall,0.05,16.2
+2020-05-13,Kuniyamuthur,0.31,13.4
+2020-05-13,Sundarapuram,0.05,17.7
+2020-05-13,Podanur,0.22,14.8
+2020-05-13,Thudiyalur,0.49,10.2
+2020-05-13,Vadakovai,0.05,14.2
+2020-05-13,Ganapathy,0.05,18.0
+2020-05-13,Kalapatti,0.05,22.2
+2020-05-13,Kovaipudur,0.05,25.4
+2020-05-13,Selvapuram,0.13,12.9
+2020-05-13,Kurichi,0.05,16.1
+2020-05-13,Vadavalli,0.05,14.5
+2020-05-20,Gandhipuram,0.06,16.2
+2020-05-20,RS Puram,0.05,24.6
+2020-05-20,Saibaba Colony,0.05,20.8
+2020-05-20,Peelamedu,0.29,16.3
+2020-05-20,Singanallur,0.05,16.4
+2020-05-20,Saravanampatti,0.05,24.5
+2020-05-20,Race Course,0.05,17.2
+2020-05-20,Ukkadam,0.74,7.5
+2020-05-20,Town Hall,0.06,18.9
+2020-05-20,Kuniyamuthur,0.05,20.7
+2020-05-20,Sundarapuram,0.05,16.4
+2020-05-20,Podanur,0.17,19.7
+2020-05-20,Thudiyalur,0.26,11.1
+2020-05-20,Vadakovai,0.05,13.4
+2020-05-20,Ganapathy,0.05,24.4
+2020-05-20,Kalapatti,0.05,19.2
+2020-05-20,Kovaipudur,0.05,28.1
+2020-05-20,Selvapuram,0.26,17.5
+2020-05-20,Kurichi,0.05,28.2
+2020-05-20,Vadavalli,0.05,10.5
+2020-05-27,Gandhipuram,0.05,17.3
+2020-05-27,RS Puram,0.29,17.7
+2020-05-27,Saibaba Colony,0.05,22.0
+2020-05-27,Peelamedu,0.2,21.7
+2020-05-27,Singanallur,0.05,17.0
+2020-05-27,Saravanampatti,0.05,19.8
+2020-05-27,Race Course,0.05,24.8
+2020-05-27,Ukkadam,0.26,20.2
+2020-05-27,Town Hall,0.05,21.2
+2020-05-27,Kuniyamuthur,0.34,14.7
+2020-05-27,Sundarapuram,0.05,22.7
+2020-05-27,Podanur,0.45,19.6
+2020-05-27,Thudiyalur,0.46,17.8
+2020-05-27,Vadakovai,0.05,23.1
+2020-05-27,Ganapathy,0.07,22.0
+2020-05-27,Kalapatti,0.05,18.7
+2020-05-27,Kovaipudur,0.05,26.3
+2020-05-27,Selvapuram,0.07,15.9
+2020-05-27,Kurichi,0.05,17.0
+2020-05-27,Vadavalli,0.05,13.6
+2020-06-03,Gandhipuram,0.05,77.4
+2020-06-03,RS Puram,0.05,99.9
+2020-06-03,Saibaba Colony,0.05,82.3
+2020-06-03,Peelamedu,0.05,82.3
+2020-06-03,Singanallur,0.05,67.3
+2020-06-03,Saravanampatti,0.05,70.8
+2020-06-03,Race Course,0.05,62.3
+2020-06-03,Ukkadam,0.05,35.0
+2020-06-03,Town Hall,0.05,72.5
+2020-06-03,Kuniyamuthur,0.05,95.8
+2020-06-03,Sundarapuram,0.05,87.2
+2020-06-03,Podanur,0.05,89.6
+2020-06-03,Thudiyalur,0.05,71.9
+2020-06-03,Vadakovai,0.05,65.9
+2020-06-03,Ganapathy,0.05,72.8
+2020-06-03,Kalapatti,0.05,63.1
+2020-06-03,Kovaipudur,0.05,145.3
+2020-06-03,Selvapuram,0.05,127.9
+2020-06-03,Kurichi,0.05,77.6
+2020-06-03,Vadavalli,0.05,113.1
+2020-06-10,Gandhipuram,0.05,223.9
+2020-06-10,RS Puram,0.05,207.6
+2020-06-10,Saibaba Colony,0.05,250.8
+2020-06-10,Peelamedu,0.05,194.3
+2020-06-10,Singanallur,0.05,194.6
+2020-06-10,Saravanampatti,0.05,180.7
+2020-06-10,Race Course,0.05,176.8
+2020-06-10,Ukkadam,0.05,157.1
+2020-06-10,Town Hall,0.05,185.2
+2020-06-10,Kuniyamuthur,0.05,158.8
+2020-06-10,Sundarapuram,0.05,166.8
+2020-06-10,Podanur,0.05,171.3
+2020-06-10,Thudiyalur,0.05,177.9
+2020-06-10,Vadakovai,0.05,248.5
+2020-06-10,Ganapathy,0.05,169.8
+2020-06-10,Kalapatti,0.05,162.5
+2020-06-10,Kovaipudur,0.05,361.4
+2020-06-10,Selvapuram,0.05,164.0
+2020-06-10,Kurichi,0.05,184.1
+2020-06-10,Vadavalli,0.05,168.4
+2020-06-17,Gandhipuram,0.05,135.7
+2020-06-17,RS Puram,0.05,123.8
+2020-06-17,Saibaba Colony,0.05,175.7
+2020-06-17,Peelamedu,0.05,151.2
+2020-06-17,Singanallur,0.05,176.0
+2020-06-17,Saravanampatti,0.05,174.5
+2020-06-17,Race Course,0.05,228.5
+2020-06-17,Ukkadam,0.05,247.5
+2020-06-17,Town Hall,0.05,117.7
+2020-06-17,Kuniyamuthur,0.05,166.6
+2020-06-17,Sundarapuram,0.05,206.0
+2020-06-17,Podanur,0.05,221.7
+2020-06-17,Thudiyalur,0.05,153.3
+2020-06-17,Vadakovai,0.05,150.2
+2020-06-17,Ganapathy,0.05,190.3
+2020-06-17,Kalapatti,0.05,176.4
+2020-06-17,Kovaipudur,0.05,159.6
+2020-06-17,Selvapuram,0.05,183.1
+2020-06-17,Kurichi,0.05,188.4
+2020-06-17,Vadavalli,0.05,165.6
+2020-06-24,Gandhipuram,0.05,166.7
+2020-06-24,RS Puram,0.05,192.7
+2020-06-24,Saibaba Colony,0.05,190.2
+2020-06-24,Peelamedu,0.05,173.7
+2020-06-24,Singanallur,0.05,170.6
+2020-06-24,Saravanampatti,0.05,180.0
+2020-06-24,Race Course,0.05,113.0
+2020-06-24,Ukkadam,0.05,169.4
+2020-06-24,Town Hall,0.05,119.6
+2020-06-24,Kuniyamuthur,0.05,163.6
+2020-06-24,Sundarapuram,0.05,143.6
+2020-06-24,Podanur,0.05,243.5
+2020-06-24,Thudiyalur,0.05,231.3
+2020-06-24,Vadakovai,0.05,186.0
+2020-06-24,Ganapathy,0.05,172.6
+2020-06-24,Kalapatti,0.05,204.6
+2020-06-24,Kovaipudur,0.05,126.2
+2020-06-24,Selvapuram,0.05,175.5
+2020-06-24,Kurichi,0.05,152.9
+2020-06-24,Vadavalli,0.05,162.4
+2020-07-01,Gandhipuram,0.05,175.5
+2020-07-01,RS Puram,0.05,211.2
+2020-07-01,Saibaba Colony,0.05,150.0
+2020-07-01,Peelamedu,0.05,168.2
+2020-07-01,Singanallur,0.05,140.1
+2020-07-01,Saravanampatti,0.05,214.1
+2020-07-01,Race Course,0.05,231.9
+2020-07-01,Ukkadam,0.05,164.0
+2020-07-01,Town Hall,0.05,175.1
+2020-07-01,Kuniyamuthur,0.05,188.0
+2020-07-01,Sundarapuram,0.05,181.1
+2020-07-01,Podanur,0.05,240.8
+2020-07-01,Thudiyalur,0.05,155.5
+2020-07-01,Vadakovai,0.05,239.7
+2020-07-01,Ganapathy,0.05,187.4
+2020-07-01,Kalapatti,0.05,187.9
+2020-07-01,Kovaipudur,0.05,163.7
+2020-07-01,Selvapuram,0.05,253.6
+2020-07-01,Kurichi,0.05,171.1
+2020-07-01,Vadavalli,0.05,232.2
+2020-07-08,Gandhipuram,0.05,160.7
+2020-07-08,RS Puram,0.05,141.4
+2020-07-08,Saibaba Colony,0.05,283.9
+2020-07-08,Peelamedu,0.05,182.6
+2020-07-08,Singanallur,0.05,138.2
+2020-07-08,Saravanampatti,0.05,196.3
+2020-07-08,Race Course,0.05,266.3
+2020-07-08,Ukkadam,0.05,154.4
+2020-07-08,Town Hall,0.05,229.2
+2020-07-08,Kuniyamuthur,0.05,167.4
+2020-07-08,Sundarapuram,0.05,165.7
+2020-07-08,Podanur,0.05,195.8
+2020-07-08,Thudiyalur,0.05,165.7
+2020-07-08,Vadakovai,0.05,141.0
+2020-07-08,Ganapathy,0.05,217.1
+2020-07-08,Kalapatti,0.05,182.3
+2020-07-08,Kovaipudur,0.05,178.7
+2020-07-08,Selvapuram,0.05,123.2
+2020-07-08,Kurichi,0.05,176.8
+2020-07-08,Vadavalli,0.05,152.7
+2020-07-15,Gandhipuram,0.05,172.2
+2020-07-15,RS Puram,0.05,163.1
+2020-07-15,Saibaba Colony,0.05,210.7
+2020-07-15,Peelamedu,0.05,197.2
+2020-07-15,Singanallur,0.05,170.2
+2020-07-15,Saravanampatti,0.05,141.7
+2020-07-15,Race Course,0.05,242.2
+2020-07-15,Ukkadam,0.05,231.2
+2020-07-15,Town Hall,0.05,183.5
+2020-07-15,Kuniyamuthur,0.05,162.8
+2020-07-15,Sundarapuram,0.05,135.2
+2020-07-15,Podanur,0.05,193.4
+2020-07-15,Thudiyalur,0.05,163.2
+2020-07-15,Vadakovai,0.05,155.0
+2020-07-15,Ganapathy,0.05,119.0
+2020-07-15,Kalapatti,0.05,227.1
+2020-07-15,Kovaipudur,0.05,177.5
+2020-07-15,Selvapuram,0.05,154.7
+2020-07-15,Kurichi,0.05,162.7
+2020-07-15,Vadavalli,0.05,176.9
+2020-07-22,Gandhipuram,0.05,181.1
+2020-07-22,RS Puram,0.05,179.5
+2020-07-22,Saibaba Colony,0.05,208.7
+2020-07-22,Peelamedu,0.05,152.7
+2020-07-22,Singanallur,0.05,162.3
+2020-07-22,Saravanampatti,0.05,143.3
+2020-07-22,Race Course,0.05,184.4
+2020-07-22,Ukkadam,0.05,154.6
+2020-07-22,Town Hall,0.05,167.1
+2020-07-22,Kuniyamuthur,0.05,186.0
+2020-07-22,Sundarapuram,0.05,162.1
+2020-07-22,Podanur,0.05,152.0
+2020-07-22,Thudiyalur,0.05,167.5
+2020-07-22,Vadakovai,0.05,186.1
+2020-07-22,Ganapathy,0.05,135.4
+2020-07-22,Kalapatti,0.05,169.6
+2020-07-22,Kovaipudur,0.05,215.0
+2020-07-22,Selvapuram,0.05,180.2
+2020-07-22,Kurichi,0.05,125.1
+2020-07-22,Vadavalli,0.05,181.5
+2020-07-29,Gandhipuram,0.05,167.4
+2020-07-29,RS Puram,0.05,146.9
+2020-07-29,Saibaba Colony,0.05,201.6
+2020-07-29,Peelamedu,0.05,133.9
+2020-07-29,Singanallur,0.05,144.1
+2020-07-29,Saravanampatti,0.05,169.0
+2020-07-29,Race Course,0.05,185.1
+2020-07-29,Ukkadam,0.05,178.6
+2020-07-29,Town Hall,0.05,116.3
+2020-07-29,Kuniyamuthur,0.05,170.1
+2020-07-29,Sundarapuram,0.05,159.6
+2020-07-29,Podanur,0.05,200.9
+2020-07-29,Thudiyalur,0.05,208.3
+2020-07-29,Vadakovai,0.05,142.8
+2020-07-29,Ganapathy,0.05,145.6
+2020-07-29,Kalapatti,0.05,154.8
+2020-07-29,Kovaipudur,0.05,212.8
+2020-07-29,Selvapuram,0.05,179.2
+2020-07-29,Kurichi,0.05,194.3
+2020-07-29,Vadavalli,0.05,213.0
+2020-08-05,Gandhipuram,0.05,153.5
+2020-08-05,RS Puram,0.05,171.6
+2020-08-05,Saibaba Colony,0.05,194.2
+2020-08-05,Peelamedu,0.05,199.9
+2020-08-05,Singanallur,0.05,159.9
+2020-08-05,Saravanampatti,0.05,116.5
+2020-08-05,Race Course,0.05,188.0
+2020-08-05,Ukkadam,0.05,149.1
+2020-08-05,Town Hall,0.05,185.3
+2020-08-05,Kuniyamuthur,0.05,180.0
+2020-08-05,Sundarapuram,0.05,151.5
+2020-08-05,Podanur,0.05,199.4
+2020-08-05,Thudiyalur,0.05,155.9
+2020-08-05,Vadakovai,0.05,207.9
+2020-08-05,Ganapathy,0.05,158.1
+2020-08-05,Kalapatti,0.05,223.4
+2020-08-05,Kovaipudur,0.05,168.7
+2020-08-05,Selvapuram,0.05,180.7
+2020-08-05,Kurichi,0.05,150.1
+2020-08-05,Vadavalli,0.05,159.3
+2020-08-12,Gandhipuram,0.05,139.1
+2020-08-12,RS Puram,0.05,202.3
+2020-08-12,Saibaba Colony,0.05,150.3
+2020-08-12,Peelamedu,0.05,184.0
+2020-08-12,Singanallur,0.05,263.0
+2020-08-12,Saravanampatti,0.05,131.4
+2020-08-12,Race Course,0.05,153.9
+2020-08-12,Ukkadam,0.05,199.6
+2020-08-12,Town Hall,0.05,137.3
+2020-08-12,Kuniyamuthur,0.05,254.1
+2020-08-12,Sundarapuram,0.05,175.6
+2020-08-12,Podanur,0.05,268.6
+2020-08-12,Thudiyalur,0.05,188.6
+2020-08-12,Vadakovai,0.05,179.0
+2020-08-12,Ganapathy,0.05,182.3
+2020-08-12,Kalapatti,0.05,314.6
+2020-08-12,Kovaipudur,0.05,173.3
+2020-08-12,Selvapuram,0.05,179.8
+2020-08-12,Kurichi,0.05,175.1
+2020-08-12,Vadavalli,0.05,141.9
+2020-08-19,Gandhipuram,0.05,158.4
+2020-08-19,RS Puram,0.05,209.7
+2020-08-19,Saibaba Colony,0.05,243.2
+2020-08-19,Peelamedu,0.05,231.3
+2020-08-19,Singanallur,0.05,201.6
+2020-08-19,Saravanampatti,0.05,148.2
+2020-08-19,Race Course,0.05,148.1
+2020-08-19,Ukkadam,0.05,130.7
+2020-08-19,Town Hall,0.05,93.8
+2020-08-19,Kuniyamuthur,0.05,220.4
+2020-08-19,Sundarapuram,0.05,160.8
+2020-08-19,Podanur,0.05,174.7
+2020-08-19,Thudiyalur,0.05,158.6
+2020-08-19,Vadakovai,0.05,160.8
+2020-08-19,Ganapathy,0.05,226.6
+2020-08-19,Kalapatti,0.05,176.3
+2020-08-19,Kovaipudur,0.05,195.7
+2020-08-19,Selvapuram,0.05,208.8
+2020-08-19,Kurichi,0.05,99.8
+2020-08-19,Vadavalli,0.05,145.7
+2020-08-26,Gandhipuram,0.05,132.9
+2020-08-26,RS Puram,0.05,166.3
+2020-08-26,Saibaba Colony,0.05,142.4
+2020-08-26,Peelamedu,0.05,184.7
+2020-08-26,Singanallur,0.05,143.4
+2020-08-26,Saravanampatti,0.05,182.6
+2020-08-26,Race Course,0.05,142.4
+2020-08-26,Ukkadam,0.05,198.5
+2020-08-26,Town Hall,0.05,120.6
+2020-08-26,Kuniyamuthur,0.05,236.8
+2020-08-26,Sundarapuram,0.05,117.4
+2020-08-26,Podanur,0.05,181.0
+2020-08-26,Thudiyalur,0.05,114.0
+2020-08-26,Vadakovai,0.05,174.4
+2020-08-26,Ganapathy,0.05,219.2
+2020-08-26,Kalapatti,0.05,152.8
+2020-08-26,Kovaipudur,0.05,221.4
+2020-08-26,Selvapuram,0.05,166.5
+2020-08-26,Kurichi,0.05,111.8
+2020-08-26,Vadavalli,0.05,149.3
+2020-09-02,Gandhipuram,0.05,151.9
+2020-09-02,RS Puram,0.05,186.5
+2020-09-02,Saibaba Colony,0.05,220.8
+2020-09-02,Peelamedu,0.05,179.2
+2020-09-02,Singanallur,0.05,160.1
+2020-09-02,Saravanampatti,0.05,186.1
+2020-09-02,Race Course,0.05,150.6
+2020-09-02,Ukkadam,0.05,217.6
+2020-09-02,Town Hall,0.05,163.2
+2020-09-02,Kuniyamuthur,0.05,164.0
+2020-09-02,Sundarapuram,0.05,156.7
+2020-09-02,Podanur,0.05,168.8
+2020-09-02,Thudiyalur,0.05,159.7
+2020-09-02,Vadakovai,0.05,111.7
+2020-09-02,Ganapathy,0.05,206.2
+2020-09-02,Kalapatti,0.05,148.1
+2020-09-02,Kovaipudur,0.05,288.5
+2020-09-02,Selvapuram,0.05,175.0
+2020-09-02,Kurichi,0.05,182.8
+2020-09-02,Vadavalli,0.05,144.6
+2020-09-09,Gandhipuram,0.05,152.5
+2020-09-09,RS Puram,0.05,200.6
+2020-09-09,Saibaba Colony,0.05,185.9
+2020-09-09,Peelamedu,0.05,151.0
+2020-09-09,Singanallur,0.05,165.2
+2020-09-09,Saravanampatti,0.05,160.2
+2020-09-09,Race Course,0.05,165.2
+2020-09-09,Ukkadam,0.05,157.9
+2020-09-09,Town Hall,0.05,220.5
+2020-09-09,Kuniyamuthur,0.05,177.3
+2020-09-09,Sundarapuram,0.05,201.1
+2020-09-09,Podanur,0.05,218.3
+2020-09-09,Thudiyalur,0.05,143.1
+2020-09-09,Vadakovai,0.05,174.6
+2020-09-09,Ganapathy,0.05,92.6
+2020-09-09,Kalapatti,0.05,220.3
+2020-09-09,Kovaipudur,0.05,188.0
+2020-09-09,Selvapuram,0.05,247.1
+2020-09-09,Kurichi,0.05,224.7
+2020-09-09,Vadavalli,0.05,174.2
+2020-09-16,Gandhipuram,0.05,161.5
+2020-09-16,RS Puram,0.05,195.3
+2020-09-16,Saibaba Colony,0.05,160.6
+2020-09-16,Peelamedu,0.05,204.9
+2020-09-16,Singanallur,0.05,172.9
+2020-09-16,Saravanampatti,0.05,190.9
+2020-09-16,Race Course,0.05,185.7
+2020-09-16,Ukkadam,0.05,174.8
+2020-09-16,Town Hall,0.05,156.3
+2020-09-16,Kuniyamuthur,0.05,185.5
+2020-09-16,Sundarapuram,0.05,147.8
+2020-09-16,Podanur,0.05,186.8
+2020-09-16,Thudiyalur,0.05,150.0
+2020-09-16,Vadakovai,0.05,283.7
+2020-09-16,Ganapathy,0.05,155.0
+2020-09-16,Kalapatti,0.05,213.2
+2020-09-16,Kovaipudur,0.05,185.8
+2020-09-16,Selvapuram,0.05,196.0
+2020-09-16,Kurichi,0.05,180.2
+2020-09-16,Vadavalli,0.05,169.9
+2020-09-23,Gandhipuram,0.05,220.9
+2020-09-23,RS Puram,0.05,137.3
+2020-09-23,Saibaba Colony,0.05,164.0
+2020-09-23,Peelamedu,0.05,245.4
+2020-09-23,Singanallur,0.05,164.5
+2020-09-23,Saravanampatti,0.05,202.1
+2020-09-23,Race Course,0.05,171.9
+2020-09-23,Ukkadam,0.05,187.2
+2020-09-23,Town Hall,0.05,199.5
+2020-09-23,Kuniyamuthur,0.05,206.3
+2020-09-23,Sundarapuram,0.05,161.0
+2020-09-23,Podanur,0.05,189.9
+2020-09-23,Thudiyalur,0.05,139.6
+2020-09-23,Vadakovai,0.05,152.4
+2020-09-23,Ganapathy,0.05,134.0
+2020-09-23,Kalapatti,0.05,141.7
+2020-09-23,Kovaipudur,0.05,112.5
+2020-09-23,Selvapuram,0.05,196.7
+2020-09-23,Kurichi,0.05,167.3
+2020-09-23,Vadavalli,0.05,140.5
+2020-09-30,Gandhipuram,0.05,146.4
+2020-09-30,RS Puram,0.05,165.7
+2020-09-30,Saibaba Colony,0.05,171.7
+2020-09-30,Peelamedu,0.05,209.9
+2020-09-30,Singanallur,0.05,173.8
+2020-09-30,Saravanampatti,0.05,161.2
+2020-09-30,Race Course,0.05,139.5
+2020-09-30,Ukkadam,0.05,159.9
+2020-09-30,Town Hall,0.05,180.8
+2020-09-30,Kuniyamuthur,0.05,171.3
+2020-09-30,Sundarapuram,0.05,186.3
+2020-09-30,Podanur,0.05,146.8
+2020-09-30,Thudiyalur,0.05,189.7
+2020-09-30,Vadakovai,0.05,179.4
+2020-09-30,Ganapathy,0.05,182.4
+2020-09-30,Kalapatti,0.05,130.7
+2020-09-30,Kovaipudur,0.05,153.9
+2020-09-30,Selvapuram,0.05,124.4
+2020-09-30,Kurichi,0.05,232.3
+2020-09-30,Vadavalli,0.05,252.6
+2020-10-07,Gandhipuram,0.05,64.4
+2020-10-07,RS Puram,0.05,111.4
+2020-10-07,Saibaba Colony,0.05,90.0
+2020-10-07,Peelamedu,0.05,83.6
+2020-10-07,Singanallur,0.05,125.1
+2020-10-07,Saravanampatti,0.05,83.9
+2020-10-07,Race Course,0.05,109.4
+2020-10-07,Ukkadam,0.05,48.9
+2020-10-07,Town Hall,0.05,92.9
+2020-10-07,Kuniyamuthur,0.05,112.4
+2020-10-07,Sundarapuram,0.05,101.9
+2020-10-07,Podanur,0.05,130.6
+2020-10-07,Thudiyalur,0.05,136.0
+2020-10-07,Vadakovai,0.05,94.7
+2020-10-07,Ganapathy,0.05,81.7
+2020-10-07,Kalapatti,0.05,91.6
+2020-10-07,Kovaipudur,0.05,117.6
+2020-10-07,Selvapuram,0.05,70.8
+2020-10-07,Kurichi,0.05,110.1
+2020-10-07,Vadavalli,0.05,110.8
+2020-10-14,Gandhipuram,0.05,91.8
+2020-10-14,RS Puram,0.05,114.0
+2020-10-14,Saibaba Colony,0.05,67.1
+2020-10-14,Peelamedu,0.05,76.6
+2020-10-14,Singanallur,0.05,70.5
+2020-10-14,Saravanampatti,0.05,89.6
+2020-10-14,Race Course,0.05,81.9
+2020-10-14,Ukkadam,0.05,98.0
+2020-10-14,Town Hall,0.05,73.3
+2020-10-14,Kuniyamuthur,0.05,105.9
+2020-10-14,Sundarapuram,0.05,78.1
+2020-10-14,Podanur,0.05,82.1
+2020-10-14,Thudiyalur,0.05,66.0
+2020-10-14,Vadakovai,0.05,58.5
+2020-10-14,Ganapathy,0.05,52.4
+2020-10-14,Kalapatti,0.05,68.7
+2020-10-14,Kovaipudur,0.05,53.5
+2020-10-14,Selvapuram,0.05,116.7
+2020-10-14,Kurichi,0.05,110.6
+2020-10-14,Vadavalli,0.05,77.2
+2020-10-21,Gandhipuram,0.05,119.0
+2020-10-21,RS Puram,0.05,67.6
+2020-10-21,Saibaba Colony,0.05,83.9
+2020-10-21,Peelamedu,0.05,69.2
+2020-10-21,Singanallur,0.05,105.7
+2020-10-21,Saravanampatti,0.05,58.2
+2020-10-21,Race Course,0.05,62.1
+2020-10-21,Ukkadam,0.05,80.1
+2020-10-21,Town Hall,0.05,72.6
+2020-10-21,Kuniyamuthur,0.05,61.3
+2020-10-21,Sundarapuram,0.05,80.3
+2020-10-21,Podanur,0.05,64.4
+2020-10-21,Thudiyalur,0.05,39.7
+2020-10-21,Vadakovai,0.05,33.7
+2020-10-21,Ganapathy,0.05,93.7
+2020-10-21,Kalapatti,0.05,63.2
+2020-10-21,Kovaipudur,0.05,67.2
+2020-10-21,Selvapuram,0.05,79.4
+2020-10-21,Kurichi,0.05,57.3
+2020-10-21,Vadavalli,0.05,63.7
+2020-10-28,Gandhipuram,0.05,76.4
+2020-10-28,RS Puram,0.05,69.8
+2020-10-28,Saibaba Colony,0.05,94.3
+2020-10-28,Peelamedu,0.05,112.9
+2020-10-28,Singanallur,0.05,82.1
+2020-10-28,Saravanampatti,0.05,97.3
+2020-10-28,Race Course,0.05,50.1
+2020-10-28,Ukkadam,0.05,75.3
+2020-10-28,Town Hall,0.05,59.7
+2020-10-28,Kuniyamuthur,0.05,65.2
+2020-10-28,Sundarapuram,0.05,71.7
+2020-10-28,Podanur,0.05,42.3
+2020-10-28,Thudiyalur,0.05,69.0
+2020-10-28,Vadakovai,0.05,97.4
+2020-10-28,Ganapathy,0.05,68.7
+2020-10-28,Kalapatti,0.05,72.7
+2020-10-28,Kovaipudur,0.05,65.3
+2020-10-28,Selvapuram,0.05,68.0
+2020-10-28,Kurichi,0.05,91.2
+2020-10-28,Vadavalli,0.05,142.5
+2020-11-04,Gandhipuram,0.05,74.3
+2020-11-04,RS Puram,0.05,89.3
+2020-11-04,Saibaba Colony,0.05,94.4
+2020-11-04,Peelamedu,0.05,59.7
+2020-11-04,Singanallur,0.05,71.6
+2020-11-04,Saravanampatti,0.05,52.0
+2020-11-04,Race Course,0.05,117.4
+2020-11-04,Ukkadam,0.05,66.7
+2020-11-04,Town Hall,0.05,66.2
+2020-11-04,Kuniyamuthur,0.05,84.5
+2020-11-04,Sundarapuram,0.05,101.6
+2020-11-04,Podanur,0.05,87.7
+2020-11-04,Thudiyalur,0.05,127.9
+2020-11-04,Vadakovai,0.05,92.5
+2020-11-04,Ganapathy,0.05,103.4
+2020-11-04,Kalapatti,0.05,40.0
+2020-11-04,Kovaipudur,0.05,70.4
+2020-11-04,Selvapuram,0.05,65.5
+2020-11-04,Kurichi,0.05,93.8
+2020-11-04,Vadavalli,0.05,103.0
+2020-11-11,Gandhipuram,0.05,139.7
+2020-11-11,RS Puram,0.05,69.1
+2020-11-11,Saibaba Colony,0.05,115.4
+2020-11-11,Peelamedu,0.05,79.5
+2020-11-11,Singanallur,0.05,90.0
+2020-11-11,Saravanampatti,0.05,73.7
+2020-11-11,Race Course,0.05,98.8
+2020-11-11,Ukkadam,0.05,61.0
+2020-11-11,Town Hall,0.05,80.0
+2020-11-11,Kuniyamuthur,0.05,79.6
+2020-11-11,Sundarapuram,0.05,92.8
+2020-11-11,Podanur,0.05,75.3
+2020-11-11,Thudiyalur,0.05,103.3
+2020-11-11,Vadakovai,0.05,72.9
+2020-11-11,Ganapathy,0.05,54.0
+2020-11-11,Kalapatti,0.05,99.3
+2020-11-11,Kovaipudur,0.05,90.3
+2020-11-11,Selvapuram,0.05,92.6
+2020-11-11,Kurichi,0.05,84.6
+2020-11-11,Vadavalli,0.05,76.7
+2020-11-18,Gandhipuram,0.05,84.1
+2020-11-18,RS Puram,0.05,90.3
+2020-11-18,Saibaba Colony,0.05,123.5
+2020-11-18,Peelamedu,0.05,68.0
+2020-11-18,Singanallur,0.05,64.3
+2020-11-18,Saravanampatti,0.05,78.1
+2020-11-18,Race Course,0.05,114.8
+2020-11-18,Ukkadam,0.05,94.0
+2020-11-18,Town Hall,0.05,83.4
+2020-11-18,Kuniyamuthur,0.05,70.6
+2020-11-18,Sundarapuram,0.05,71.5
+2020-11-18,Podanur,0.05,89.8
+2020-11-18,Thudiyalur,0.05,99.0
+2020-11-18,Vadakovai,0.05,63.6
+2020-11-18,Ganapathy,0.05,66.6
+2020-11-18,Kalapatti,0.05,110.4
+2020-11-18,Kovaipudur,0.05,68.0
+2020-11-18,Selvapuram,0.05,66.1
+2020-11-18,Kurichi,0.05,100.8
+2020-11-18,Vadavalli,0.05,120.9
+2020-11-25,Gandhipuram,0.05,71.9
+2020-11-25,RS Puram,0.05,77.8
+2020-11-25,Saibaba Colony,0.05,79.3
+2020-11-25,Peelamedu,0.05,65.1
+2020-11-25,Singanallur,0.05,48.7
+2020-11-25,Saravanampatti,0.05,75.2
+2020-11-25,Race Course,0.05,97.8
+2020-11-25,Ukkadam,0.05,82.8
+2020-11-25,Town Hall,0.05,107.8
+2020-11-25,Kuniyamuthur,0.05,107.9
+2020-11-25,Sundarapuram,0.05,89.2
+2020-11-25,Podanur,0.05,63.9
+2020-11-25,Thudiyalur,0.05,79.9
+2020-11-25,Vadakovai,0.05,89.8
+2020-11-25,Ganapathy,0.05,118.0
+2020-11-25,Kalapatti,0.05,92.0
+2020-11-25,Kovaipudur,0.05,73.5
+2020-11-25,Selvapuram,0.05,87.0
+2020-11-25,Kurichi,0.05,63.3
+2020-11-25,Vadavalli,0.05,88.0
+2020-12-02,Gandhipuram,0.05,57.5
+2020-12-02,RS Puram,0.05,66.3
+2020-12-02,Saibaba Colony,0.05,72.4
+2020-12-02,Peelamedu,0.05,80.5
+2020-12-02,Singanallur,0.05,26.8
+2020-12-02,Saravanampatti,0.05,56.8
+2020-12-02,Race Course,0.05,55.7
+2020-12-02,Ukkadam,0.05,92.5
+2020-12-02,Town Hall,0.05,77.8
+2020-12-02,Kuniyamuthur,0.05,59.5
+2020-12-02,Sundarapuram,0.05,52.8
+2020-12-02,Podanur,0.05,89.6
+2020-12-02,Thudiyalur,0.05,69.4
+2020-12-02,Vadakovai,0.05,48.4
+2020-12-02,Ganapathy,0.05,72.2
+2020-12-02,Kalapatti,0.05,62.3
+2020-12-02,Kovaipudur,0.05,65.3
+2020-12-02,Selvapuram,0.05,51.1
+2020-12-02,Kurichi,0.05,79.8
+2020-12-02,Vadavalli,0.05,54.5
+2020-12-09,Gandhipuram,0.22,9.9
+2020-12-09,RS Puram,0.41,16.3
+2020-12-09,Saibaba Colony,0.35,11.9
+2020-12-09,Peelamedu,0.05,23.8
+2020-12-09,Singanallur,0.05,21.1
+2020-12-09,Saravanampatti,0.05,16.0
+2020-12-09,Race Course,0.05,26.6
+2020-12-09,Ukkadam,0.47,22.2
+2020-12-09,Town Hall,0.14,20.8
+2020-12-09,Kuniyamuthur,0.08,18.3
+2020-12-09,Sundarapuram,0.05,16.3
+2020-12-09,Podanur,0.47,16.8
+2020-12-09,Thudiyalur,0.22,18.9
+2020-12-09,Vadakovai,0.05,35.5
+2020-12-09,Ganapathy,0.05,12.6
+2020-12-09,Kalapatti,0.05,11.6
+2020-12-09,Kovaipudur,0.05,23.0
+2020-12-09,Selvapuram,0.2,12.3
+2020-12-09,Kurichi,0.21,14.0
+2020-12-09,Vadavalli,0.05,17.8
+2020-12-16,Gandhipuram,0.27,19.1
+2020-12-16,RS Puram,0.13,25.9
+2020-12-16,Saibaba Colony,0.21,8.0
+2020-12-16,Peelamedu,0.05,10.6
+2020-12-16,Singanallur,0.05,21.7
+2020-12-16,Saravanampatti,0.05,17.6
+2020-12-16,Race Course,0.09,13.1
+2020-12-16,Ukkadam,0.35,26.6
+2020-12-16,Town Hall,0.45,11.7
+2020-12-16,Kuniyamuthur,0.08,14.4
+2020-12-16,Sundarapuram,0.05,18.2
+2020-12-16,Podanur,0.05,36.2
+2020-12-16,Thudiyalur,0.13,21.7
+2020-12-16,Vadakovai,0.14,12.4
+2020-12-16,Ganapathy,0.05,20.3
+2020-12-16,Kalapatti,0.05,24.2
+2020-12-16,Kovaipudur,0.22,10.3
+2020-12-16,Selvapuram,0.05,19.9
+2020-12-16,Kurichi,0.16,15.8
+2020-12-16,Vadavalli,0.06,10.6
+2020-12-23,Gandhipuram,0.19,14.2
+2020-12-23,RS Puram,0.59,21.0
+2020-12-23,Saibaba Colony,0.31,9.4
+2020-12-23,Peelamedu,0.16,15.1
+2020-12-23,Singanallur,0.05,25.3
+2020-12-23,Saravanampatti,0.05,26.0
+2020-12-23,Race Course,0.05,24.3
+2020-12-23,Ukkadam,0.41,14.8
+2020-12-23,Town Hall,0.05,19.0
+2020-12-23,Kuniyamuthur,0.22,16.1
+2020-12-23,Sundarapuram,0.05,12.9
+2020-12-23,Podanur,0.13,16.4
+2020-12-23,Thudiyalur,0.37,22.9
+2020-12-23,Vadakovai,0.05,18.8
+2020-12-23,Ganapathy,0.05,20.7
+2020-12-23,Kalapatti,0.05,17.5
+2020-12-23,Kovaipudur,0.05,18.9
+2020-12-23,Selvapuram,0.05,25.9
+2020-12-23,Kurichi,0.05,37.2
+2020-12-23,Vadavalli,0.05,18.1
+2020-12-30,Gandhipuram,0.05,15.3
+2020-12-30,RS Puram,0.5,11.8
+2020-12-30,Saibaba Colony,0.26,15.5
+2020-12-30,Peelamedu,0.05,20.6
+2020-12-30,Singanallur,0.05,26.9
+2020-12-30,Saravanampatti,0.22,8.1
+2020-12-30,Race Course,0.05,15.8
+2020-12-30,Ukkadam,0.21,16.8
+2020-12-30,Town Hall,0.05,24.1
+2020-12-30,Kuniyamuthur,0.05,24.7
+2020-12-30,Sundarapuram,0.05,17.9
+2020-12-30,Podanur,0.05,35.4
+2020-12-30,Thudiyalur,0.25,13.5
+2020-12-30,Vadakovai,0.12,12.6
+2020-12-30,Ganapathy,0.05,16.7
+2020-12-30,Kalapatti,0.05,16.0
+2020-12-30,Kovaipudur,0.07,15.1
+2020-12-30,Selvapuram,0.05,24.8
+2020-12-30,Kurichi,0.06,18.7
+2020-12-30,Vadavalli,0.05,22.1
+2021-01-06,Gandhipuram,0.13,19.6
+2021-01-06,RS Puram,0.05,32.0
+2021-01-06,Saibaba Colony,0.05,20.8
+2021-01-06,Peelamedu,0.42,7.3
+2021-01-06,Singanallur,0.06,12.9
+2021-01-06,Saravanampatti,0.14,12.9
+2021-01-06,Race Course,0.3,10.1
+2021-01-06,Ukkadam,0.05,29.1
+2021-01-06,Town Hall,0.05,27.0
+2021-01-06,Kuniyamuthur,0.18,12.5
+2021-01-06,Sundarapuram,0.1,10.0
+2021-01-06,Podanur,0.34,20.3
+2021-01-06,Thudiyalur,0.29,14.7
+2021-01-06,Vadakovai,0.05,17.5
+2021-01-06,Ganapathy,0.05,16.5
+2021-01-06,Kalapatti,0.05,22.0
+2021-01-06,Kovaipudur,0.05,21.8
+2021-01-06,Selvapuram,0.16,16.3
+2021-01-06,Kurichi,0.14,16.4
+2021-01-06,Vadavalli,0.05,18.0
+2021-01-13,Gandhipuram,0.05,17.0
+2021-01-13,RS Puram,0.08,16.2
+2021-01-13,Saibaba Colony,0.26,8.7
+2021-01-13,Peelamedu,0.12,13.5
+2021-01-13,Singanallur,0.05,18.8
+2021-01-13,Saravanampatti,0.05,26.4
+2021-01-13,Race Course,0.05,34.1
+2021-01-13,Ukkadam,0.31,24.9
+2021-01-13,Town Hall,0.1,13.8
+2021-01-13,Kuniyamuthur,0.05,27.1
+2021-01-13,Sundarapuram,0.05,15.3
+2021-01-13,Podanur,0.38,19.1
+2021-01-13,Thudiyalur,0.79,8.9
+2021-01-13,Vadakovai,0.05,24.2
+2021-01-13,Ganapathy,0.05,19.3
+2021-01-13,Kalapatti,0.05,27.7
+2021-01-13,Kovaipudur,0.37,17.0
+2021-01-13,Selvapuram,0.05,18.1
+2021-01-13,Kurichi,0.05,16.8
+2021-01-13,Vadavalli,0.05,12.9
+2021-01-20,Gandhipuram,0.06,17.3
+2021-01-20,RS Puram,0.05,26.7
+2021-01-20,Saibaba Colony,0.05,24.3
+2021-01-20,Peelamedu,0.18,18.3
+2021-01-20,Singanallur,0.05,25.2
+2021-01-20,Saravanampatti,0.05,29.1
+2021-01-20,Race Course,0.05,14.4
+2021-01-20,Ukkadam,0.09,26.0
+2021-01-20,Town Hall,0.07,16.7
+2021-01-20,Kuniyamuthur,0.24,13.9
+2021-01-20,Sundarapuram,0.05,15.4
+2021-01-20,Podanur,0.45,12.5
+2021-01-20,Thudiyalur,0.41,13.0
+2021-01-20,Vadakovai,0.05,18.9
+2021-01-20,Ganapathy,0.05,22.7
+2021-01-20,Kalapatti,0.05,23.1
+2021-01-20,Kovaipudur,0.05,26.7
+2021-01-20,Selvapuram,0.34,12.0
+2021-01-20,Kurichi,0.05,24.1
+2021-01-20,Vadavalli,0.05,13.7
+2021-01-27,Gandhipuram,0.27,18.0
+2021-01-27,RS Puram,0.43,26.2
+2021-01-27,Saibaba Colony,0.05,18.8
+2021-01-27,Peelamedu,0.05,18.2
+2021-01-27,Singanallur,0.05,24.6
+2021-01-27,Saravanampatti,0.05,22.8
+2021-01-27,Race Course,0.06,9.8
+2021-01-27,Ukkadam,0.55,17.3
+2021-01-27,Town Hall,0.14,10.7
+2021-01-27,Kuniyamuthur,0.05,19.3
+2021-01-27,Sundarapuram,0.05,11.4
+2021-01-27,Podanur,0.56,20.9
+2021-01-27,Thudiyalur,0.45,15.9
+2021-01-27,Vadakovai,0.13,11.1
+2021-01-27,Ganapathy,0.05,16.0
+2021-01-27,Kalapatti,0.05,20.8
+2021-01-27,Kovaipudur,0.05,27.4
+2021-01-27,Selvapuram,0.15,17.8
+2021-01-27,Kurichi,0.16,13.7
+2021-01-27,Vadavalli,0.05,19.0
+2021-02-03,Gandhipuram,0.19,13.4
+2021-02-03,RS Puram,0.33,26.4
+2021-02-03,Saibaba Colony,0.05,20.7
+2021-02-03,Peelamedu,0.05,17.5
+2021-02-03,Singanallur,0.11,13.5
+2021-02-03,Saravanampatti,0.1,10.8
+2021-02-03,Race Course,0.13,11.9
+2021-02-03,Ukkadam,0.4,18.5
+2021-02-03,Town Hall,0.05,15.4
+2021-02-03,Kuniyamuthur,0.2,10.9
+2021-02-03,Sundarapuram,0.06,9.9
+2021-02-03,Podanur,0.09,18.9
+2021-02-03,Thudiyalur,0.21,21.8
+2021-02-03,Vadakovai,0.05,14.8
+2021-02-03,Ganapathy,0.05,14.4
+2021-02-03,Kalapatti,0.05,15.3
+2021-02-03,Kovaipudur,0.05,25.2
+2021-02-03,Selvapuram,0.07,20.7
+2021-02-03,Kurichi,0.29,15.7
+2021-02-03,Vadavalli,0.05,20.9
+2021-02-10,Gandhipuram,0.15,16.6
+2021-02-10,RS Puram,0.36,25.2
+2021-02-10,Saibaba Colony,0.05,13.3
+2021-02-10,Peelamedu,0.37,15.1
+2021-02-10,Singanallur,0.16,9.6
+2021-02-10,Saravanampatti,0.05,13.3
+2021-02-10,Race Course,0.15,17.5
+2021-02-10,Ukkadam,0.22,11.8
+2021-02-10,Town Hall,0.21,13.0
+2021-02-10,Kuniyamuthur,0.24,16.0
+2021-02-10,Sundarapuram,0.05,21.9
+2021-02-10,Podanur,0.26,25.1
+2021-02-10,Thudiyalur,0.27,17.2
+2021-02-10,Vadakovai,0.26,13.2
+2021-02-10,Ganapathy,0.05,14.7
+2021-02-10,Kalapatti,0.05,21.0
+2021-02-10,Kovaipudur,0.48,10.0
+2021-02-10,Selvapuram,0.24,9.8
+2021-02-10,Kurichi,0.05,22.7
+2021-02-10,Vadavalli,0.05,14.4
+2021-02-17,Gandhipuram,0.05,21.5
+2021-02-17,RS Puram,0.17,21.4
+2021-02-17,Saibaba Colony,0.05,22.6
+2021-02-17,Peelamedu,0.05,18.4
+2021-02-17,Singanallur,0.05,16.3
+2021-02-17,Saravanampatti,0.05,29.4
+2021-02-17,Race Course,0.05,23.1
+2021-02-17,Ukkadam,0.46,24.0
+2021-02-17,Town Hall,0.05,28.1
+2021-02-17,Kuniyamuthur,0.12,20.2
+2021-02-17,Sundarapuram,0.05,20.9
+2021-02-17,Podanur,0.44,19.8
+2021-02-17,Thudiyalur,0.59,16.2
+2021-02-17,Vadakovai,0.05,25.5
+2021-02-17,Ganapathy,0.05,23.4
+2021-02-17,Kalapatti,0.12,14.6
+2021-02-17,Kovaipudur,0.26,19.9
+2021-02-17,Selvapuram,0.05,24.6
+2021-02-17,Kurichi,0.05,10.0
+2021-02-17,Vadavalli,0.07,12.3
+2021-02-24,Gandhipuram,0.33,20.0
+2021-02-24,RS Puram,0.22,27.7
+2021-02-24,Saibaba Colony,0.05,30.0
+2021-02-24,Peelamedu,0.31,13.1
+2021-02-24,Singanallur,0.21,13.7
+2021-02-24,Saravanampatti,0.05,11.2
+2021-02-24,Race Course,0.05,21.6
+2021-02-24,Ukkadam,0.4,9.9
+2021-02-24,Town Hall,0.05,24.0
+2021-02-24,Kuniyamuthur,0.05,32.3
+2021-02-24,Sundarapuram,0.05,17.0
+2021-02-24,Podanur,0.58,11.5
+2021-02-24,Thudiyalur,0.2,27.4
+2021-02-24,Vadakovai,0.05,21.6
+2021-02-24,Ganapathy,0.05,18.6
+2021-02-24,Kalapatti,0.05,12.8
+2021-02-24,Kovaipudur,0.05,21.2
+2021-02-24,Selvapuram,0.05,20.9
+2021-02-24,Kurichi,0.15,9.3
+2021-02-24,Vadavalli,0.05,14.2
+2021-03-03,Gandhipuram,0.23,17.0
+2021-03-03,RS Puram,0.15,22.3
+2021-03-03,Saibaba Colony,0.05,23.3
+2021-03-03,Peelamedu,0.09,24.0
+2021-03-03,Singanallur,0.05,16.7
+2021-03-03,Saravanampatti,0.18,10.7
+2021-03-03,Race Course,0.05,8.4
+2021-03-03,Ukkadam,0.54,14.1
+2021-03-03,Town Hall,0.29,12.9
+2021-03-03,Kuniyamuthur,0.1,14.9
+2021-03-03,Sundarapuram,0.05,25.4
+2021-03-03,Podanur,0.17,14.3
+2021-03-03,Thudiyalur,0.42,20.6
+2021-03-03,Vadakovai,0.08,15.3
+2021-03-03,Ganapathy,0.13,13.6
+2021-03-03,Kalapatti,0.05,13.4
+2021-03-03,Kovaipudur,0.12,15.4
+2021-03-03,Selvapuram,0.15,18.4
+2021-03-03,Kurichi,0.29,15.4
+2021-03-03,Vadavalli,0.05,27.9
+2021-03-10,Gandhipuram,0.33,15.0
+2021-03-10,RS Puram,0.25,19.4
+2021-03-10,Saibaba Colony,0.05,21.6
+2021-03-10,Peelamedu,0.09,18.4
+2021-03-10,Singanallur,0.05,16.8
+2021-03-10,Saravanampatti,0.06,11.0
+2021-03-10,Race Course,0.07,11.7
+2021-03-10,Ukkadam,0.28,17.3
+2021-03-10,Town Hall,0.29,15.7
+2021-03-10,Kuniyamuthur,0.19,17.3
+2021-03-10,Sundarapuram,0.05,18.2
+2021-03-10,Podanur,0.05,35.5
+2021-03-10,Thudiyalur,0.44,21.8
+2021-03-10,Vadakovai,0.05,11.5
+2021-03-10,Ganapathy,0.05,25.8
+2021-03-10,Kalapatti,0.28,10.8
+2021-03-10,Kovaipudur,0.21,17.6
+2021-03-10,Selvapuram,0.24,20.3
+2021-03-10,Kurichi,0.25,13.7
+2021-03-10,Vadavalli,0.05,22.8
+2021-03-17,Gandhipuram,0.25,14.1
+2021-03-17,RS Puram,0.3,17.8
+2021-03-17,Saibaba Colony,0.05,19.8
+2021-03-17,Peelamedu,0.44,13.0
+2021-03-17,Singanallur,0.09,17.8
+2021-03-17,Saravanampatti,0.05,21.2
+2021-03-17,Race Course,0.05,24.1
+2021-03-17,Ukkadam,0.26,14.1
+2021-03-17,Town Hall,0.34,13.6
+2021-03-17,Kuniyamuthur,0.05,21.9
+2021-03-17,Sundarapuram,0.13,11.7
+2021-03-17,Podanur,0.3,23.7
+2021-03-17,Thudiyalur,0.05,26.5
+2021-03-17,Vadakovai,0.05,15.9
+2021-03-17,Ganapathy,0.05,14.7
+2021-03-17,Kalapatti,0.05,15.9
+2021-03-17,Kovaipudur,0.27,12.0
+2021-03-17,Selvapuram,0.05,21.2
+2021-03-17,Kurichi,0.26,11.1
+2021-03-17,Vadavalli,0.05,34.7
+2021-03-24,Gandhipuram,0.22,27.1
+2021-03-24,RS Puram,0.13,16.7
+2021-03-24,Saibaba Colony,0.05,25.5
+2021-03-24,Peelamedu,0.05,34.0
+2021-03-24,Singanallur,0.09,9.4
+2021-03-24,Saravanampatti,0.05,12.0
+2021-03-24,Race Course,0.05,18.1
+2021-03-24,Ukkadam,0.61,16.1
+2021-03-24,Town Hall,0.18,19.1
+2021-03-24,Kuniyamuthur,0.05,26.4
+2021-03-24,Sundarapuram,0.05,17.5
+2021-03-24,Podanur,0.48,14.5
+2021-03-24,Thudiyalur,0.53,14.4
+2021-03-24,Vadakovai,0.05,19.0
+2021-03-24,Ganapathy,0.05,20.6
+2021-03-24,Kalapatti,0.16,16.0
+2021-03-24,Kovaipudur,0.05,20.7
+2021-03-24,Selvapuram,0.13,19.7
+2021-03-24,Kurichi,0.26,17.6
+2021-03-24,Vadavalli,0.12,14.9
+2021-03-31,Gandhipuram,0.05,32.4
+2021-03-31,RS Puram,0.48,18.6
+2021-03-31,Saibaba Colony,0.18,20.5
+2021-03-31,Peelamedu,0.3,12.7
+2021-03-31,Singanallur,0.12,9.6
+2021-03-31,Saravanampatti,0.05,9.3
+2021-03-31,Race Course,0.05,25.3
+2021-03-31,Ukkadam,0.26,21.1
+2021-03-31,Town Hall,0.14,17.7
+2021-03-31,Kuniyamuthur,0.05,19.6
+2021-03-31,Sundarapuram,0.05,26.0
+2021-03-31,Podanur,0.33,24.9
+2021-03-31,Thudiyalur,0.14,18.2
+2021-03-31,Vadakovai,0.05,20.0
+2021-03-31,Ganapathy,0.05,18.9
+2021-03-31,Kalapatti,0.05,9.3
+2021-03-31,Kovaipudur,0.05,19.7
+2021-03-31,Selvapuram,0.14,22.6
+2021-03-31,Kurichi,0.17,19.9
+2021-03-31,Vadavalli,0.05,12.2
+2021-04-07,Gandhipuram,0.09,24.0
+2021-04-07,RS Puram,0.34,12.4
+2021-04-07,Saibaba Colony,0.16,18.4
+2021-04-07,Peelamedu,0.22,13.8
+2021-04-07,Singanallur,0.05,23.8
+2021-04-07,Saravanampatti,0.05,19.9
+2021-04-07,Race Course,0.05,26.4
+2021-04-07,Ukkadam,0.05,32.3
+2021-04-07,Town Hall,0.05,22.0
+2021-04-07,Kuniyamuthur,0.11,19.1
+2021-04-07,Sundarapuram,0.05,15.5
+2021-04-07,Podanur,0.29,14.2
+2021-04-07,Thudiyalur,0.26,19.0
+2021-04-07,Vadakovai,0.05,20.8
+2021-04-07,Ganapathy,0.13,6.8
+2021-04-07,Kalapatti,0.05,12.7
+2021-04-07,Kovaipudur,0.05,15.3
+2021-04-07,Selvapuram,0.25,14.0
+2021-04-07,Kurichi,0.22,18.8
+2021-04-07,Vadavalli,0.05,25.4
+2021-04-14,Gandhipuram,0.05,24.3
+2021-04-14,RS Puram,0.52,8.5
+2021-04-14,Saibaba Colony,0.05,20.4
+2021-04-14,Peelamedu,0.37,12.6
+2021-04-14,Singanallur,0.05,20.9
+2021-04-14,Saravanampatti,0.05,18.8
+2021-04-14,Race Course,0.05,12.9
+2021-04-14,Ukkadam,0.1,22.0
+2021-04-14,Town Hall,0.06,13.9
+2021-04-14,Kuniyamuthur,0.23,15.0
+2021-04-14,Sundarapuram,0.05,19.7
+2021-04-14,Podanur,0.45,17.7
+2021-04-14,Thudiyalur,0.14,26.5
+2021-04-14,Vadakovai,0.05,21.9
+2021-04-14,Ganapathy,0.05,15.0
+2021-04-14,Kalapatti,0.17,18.8
+2021-04-14,Kovaipudur,0.05,20.3
+2021-04-14,Selvapuram,0.31,11.2
+2021-04-14,Kurichi,0.05,16.2
+2021-04-14,Vadavalli,0.05,21.3
+2021-04-21,Gandhipuram,0.31,18.1
+2021-04-21,RS Puram,0.27,21.5
+2021-04-21,Saibaba Colony,0.17,16.5
+2021-04-21,Peelamedu,0.05,18.7
+2021-04-21,Singanallur,0.25,12.6
+2021-04-21,Saravanampatti,0.05,21.4
+2021-04-21,Race Course,0.05,14.2
+2021-04-21,Ukkadam,0.26,22.5
+2021-04-21,Town Hall,0.05,20.7
+2021-04-21,Kuniyamuthur,0.05,29.5
+2021-04-21,Sundarapuram,0.05,15.0
+2021-04-21,Podanur,0.44,16.0
+2021-04-21,Thudiyalur,0.26,14.9
+2021-04-21,Vadakovai,0.05,12.4
+2021-04-21,Ganapathy,0.06,16.0
+2021-04-21,Kalapatti,0.05,25.9
+2021-04-21,Kovaipudur,0.05,23.0
+2021-04-21,Selvapuram,0.18,14.4
+2021-04-21,Kurichi,0.21,16.0
+2021-04-21,Vadavalli,0.05,20.9
+2021-04-28,Gandhipuram,0.05,24.6
+2021-04-28,RS Puram,0.17,16.6
+2021-04-28,Saibaba Colony,0.05,21.8
+2021-04-28,Peelamedu,0.26,10.6
+2021-04-28,Singanallur,0.19,14.2
+2021-04-28,Saravanampatti,0.05,16.9
+2021-04-28,Race Course,0.23,14.4
+2021-04-28,Ukkadam,0.58,10.2
+2021-04-28,Town Hall,0.23,17.0
+2021-04-28,Kuniyamuthur,0.05,25.9
+2021-04-28,Sundarapuram,0.05,24.5
+2021-04-28,Podanur,0.41,15.6
+2021-04-28,Thudiyalur,0.26,26.9
+2021-04-28,Vadakovai,0.05,15.7
+2021-04-28,Ganapathy,0.05,27.3
+2021-04-28,Kalapatti,0.05,13.0
+2021-04-28,Kovaipudur,0.05,10.8
+2021-04-28,Selvapuram,0.14,22.5
+2021-04-28,Kurichi,0.05,26.7
+2021-04-28,Vadavalli,0.05,17.7
+2021-05-05,Gandhipuram,0.35,21.8
+2021-05-05,RS Puram,0.57,16.3
+2021-05-05,Saibaba Colony,0.05,21.5
+2021-05-05,Peelamedu,0.08,20.3
+2021-05-05,Singanallur,0.05,37.1
+2021-05-05,Saravanampatti,0.05,31.2
+2021-05-05,Race Course,0.16,14.0
+2021-05-05,Ukkadam,0.05,21.9
+2021-05-05,Town Hall,0.23,16.3
+2021-05-05,Kuniyamuthur,0.35,14.2
+2021-05-05,Sundarapuram,0.05,23.4
+2021-05-05,Podanur,0.62,18.3
+2021-05-05,Thudiyalur,0.24,25.0
+2021-05-05,Vadakovai,0.05,14.1
+2021-05-05,Ganapathy,0.05,24.1
+2021-05-05,Kalapatti,0.05,24.5
+2021-05-05,Kovaipudur,0.38,9.9
+2021-05-05,Selvapuram,0.4,15.1
+2021-05-05,Kurichi,0.06,15.7
+2021-05-05,Vadavalli,0.07,12.7
+2021-05-12,Gandhipuram,0.05,31.3
+2021-05-12,RS Puram,0.33,17.7
+2021-05-12,Saibaba Colony,0.36,21.9
+2021-05-12,Peelamedu,0.42,12.1
+2021-05-12,Singanallur,0.05,18.5
+2021-05-12,Saravanampatti,0.05,30.2
+2021-05-12,Race Course,0.05,19.8
+2021-05-12,Ukkadam,0.16,25.6
+2021-05-12,Town Hall,0.19,10.5
+2021-05-12,Kuniyamuthur,0.41,16.9
+2021-05-12,Sundarapuram,0.05,20.8
+2021-05-12,Podanur,0.05,22.8
+2021-05-12,Thudiyalur,0.19,13.1
+2021-05-12,Vadakovai,0.05,26.5
+2021-05-12,Ganapathy,0.05,26.4
+2021-05-12,Kalapatti,0.05,9.7
+2021-05-12,Kovaipudur,0.19,15.0
+2021-05-12,Selvapuram,0.09,18.0
+2021-05-12,Kurichi,0.19,20.0
+2021-05-12,Vadavalli,0.25,11.4
+2021-05-19,Gandhipuram,0.3,12.1
+2021-05-19,RS Puram,0.05,21.9
+2021-05-19,Saibaba Colony,0.28,18.4
+2021-05-19,Peelamedu,0.05,31.6
+2021-05-19,Singanallur,0.05,22.4
+2021-05-19,Saravanampatti,0.19,11.1
+2021-05-19,Race Course,0.05,16.5
+2021-05-19,Ukkadam,0.26,16.7
+2021-05-19,Town Hall,0.24,15.8
+2021-05-19,Kuniyamuthur,0.14,12.9
+2021-05-19,Sundarapuram,0.05,13.7
+2021-05-19,Podanur,0.34,19.1
+2021-05-19,Thudiyalur,0.58,12.2
+2021-05-19,Vadakovai,0.21,13.9
+2021-05-19,Ganapathy,0.05,33.8
+2021-05-19,Kalapatti,0.05,18.5
+2021-05-19,Kovaipudur,0.05,17.8
+2021-05-19,Selvapuram,0.17,12.4
+2021-05-19,Kurichi,0.05,23.5
+2021-05-19,Vadavalli,0.05,17.3
+2021-05-26,Gandhipuram,0.14,21.9
+2021-05-26,RS Puram,0.18,18.4
+2021-05-26,Saibaba Colony,0.13,14.0
+2021-05-26,Peelamedu,0.12,17.4
+2021-05-26,Singanallur,0.05,28.2
+2021-05-26,Saravanampatti,0.09,12.8
+2021-05-26,Race Course,0.05,19.2
+2021-05-26,Ukkadam,0.59,13.6
+2021-05-26,Town Hall,0.19,12.5
+2021-05-26,Kuniyamuthur,0.05,20.1
+2021-05-26,Sundarapuram,0.05,18.4
+2021-05-26,Podanur,0.18,23.8
+2021-05-26,Thudiyalur,0.31,18.7
+2021-05-26,Vadakovai,0.05,14.4
+2021-05-26,Ganapathy,0.05,17.6
+2021-05-26,Kalapatti,0.05,14.8
+2021-05-26,Kovaipudur,0.05,24.8
+2021-05-26,Selvapuram,0.21,9.5
+2021-05-26,Kurichi,0.13,15.9
+2021-05-26,Vadavalli,0.05,29.1
+2021-06-02,Gandhipuram,0.05,41.8
+2021-06-02,RS Puram,0.05,56.7
+2021-06-02,Saibaba Colony,0.05,68.0
+2021-06-02,Peelamedu,0.05,37.7
+2021-06-02,Singanallur,0.05,64.3
+2021-06-02,Saravanampatti,0.05,121.3
+2021-06-02,Race Course,0.05,56.3
+2021-06-02,Ukkadam,0.05,63.9
+2021-06-02,Town Hall,0.05,61.5
+2021-06-02,Kuniyamuthur,0.05,81.3
+2021-06-02,Sundarapuram,0.05,61.0
+2021-06-02,Podanur,0.05,51.0
+2021-06-02,Thudiyalur,0.05,48.0
+2021-06-02,Vadakovai,0.05,38.6
+2021-06-02,Ganapathy,0.05,30.3
+2021-06-02,Kalapatti,0.05,66.6
+2021-06-02,Kovaipudur,0.05,103.1
+2021-06-02,Selvapuram,0.05,45.8
+2021-06-02,Kurichi,0.05,56.8
+2021-06-02,Vadavalli,0.05,82.2
+2021-06-09,Gandhipuram,0.05,137.7
+2021-06-09,RS Puram,0.05,248.0
+2021-06-09,Saibaba Colony,0.05,167.9
+2021-06-09,Peelamedu,0.05,150.0
+2021-06-09,Singanallur,0.05,129.8
+2021-06-09,Saravanampatti,0.05,169.8
+2021-06-09,Race Course,0.05,193.6
+2021-06-09,Ukkadam,0.05,216.4
+2021-06-09,Town Hall,0.05,164.8
+2021-06-09,Kuniyamuthur,0.05,223.0
+2021-06-09,Sundarapuram,0.05,195.7
+2021-06-09,Podanur,0.05,188.1
+2021-06-09,Thudiyalur,0.05,178.4
+2021-06-09,Vadakovai,0.05,178.6
+2021-06-09,Ganapathy,0.05,150.7
+2021-06-09,Kalapatti,0.05,215.2
+2021-06-09,Kovaipudur,0.05,193.3
+2021-06-09,Selvapuram,0.05,148.0
+2021-06-09,Kurichi,0.05,193.8
+2021-06-09,Vadavalli,0.05,151.8
+2021-06-16,Gandhipuram,0.05,204.7
+2021-06-16,RS Puram,0.05,205.7
+2021-06-16,Saibaba Colony,0.05,166.0
+2021-06-16,Peelamedu,0.05,160.9
+2021-06-16,Singanallur,0.05,138.9
+2021-06-16,Saravanampatti,0.05,167.5
+2021-06-16,Race Course,0.05,199.8
+2021-06-16,Ukkadam,0.05,178.9
+2021-06-16,Town Hall,0.05,157.2
+2021-06-16,Kuniyamuthur,0.05,233.2
+2021-06-16,Sundarapuram,0.05,173.8
+2021-06-16,Podanur,0.05,149.5
+2021-06-16,Thudiyalur,0.05,170.9
+2021-06-16,Vadakovai,0.05,158.0
+2021-06-16,Ganapathy,0.05,257.9
+2021-06-16,Kalapatti,0.05,148.4
+2021-06-16,Kovaipudur,0.05,109.6
+2021-06-16,Selvapuram,0.05,189.0
+2021-06-16,Kurichi,0.05,200.4
+2021-06-16,Vadavalli,0.05,177.6
+2021-06-23,Gandhipuram,0.05,170.7
+2021-06-23,RS Puram,0.05,136.7
+2021-06-23,Saibaba Colony,0.05,195.5
+2021-06-23,Peelamedu,0.05,178.4
+2021-06-23,Singanallur,0.05,212.7
+2021-06-23,Saravanampatti,0.05,192.9
+2021-06-23,Race Course,0.05,217.8
+2021-06-23,Ukkadam,0.05,145.9
+2021-06-23,Town Hall,0.05,160.5
+2021-06-23,Kuniyamuthur,0.05,196.4
+2021-06-23,Sundarapuram,0.05,160.7
+2021-06-23,Podanur,0.05,167.9
+2021-06-23,Thudiyalur,0.05,198.9
+2021-06-23,Vadakovai,0.05,157.7
+2021-06-23,Ganapathy,0.05,170.3
+2021-06-23,Kalapatti,0.05,210.0
+2021-06-23,Kovaipudur,0.05,155.9
+2021-06-23,Selvapuram,0.05,128.5
+2021-06-23,Kurichi,0.05,167.9
+2021-06-23,Vadavalli,0.05,235.4
+2021-06-30,Gandhipuram,0.05,137.5
+2021-06-30,RS Puram,0.05,161.9
+2021-06-30,Saibaba Colony,0.05,109.5
+2021-06-30,Peelamedu,0.05,206.6
+2021-06-30,Singanallur,0.05,108.3
+2021-06-30,Saravanampatti,0.05,147.9
+2021-06-30,Race Course,0.05,106.6
+2021-06-30,Ukkadam,0.05,194.6
+2021-06-30,Town Hall,0.05,197.0
+2021-06-30,Kuniyamuthur,0.05,166.9
+2021-06-30,Sundarapuram,0.05,145.8
+2021-06-30,Podanur,0.05,186.9
+2021-06-30,Thudiyalur,0.05,152.6
+2021-06-30,Vadakovai,0.05,191.8
+2021-06-30,Ganapathy,0.05,192.1
+2021-06-30,Kalapatti,0.05,203.0
+2021-06-30,Kovaipudur,0.05,218.8
+2021-06-30,Selvapuram,0.05,134.7
+2021-06-30,Kurichi,0.05,218.7
+2021-06-30,Vadavalli,0.05,201.2
+2021-07-07,Gandhipuram,0.05,199.4
+2021-07-07,RS Puram,0.05,181.9
+2021-07-07,Saibaba Colony,0.05,225.6
+2021-07-07,Peelamedu,0.05,170.1
+2021-07-07,Singanallur,0.05,150.7
+2021-07-07,Saravanampatti,0.05,186.9
+2021-07-07,Race Course,0.05,173.9
+2021-07-07,Ukkadam,0.05,193.4
+2021-07-07,Town Hall,0.05,207.9
+2021-07-07,Kuniyamuthur,0.05,212.8
+2021-07-07,Sundarapuram,0.05,190.1
+2021-07-07,Podanur,0.05,160.5
+2021-07-07,Thudiyalur,0.05,168.0
+2021-07-07,Vadakovai,0.05,161.4
+2021-07-07,Ganapathy,0.05,185.5
+2021-07-07,Kalapatti,0.05,213.8
+2021-07-07,Kovaipudur,0.05,196.0
+2021-07-07,Selvapuram,0.05,188.3
+2021-07-07,Kurichi,0.05,204.2
+2021-07-07,Vadavalli,0.05,107.8
+2021-07-14,Gandhipuram,0.05,219.6
+2021-07-14,RS Puram,0.05,162.0
+2021-07-14,Saibaba Colony,0.05,144.4
+2021-07-14,Peelamedu,0.05,186.4
+2021-07-14,Singanallur,0.05,162.9
+2021-07-14,Saravanampatti,0.05,163.1
+2021-07-14,Race Course,0.05,216.5
+2021-07-14,Ukkadam,0.05,219.2
+2021-07-14,Town Hall,0.05,212.1
+2021-07-14,Kuniyamuthur,0.05,157.3
+2021-07-14,Sundarapuram,0.05,143.6
+2021-07-14,Podanur,0.05,190.4
+2021-07-14,Thudiyalur,0.05,118.1
+2021-07-14,Vadakovai,0.05,164.8
+2021-07-14,Ganapathy,0.05,176.9
+2021-07-14,Kalapatti,0.05,207.1
+2021-07-14,Kovaipudur,0.05,192.0
+2021-07-14,Selvapuram,0.05,159.9
+2021-07-14,Kurichi,0.05,184.3
+2021-07-14,Vadavalli,0.05,153.7
+2021-07-21,Gandhipuram,0.05,165.8
+2021-07-21,RS Puram,0.05,168.2
+2021-07-21,Saibaba Colony,0.05,225.2
+2021-07-21,Peelamedu,0.05,179.0
+2021-07-21,Singanallur,0.05,219.3
+2021-07-21,Saravanampatti,0.05,199.6
+2021-07-21,Race Course,0.05,263.4
+2021-07-21,Ukkadam,0.05,176.8
+2021-07-21,Town Hall,0.05,203.9
+2021-07-21,Kuniyamuthur,0.05,186.8
+2021-07-21,Sundarapuram,0.05,135.2
+2021-07-21,Podanur,0.05,284.5
+2021-07-21,Thudiyalur,0.05,178.7
+2021-07-21,Vadakovai,0.05,233.4
+2021-07-21,Ganapathy,0.05,211.6
+2021-07-21,Kalapatti,0.05,164.2
+2021-07-21,Kovaipudur,0.05,192.0
+2021-07-21,Selvapuram,0.05,184.5
+2021-07-21,Kurichi,0.05,181.9
+2021-07-21,Vadavalli,0.05,191.8
+2021-07-28,Gandhipuram,0.05,182.7
+2021-07-28,RS Puram,0.05,201.9
+2021-07-28,Saibaba Colony,0.05,181.1
+2021-07-28,Peelamedu,0.05,133.4
+2021-07-28,Singanallur,0.05,168.6
+2021-07-28,Saravanampatti,0.05,198.6
+2021-07-28,Race Course,0.05,260.3
+2021-07-28,Ukkadam,0.05,170.2
+2021-07-28,Town Hall,0.05,153.4
+2021-07-28,Kuniyamuthur,0.05,137.1
+2021-07-28,Sundarapuram,0.05,191.8
+2021-07-28,Podanur,0.05,215.3
+2021-07-28,Thudiyalur,0.05,218.9
+2021-07-28,Vadakovai,0.05,219.4
+2021-07-28,Ganapathy,0.05,160.5
+2021-07-28,Kalapatti,0.05,156.7
+2021-07-28,Kovaipudur,0.05,213.5
+2021-07-28,Selvapuram,0.05,154.3
+2021-07-28,Kurichi,0.05,170.3
+2021-07-28,Vadavalli,0.05,207.5
+2021-08-04,Gandhipuram,0.05,189.7
+2021-08-04,RS Puram,0.05,193.5
+2021-08-04,Saibaba Colony,0.05,171.9
+2021-08-04,Peelamedu,0.05,150.5
+2021-08-04,Singanallur,0.05,148.6
+2021-08-04,Saravanampatti,0.05,177.2
+2021-08-04,Race Course,0.05,206.2
+2021-08-04,Ukkadam,0.05,166.4
+2021-08-04,Town Hall,0.05,161.1
+2021-08-04,Kuniyamuthur,0.05,152.5
+2021-08-04,Sundarapuram,0.05,189.6
+2021-08-04,Podanur,0.05,172.5
+2021-08-04,Thudiyalur,0.05,163.8
+2021-08-04,Vadakovai,0.05,164.7
+2021-08-04,Ganapathy,0.05,263.9
+2021-08-04,Kalapatti,0.05,186.4
+2021-08-04,Kovaipudur,0.05,192.1
+2021-08-04,Selvapuram,0.05,199.3
+2021-08-04,Kurichi,0.05,194.3
+2021-08-04,Vadavalli,0.05,197.6
+2021-08-11,Gandhipuram,0.05,131.8
+2021-08-11,RS Puram,0.05,262.9
+2021-08-11,Saibaba Colony,0.05,155.6
+2021-08-11,Peelamedu,0.05,118.1
+2021-08-11,Singanallur,0.05,183.0
+2021-08-11,Saravanampatti,0.05,126.4
+2021-08-11,Race Course,0.05,176.4
+2021-08-11,Ukkadam,0.05,227.0
+2021-08-11,Town Hall,0.05,168.1
+2021-08-11,Kuniyamuthur,0.05,163.8
+2021-08-11,Sundarapuram,0.05,261.6
+2021-08-11,Podanur,0.05,153.8
+2021-08-11,Thudiyalur,0.05,184.1
+2021-08-11,Vadakovai,0.05,158.4
+2021-08-11,Ganapathy,0.05,150.3
+2021-08-11,Kalapatti,0.05,171.6
+2021-08-11,Kovaipudur,0.05,168.5
+2021-08-11,Selvapuram,0.05,205.2
+2021-08-11,Kurichi,0.05,179.5
+2021-08-11,Vadavalli,0.05,221.5
+2021-08-18,Gandhipuram,0.05,158.0
+2021-08-18,RS Puram,0.05,214.0
+2021-08-18,Saibaba Colony,0.05,157.4
+2021-08-18,Peelamedu,0.05,154.7
+2021-08-18,Singanallur,0.05,142.1
+2021-08-18,Saravanampatti,0.05,145.6
+2021-08-18,Race Course,0.05,166.5
+2021-08-18,Ukkadam,0.05,126.5
+2021-08-18,Town Hall,0.05,267.8
+2021-08-18,Kuniyamuthur,0.05,177.0
+2021-08-18,Sundarapuram,0.05,132.5
+2021-08-18,Podanur,0.05,185.9
+2021-08-18,Thudiyalur,0.05,212.1
+2021-08-18,Vadakovai,0.05,98.7
+2021-08-18,Ganapathy,0.05,172.9
+2021-08-18,Kalapatti,0.05,159.8
+2021-08-18,Kovaipudur,0.05,198.5
+2021-08-18,Selvapuram,0.05,212.5
+2021-08-18,Kurichi,0.05,167.7
+2021-08-18,Vadavalli,0.05,154.1
+2021-08-25,Gandhipuram,0.05,115.3
+2021-08-25,RS Puram,0.05,207.0
+2021-08-25,Saibaba Colony,0.05,184.2
+2021-08-25,Peelamedu,0.05,176.0
+2021-08-25,Singanallur,0.05,210.9
+2021-08-25,Saravanampatti,0.05,110.5
+2021-08-25,Race Course,0.05,182.7
+2021-08-25,Ukkadam,0.05,143.9
+2021-08-25,Town Hall,0.05,163.5
+2021-08-25,Kuniyamuthur,0.05,208.5
+2021-08-25,Sundarapuram,0.05,280.7
+2021-08-25,Podanur,0.05,161.4
+2021-08-25,Thudiyalur,0.05,188.0
+2021-08-25,Vadakovai,0.05,173.0
+2021-08-25,Ganapathy,0.05,216.3
+2021-08-25,Kalapatti,0.05,160.1
+2021-08-25,Kovaipudur,0.05,161.0
+2021-08-25,Selvapuram,0.05,145.3
+2021-08-25,Kurichi,0.05,176.1
+2021-08-25,Vadavalli,0.05,148.7
+2021-09-01,Gandhipuram,0.05,217.7
+2021-09-01,RS Puram,0.05,134.5
+2021-09-01,Saibaba Colony,0.05,230.1
+2021-09-01,Peelamedu,0.05,169.1
+2021-09-01,Singanallur,0.05,167.3
+2021-09-01,Saravanampatti,0.05,188.0
+2021-09-01,Race Course,0.05,168.4
+2021-09-01,Ukkadam,0.05,177.4
+2021-09-01,Town Hall,0.05,177.9
+2021-09-01,Kuniyamuthur,0.05,162.6
+2021-09-01,Sundarapuram,0.05,237.2
+2021-09-01,Podanur,0.05,111.5
+2021-09-01,Thudiyalur,0.05,161.9
+2021-09-01,Vadakovai,0.05,190.6
+2021-09-01,Ganapathy,0.05,179.9
+2021-09-01,Kalapatti,0.05,218.5
+2021-09-01,Kovaipudur,0.05,180.8
+2021-09-01,Selvapuram,0.05,176.1
+2021-09-01,Kurichi,0.05,192.1
+2021-09-01,Vadavalli,0.05,186.1
+2021-09-08,Gandhipuram,0.05,201.8
+2021-09-08,RS Puram,0.05,177.8
+2021-09-08,Saibaba Colony,0.05,206.2
+2021-09-08,Peelamedu,0.05,163.1
+2021-09-08,Singanallur,0.05,162.0
+2021-09-08,Saravanampatti,0.05,212.6
+2021-09-08,Race Course,0.05,201.4
+2021-09-08,Ukkadam,0.05,217.4
+2021-09-08,Town Hall,0.05,133.0
+2021-09-08,Kuniyamuthur,0.05,188.6
+2021-09-08,Sundarapuram,0.05,169.3
+2021-09-08,Podanur,0.05,147.3
+2021-09-08,Thudiyalur,0.05,202.4
+2021-09-08,Vadakovai,0.05,247.0
+2021-09-08,Ganapathy,0.05,153.4
+2021-09-08,Kalapatti,0.05,178.2
+2021-09-08,Kovaipudur,0.05,177.9
+2021-09-08,Selvapuram,0.05,150.9
+2021-09-08,Kurichi,0.05,146.4
+2021-09-08,Vadavalli,0.05,174.2
+2021-09-15,Gandhipuram,0.05,151.4
+2021-09-15,RS Puram,0.05,204.4
+2021-09-15,Saibaba Colony,0.05,213.5
+2021-09-15,Peelamedu,0.05,134.1
+2021-09-15,Singanallur,0.05,196.7
+2021-09-15,Saravanampatti,0.05,173.7
+2021-09-15,Race Course,0.05,127.4
+2021-09-15,Ukkadam,0.05,187.5
+2021-09-15,Town Hall,0.05,211.4
+2021-09-15,Kuniyamuthur,0.05,163.5
+2021-09-15,Sundarapuram,0.05,193.6
+2021-09-15,Podanur,0.05,266.6
+2021-09-15,Thudiyalur,0.05,122.0
+2021-09-15,Vadakovai,0.05,108.9
+2021-09-15,Ganapathy,0.05,231.8
+2021-09-15,Kalapatti,0.05,175.7
+2021-09-15,Kovaipudur,0.05,138.4
+2021-09-15,Selvapuram,0.05,169.7
+2021-09-15,Kurichi,0.05,189.6
+2021-09-15,Vadavalli,0.05,213.4
+2021-09-22,Gandhipuram,0.05,164.8
+2021-09-22,RS Puram,0.05,192.3
+2021-09-22,Saibaba Colony,0.05,163.9
+2021-09-22,Peelamedu,0.05,218.6
+2021-09-22,Singanallur,0.05,141.2
+2021-09-22,Saravanampatti,0.05,220.5
+2021-09-22,Race Course,0.05,262.1
+2021-09-22,Ukkadam,0.05,190.5
+2021-09-22,Town Hall,0.05,134.4
+2021-09-22,Kuniyamuthur,0.05,157.9
+2021-09-22,Sundarapuram,0.05,151.7
+2021-09-22,Podanur,0.05,227.9
+2021-09-22,Thudiyalur,0.05,190.7
+2021-09-22,Vadakovai,0.05,192.6
+2021-09-22,Ganapathy,0.05,173.4
+2021-09-22,Kalapatti,0.05,193.6
+2021-09-22,Kovaipudur,0.05,189.5
+2021-09-22,Selvapuram,0.05,204.7
+2021-09-22,Kurichi,0.05,212.2
+2021-09-22,Vadavalli,0.05,208.5
+2021-09-29,Gandhipuram,0.05,200.6
+2021-09-29,RS Puram,0.05,209.2
+2021-09-29,Saibaba Colony,0.05,192.7
+2021-09-29,Peelamedu,0.05,185.7
+2021-09-29,Singanallur,0.05,159.8
+2021-09-29,Saravanampatti,0.05,196.6
+2021-09-29,Race Course,0.05,217.1
+2021-09-29,Ukkadam,0.05,168.6
+2021-09-29,Town Hall,0.05,179.1
+2021-09-29,Kuniyamuthur,0.05,120.4
+2021-09-29,Sundarapuram,0.05,152.7
+2021-09-29,Podanur,0.05,184.1
+2021-09-29,Thudiyalur,0.05,194.7
+2021-09-29,Vadakovai,0.05,215.7
+2021-09-29,Ganapathy,0.05,205.8
+2021-09-29,Kalapatti,0.05,208.0
+2021-09-29,Kovaipudur,0.05,261.6
+2021-09-29,Selvapuram,0.05,228.9
+2021-09-29,Kurichi,0.05,119.9
+2021-09-29,Vadavalli,0.05,190.7
+2021-10-06,Gandhipuram,0.05,115.5
+2021-10-06,RS Puram,0.05,103.4
+2021-10-06,Saibaba Colony,0.05,102.8
+2021-10-06,Peelamedu,0.05,105.7
+2021-10-06,Singanallur,0.05,119.2
+2021-10-06,Saravanampatti,0.05,145.2
+2021-10-06,Race Course,0.05,142.7
+2021-10-06,Ukkadam,0.05,107.8
+2021-10-06,Town Hall,0.05,69.2
+2021-10-06,Kuniyamuthur,0.05,99.7
+2021-10-06,Sundarapuram,0.05,118.3
+2021-10-06,Podanur,0.05,75.9
+2021-10-06,Thudiyalur,0.05,86.5
+2021-10-06,Vadakovai,0.05,122.3
+2021-10-06,Ganapathy,0.05,149.5
+2021-10-06,Kalapatti,0.05,122.3
+2021-10-06,Kovaipudur,0.05,74.9
+2021-10-06,Selvapuram,0.05,115.8
+2021-10-06,Kurichi,0.05,105.4
+2021-10-06,Vadavalli,0.05,76.7
+2021-10-13,Gandhipuram,0.05,65.6
+2021-10-13,RS Puram,0.05,93.5
+2021-10-13,Saibaba Colony,0.05,70.0
+2021-10-13,Peelamedu,0.05,102.5
+2021-10-13,Singanallur,0.05,72.5
+2021-10-13,Saravanampatti,0.05,154.2
+2021-10-13,Race Course,0.05,59.9
+2021-10-13,Ukkadam,0.05,76.3
+2021-10-13,Town Hall,0.05,112.8
+2021-10-13,Kuniyamuthur,0.05,55.0
+2021-10-13,Sundarapuram,0.05,45.6
+2021-10-13,Podanur,0.05,83.8
+2021-10-13,Thudiyalur,0.05,68.0
+2021-10-13,Vadakovai,0.05,82.9
+2021-10-13,Ganapathy,0.05,47.0
+2021-10-13,Kalapatti,0.05,85.6
+2021-10-13,Kovaipudur,0.05,58.1
+2021-10-13,Selvapuram,0.05,92.3
+2021-10-13,Kurichi,0.05,54.5
+2021-10-13,Vadavalli,0.05,107.7
+2021-10-20,Gandhipuram,0.05,89.4
+2021-10-20,RS Puram,0.05,108.3
+2021-10-20,Saibaba Colony,0.05,83.7
+2021-10-20,Peelamedu,0.05,96.3
+2021-10-20,Singanallur,0.05,93.0
+2021-10-20,Saravanampatti,0.05,142.2
+2021-10-20,Race Course,0.05,67.6
+2021-10-20,Ukkadam,0.05,77.9
+2021-10-20,Town Hall,0.05,47.7
+2021-10-20,Kuniyamuthur,0.05,72.6
+2021-10-20,Sundarapuram,0.05,54.1
+2021-10-20,Podanur,0.05,69.6
+2021-10-20,Thudiyalur,0.05,47.9
+2021-10-20,Vadakovai,0.05,87.1
+2021-10-20,Ganapathy,0.05,83.3
+2021-10-20,Kalapatti,0.05,96.9
+2021-10-20,Kovaipudur,0.05,103.5
+2021-10-20,Selvapuram,0.05,116.3
+2021-10-20,Kurichi,0.05,60.2
+2021-10-20,Vadavalli,0.05,69.3
+2021-10-27,Gandhipuram,0.05,91.6
+2021-10-27,RS Puram,0.05,79.0
+2021-10-27,Saibaba Colony,0.05,74.6
+2021-10-27,Peelamedu,0.05,82.8
+2021-10-27,Singanallur,0.05,105.0
+2021-10-27,Saravanampatti,0.05,96.4
+2021-10-27,Race Course,0.05,67.7
+2021-10-27,Ukkadam,0.05,75.8
+2021-10-27,Town Hall,0.05,60.1
+2021-10-27,Kuniyamuthur,0.05,99.6
+2021-10-27,Sundarapuram,0.05,75.9
+2021-10-27,Podanur,0.05,86.5
+2021-10-27,Thudiyalur,0.05,72.0
+2021-10-27,Vadakovai,0.05,118.0
+2021-10-27,Ganapathy,0.05,86.2
+2021-10-27,Kalapatti,0.05,85.8
+2021-10-27,Kovaipudur,0.05,91.8
+2021-10-27,Selvapuram,0.05,89.1
+2021-10-27,Kurichi,0.05,67.2
+2021-10-27,Vadavalli,0.05,73.3
+2021-11-03,Gandhipuram,0.05,81.6
+2021-11-03,RS Puram,0.05,99.3
+2021-11-03,Saibaba Colony,0.05,86.1
+2021-11-03,Peelamedu,0.05,94.7
+2021-11-03,Singanallur,0.05,75.6
+2021-11-03,Saravanampatti,0.05,88.9
+2021-11-03,Race Course,0.05,60.0
+2021-11-03,Ukkadam,0.05,95.6
+2021-11-03,Town Hall,0.05,64.2
+2021-11-03,Kuniyamuthur,0.05,116.0
+2021-11-03,Sundarapuram,0.05,77.1
+2021-11-03,Podanur,0.05,77.7
+2021-11-03,Thudiyalur,0.05,80.4
+2021-11-03,Vadakovai,0.05,99.8
+2021-11-03,Ganapathy,0.05,101.0
+2021-11-03,Kalapatti,0.05,80.3
+2021-11-03,Kovaipudur,0.05,68.4
+2021-11-03,Selvapuram,0.05,78.2
+2021-11-03,Kurichi,0.05,59.9
+2021-11-03,Vadavalli,0.05,63.6
+2021-11-10,Gandhipuram,0.05,121.7
+2021-11-10,RS Puram,0.05,121.7
+2021-11-10,Saibaba Colony,0.05,92.4
+2021-11-10,Peelamedu,0.05,64.9
+2021-11-10,Singanallur,0.05,95.5
+2021-11-10,Saravanampatti,0.05,87.4
+2021-11-10,Race Course,0.05,86.8
+2021-11-10,Ukkadam,0.05,88.0
+2021-11-10,Town Hall,0.05,95.2
+2021-11-10,Kuniyamuthur,0.05,109.2
+2021-11-10,Sundarapuram,0.05,67.0
+2021-11-10,Podanur,0.05,80.2
+2021-11-10,Thudiyalur,0.05,97.0
+2021-11-10,Vadakovai,0.05,120.0
+2021-11-10,Ganapathy,0.05,59.7
+2021-11-10,Kalapatti,0.05,71.4
+2021-11-10,Kovaipudur,0.05,118.4
+2021-11-10,Selvapuram,0.05,88.8
+2021-11-10,Kurichi,0.05,82.0
+2021-11-10,Vadavalli,0.05,62.9
+2021-11-17,Gandhipuram,0.05,98.0
+2021-11-17,RS Puram,0.05,82.2
+2021-11-17,Saibaba Colony,0.05,80.2
+2021-11-17,Peelamedu,0.05,98.8
+2021-11-17,Singanallur,0.05,86.5
+2021-11-17,Saravanampatti,0.05,76.8
+2021-11-17,Race Course,0.05,85.7
+2021-11-17,Ukkadam,0.05,65.0
+2021-11-17,Town Hall,0.05,69.8
+2021-11-17,Kuniyamuthur,0.05,60.6
+2021-11-17,Sundarapuram,0.05,77.5
+2021-11-17,Podanur,0.05,87.8
+2021-11-17,Thudiyalur,0.05,112.8
+2021-11-17,Vadakovai,0.05,80.4
+2021-11-17,Ganapathy,0.05,46.3
+2021-11-17,Kalapatti,0.05,53.3
+2021-11-17,Kovaipudur,0.05,86.2
+2021-11-17,Selvapuram,0.05,84.5
+2021-11-17,Kurichi,0.05,74.4
+2021-11-17,Vadavalli,0.05,51.8
+2021-11-24,Gandhipuram,0.05,82.9
+2021-11-24,RS Puram,0.05,75.8
+2021-11-24,Saibaba Colony,0.05,81.7
+2021-11-24,Peelamedu,0.05,123.7
+2021-11-24,Singanallur,0.05,93.6
+2021-11-24,Saravanampatti,0.05,100.2
+2021-11-24,Race Course,0.05,91.4
+2021-11-24,Ukkadam,0.05,73.1
+2021-11-24,Town Hall,0.05,39.6
+2021-11-24,Kuniyamuthur,0.05,96.3
+2021-11-24,Sundarapuram,0.05,81.3
+2021-11-24,Podanur,0.05,125.5
+2021-11-24,Thudiyalur,0.05,57.1
+2021-11-24,Vadakovai,0.05,98.2
+2021-11-24,Ganapathy,0.05,85.0
+2021-11-24,Kalapatti,0.05,64.1
+2021-11-24,Kovaipudur,0.05,56.8
+2021-11-24,Selvapuram,0.05,72.8
+2021-11-24,Kurichi,0.05,86.7
+2021-11-24,Vadavalli,0.05,79.6
+2021-12-01,Gandhipuram,0.05,81.7
+2021-12-01,RS Puram,0.05,97.2
+2021-12-01,Saibaba Colony,0.05,73.9
+2021-12-01,Peelamedu,0.05,106.2
+2021-12-01,Singanallur,0.05,80.1
+2021-12-01,Saravanampatti,0.05,60.4
+2021-12-01,Race Course,0.05,59.9
+2021-12-01,Ukkadam,0.05,61.9
+2021-12-01,Town Hall,0.05,85.3
+2021-12-01,Kuniyamuthur,0.05,65.4
+2021-12-01,Sundarapuram,0.05,94.9
+2021-12-01,Podanur,0.05,88.6
+2021-12-01,Thudiyalur,0.05,68.5
+2021-12-01,Vadakovai,0.05,92.9
+2021-12-01,Ganapathy,0.05,63.7
+2021-12-01,Kalapatti,0.05,98.7
+2021-12-01,Kovaipudur,0.05,71.2
+2021-12-01,Selvapuram,0.05,82.3
+2021-12-01,Kurichi,0.05,47.2
+2021-12-01,Vadavalli,0.05,97.1
+2021-12-08,Gandhipuram,0.05,29.5
+2021-12-08,RS Puram,0.21,22.2
+2021-12-08,Saibaba Colony,0.24,17.0
+2021-12-08,Peelamedu,0.07,26.5
+2021-12-08,Singanallur,0.05,24.9
+2021-12-08,Saravanampatti,0.05,22.6
+2021-12-08,Race Course,0.05,13.1
+2021-12-08,Ukkadam,0.38,13.9
+2021-12-08,Town Hall,0.11,20.2
+2021-12-08,Kuniyamuthur,0.05,16.9
+2021-12-08,Sundarapuram,0.05,19.1
+2021-12-08,Podanur,0.25,18.1
+2021-12-08,Thudiyalur,0.33,20.4
+2021-12-08,Vadakovai,0.26,14.7
+2021-12-08,Ganapathy,0.05,20.8
+2021-12-08,Kalapatti,0.05,14.8
+2021-12-08,Kovaipudur,0.15,18.0
+2021-12-08,Selvapuram,0.05,26.9
+2021-12-08,Kurichi,0.05,31.5
+2021-12-08,Vadavalli,0.05,12.8
+2021-12-15,Gandhipuram,0.05,19.1
+2021-12-15,RS Puram,0.19,13.7
+2021-12-15,Saibaba Colony,0.05,28.4
+2021-12-15,Peelamedu,0.13,16.2
+2021-12-15,Singanallur,0.05,22.4
+2021-12-15,Saravanampatti,0.05,16.7
+2021-12-15,Race Course,0.05,11.3
+2021-12-15,Ukkadam,0.43,20.1
+2021-12-15,Town Hall,0.05,20.7
+2021-12-15,Kuniyamuthur,0.23,17.3
+2021-12-15,Sundarapuram,0.05,28.0
+2021-12-15,Podanur,0.29,12.6
+2021-12-15,Thudiyalur,0.05,25.3
+2021-12-15,Vadakovai,0.05,21.5
+2021-12-15,Ganapathy,0.05,18.1
+2021-12-15,Kalapatti,0.05,24.5
+2021-12-15,Kovaipudur,0.38,12.9
+2021-12-15,Selvapuram,0.05,25.1
+2021-12-15,Kurichi,0.15,19.7
+2021-12-15,Vadavalli,0.05,29.8
+2021-12-22,Gandhipuram,0.09,18.4
+2021-12-22,RS Puram,0.62,8.3
+2021-12-22,Saibaba Colony,0.22,19.6
+2021-12-22,Peelamedu,0.55,12.5
+2021-12-22,Singanallur,0.06,14.6
+2021-12-22,Saravanampatti,0.05,14.3
+2021-12-22,Race Course,0.05,21.4
+2021-12-22,Ukkadam,0.42,20.7
+2021-12-22,Town Hall,0.12,19.9
+2021-12-22,Kuniyamuthur,0.13,13.0
+2021-12-22,Sundarapuram,0.05,26.4
+2021-12-22,Podanur,0.46,12.1
+2021-12-22,Thudiyalur,0.16,21.2
+2021-12-22,Vadakovai,0.05,14.3
+2021-12-22,Ganapathy,0.05,21.2
+2021-12-22,Kalapatti,0.05,16.8
+2021-12-22,Kovaipudur,0.05,26.0
+2021-12-22,Selvapuram,0.05,18.4
+2021-12-22,Kurichi,0.05,25.3
+2021-12-22,Vadavalli,0.05,16.4
+2021-12-29,Gandhipuram,0.36,16.2
+2021-12-29,RS Puram,0.18,25.0
+2021-12-29,Saibaba Colony,0.27,15.7
+2021-12-29,Peelamedu,0.35,14.6
+2021-12-29,Singanallur,0.05,16.1
+2021-12-29,Saravanampatti,0.11,16.4
+2021-12-29,Race Course,0.05,24.3
+2021-12-29,Ukkadam,0.05,28.8
+2021-12-29,Town Hall,0.31,17.5
+2021-12-29,Kuniyamuthur,0.35,9.3
+2021-12-29,Sundarapuram,0.05,15.1
+2021-12-29,Podanur,0.62,14.2
+2021-12-29,Thudiyalur,0.22,20.5
+2021-12-29,Vadakovai,0.1,10.5
+2021-12-29,Ganapathy,0.05,20.4
+2021-12-29,Kalapatti,0.05,12.3
+2021-12-29,Kovaipudur,0.08,19.5
+2021-12-29,Selvapuram,0.05,17.1
+2021-12-29,Kurichi,0.24,18.7
+2021-12-29,Vadavalli,0.05,22.5
+2022-01-05,Gandhipuram,0.25,14.9
+2022-01-05,RS Puram,0.17,14.5
+2022-01-05,Saibaba Colony,0.05,19.5
+2022-01-05,Peelamedu,0.05,16.8
+2022-01-05,Singanallur,0.09,14.4
+2022-01-05,Saravanampatti,0.05,16.5
+2022-01-05,Race Course,0.05,21.7
+2022-01-05,Ukkadam,0.26,15.8
+2022-01-05,Town Hall,0.05,21.0
+2022-01-05,Kuniyamuthur,0.06,13.2
+2022-01-05,Sundarapuram,0.05,15.2
+2022-01-05,Podanur,0.32,22.6
+2022-01-05,Thudiyalur,0.41,20.3
+2022-01-05,Vadakovai,0.05,20.1
+2022-01-05,Ganapathy,0.05,16.9
+2022-01-05,Kalapatti,0.05,30.6
+2022-01-05,Kovaipudur,0.05,25.7
+2022-01-05,Selvapuram,0.05,26.4
+2022-01-05,Kurichi,0.05,25.7
+2022-01-05,Vadavalli,0.05,24.2
+2022-01-12,Gandhipuram,0.07,9.5
+2022-01-12,RS Puram,0.1,19.0
+2022-01-12,Saibaba Colony,0.05,10.6
+2022-01-12,Peelamedu,0.05,22.7
+2022-01-12,Singanallur,0.11,16.3
+2022-01-12,Saravanampatti,0.05,11.4
+2022-01-12,Race Course,0.25,10.2
+2022-01-12,Ukkadam,0.5,17.3
+2022-01-12,Town Hall,0.35,11.5
+2022-01-12,Kuniyamuthur,0.09,13.1
+2022-01-12,Sundarapuram,0.05,17.3
+2022-01-12,Podanur,0.19,16.4
+2022-01-12,Thudiyalur,0.1,26.5
+2022-01-12,Vadakovai,0.05,17.8
+2022-01-12,Ganapathy,0.12,6.6
+2022-01-12,Kalapatti,0.05,21.7
+2022-01-12,Kovaipudur,0.1,16.9
+2022-01-12,Selvapuram,0.05,23.0
+2022-01-12,Kurichi,0.34,17.8
+2022-01-12,Vadavalli,0.05,18.9
+2022-01-19,Gandhipuram,0.05,19.5
+2022-01-19,RS Puram,0.25,23.6
+2022-01-19,Saibaba Colony,0.05,21.1
+2022-01-19,Peelamedu,0.05,22.0
+2022-01-19,Singanallur,0.05,27.3
+2022-01-19,Saravanampatti,0.05,24.7
+2022-01-19,Race Course,0.05,20.1
+2022-01-19,Ukkadam,0.46,25.8
+2022-01-19,Town Hall,0.07,23.8
+2022-01-19,Kuniyamuthur,0.43,12.7
+2022-01-19,Sundarapuram,0.18,14.2
+2022-01-19,Podanur,0.46,20.5
+2022-01-19,Thudiyalur,0.47,9.8
+2022-01-19,Vadakovai,0.11,13.8
+2022-01-19,Ganapathy,0.05,26.7
+2022-01-19,Kalapatti,0.05,13.7
+2022-01-19,Kovaipudur,0.07,23.3
+2022-01-19,Selvapuram,0.05,30.5
+2022-01-19,Kurichi,0.07,18.1
+2022-01-19,Vadavalli,0.05,13.1
+2022-01-26,Gandhipuram,0.05,28.1
+2022-01-26,RS Puram,0.33,22.3
+2022-01-26,Saibaba Colony,0.22,16.3
+2022-01-26,Peelamedu,0.14,11.3
+2022-01-26,Singanallur,0.05,18.4
+2022-01-26,Saravanampatti,0.05,28.2
+2022-01-26,Race Course,0.05,18.6
+2022-01-26,Ukkadam,0.27,8.9
+2022-01-26,Town Hall,0.05,17.6
+2022-01-26,Kuniyamuthur,0.16,13.9
+2022-01-26,Sundarapuram,0.05,12.6
+2022-01-26,Podanur,0.48,13.8
+2022-01-26,Thudiyalur,0.52,17.8
+2022-01-26,Vadakovai,0.05,16.7
+2022-01-26,Ganapathy,0.05,21.1
+2022-01-26,Kalapatti,0.05,15.0
+2022-01-26,Kovaipudur,0.14,18.9
+2022-01-26,Selvapuram,0.35,12.4
+2022-01-26,Kurichi,0.05,21.4
+2022-01-26,Vadavalli,0.05,11.2
+2022-02-02,Gandhipuram,0.1,19.7
+2022-02-02,RS Puram,0.34,20.9
+2022-02-02,Saibaba Colony,0.08,16.8
+2022-02-02,Peelamedu,0.26,14.2
+2022-02-02,Singanallur,0.05,23.2
+2022-02-02,Saravanampatti,0.05,21.0
+2022-02-02,Race Course,0.05,27.5
+2022-02-02,Ukkadam,0.63,10.3
+2022-02-02,Town Hall,0.15,11.7
+2022-02-02,Kuniyamuthur,0.22,13.3
+2022-02-02,Sundarapuram,0.23,13.6
+2022-02-02,Podanur,0.53,21.5
+2022-02-02,Thudiyalur,0.3,10.2
+2022-02-02,Vadakovai,0.05,23.0
+2022-02-02,Ganapathy,0.05,23.0
+2022-02-02,Kalapatti,0.05,20.6
+2022-02-02,Kovaipudur,0.31,16.5
+2022-02-02,Selvapuram,0.26,13.6
+2022-02-02,Kurichi,0.05,43.8
+2022-02-02,Vadavalli,0.05,23.9
+2022-02-09,Gandhipuram,0.05,29.1
+2022-02-09,RS Puram,0.56,16.6
+2022-02-09,Saibaba Colony,0.05,14.3
+2022-02-09,Peelamedu,0.05,21.8
+2022-02-09,Singanallur,0.05,16.3
+2022-02-09,Saravanampatti,0.05,24.6
+2022-02-09,Race Course,0.05,22.9
+2022-02-09,Ukkadam,0.06,19.1
+2022-02-09,Town Hall,0.2,18.3
+2022-02-09,Kuniyamuthur,0.47,11.8
+2022-02-09,Sundarapuram,0.05,12.3
+2022-02-09,Podanur,0.37,16.5
+2022-02-09,Thudiyalur,0.34,16.4
+2022-02-09,Vadakovai,0.05,27.1
+2022-02-09,Ganapathy,0.05,21.3
+2022-02-09,Kalapatti,0.05,14.3
+2022-02-09,Kovaipudur,0.06,15.1
+2022-02-09,Selvapuram,0.2,17.8
+2022-02-09,Kurichi,0.33,16.0
+2022-02-09,Vadavalli,0.05,18.9
+2022-02-16,Gandhipuram,0.05,30.5
+2022-02-16,RS Puram,0.77,10.0
+2022-02-16,Saibaba Colony,0.15,17.9
+2022-02-16,Peelamedu,0.21,11.0
+2022-02-16,Singanallur,0.05,19.5
+2022-02-16,Saravanampatti,0.05,15.6
+2022-02-16,Race Course,0.05,16.1
+2022-02-16,Ukkadam,0.25,16.4
+2022-02-16,Town Hall,0.4,16.9
+2022-02-16,Kuniyamuthur,0.05,22.5
+2022-02-16,Sundarapuram,0.22,9.8
+2022-02-16,Podanur,0.09,18.6
+2022-02-16,Thudiyalur,0.48,12.4
+2022-02-16,Vadakovai,0.05,27.2
+2022-02-16,Ganapathy,0.05,22.7
+2022-02-16,Kalapatti,0.05,18.0
+2022-02-16,Kovaipudur,0.05,20.7
+2022-02-16,Selvapuram,0.25,17.4
+2022-02-16,Kurichi,0.05,14.5
+2022-02-16,Vadavalli,0.05,16.0
+2022-02-23,Gandhipuram,0.29,14.7
+2022-02-23,RS Puram,0.41,13.2
+2022-02-23,Saibaba Colony,0.14,21.0
+2022-02-23,Peelamedu,0.05,19.7
+2022-02-23,Singanallur,0.05,24.6
+2022-02-23,Saravanampatti,0.05,23.6
+2022-02-23,Race Course,0.05,10.5
+2022-02-23,Ukkadam,0.29,14.8
+2022-02-23,Town Hall,0.05,21.7
+2022-02-23,Kuniyamuthur,0.16,19.4
+2022-02-23,Sundarapuram,0.05,21.8
+2022-02-23,Podanur,0.38,13.2
+2022-02-23,Thudiyalur,0.3,18.5
+2022-02-23,Vadakovai,0.05,24.4
+2022-02-23,Ganapathy,0.05,25.8
+2022-02-23,Kalapatti,0.05,15.6
+2022-02-23,Kovaipudur,0.1,23.2
+2022-02-23,Selvapuram,0.16,19.8
+2022-02-23,Kurichi,0.05,29.9
+2022-02-23,Vadavalli,0.05,19.3
+2022-03-02,Gandhipuram,0.3,17.8
+2022-03-02,RS Puram,0.59,13.9
+2022-03-02,Saibaba Colony,0.05,13.3
+2022-03-02,Peelamedu,0.15,13.0
+2022-03-02,Singanallur,0.05,16.6
+2022-03-02,Saravanampatti,0.11,9.8
+2022-03-02,Race Course,0.18,13.2
+2022-03-02,Ukkadam,0.1,14.3
+2022-03-02,Town Hall,0.07,21.5
+2022-03-02,Kuniyamuthur,0.09,17.5
+2022-03-02,Sundarapuram,0.05,24.6
+2022-03-02,Podanur,0.39,18.8
+2022-03-02,Thudiyalur,0.47,19.2
+2022-03-02,Vadakovai,0.05,16.3
+2022-03-02,Ganapathy,0.05,17.1
+2022-03-02,Kalapatti,0.31,10.8
+2022-03-02,Kovaipudur,0.09,16.5
+2022-03-02,Selvapuram,0.2,22.0
+2022-03-02,Kurichi,0.05,21.7
+2022-03-02,Vadavalli,0.05,12.2
+2022-03-09,Gandhipuram,0.29,20.8
+2022-03-09,RS Puram,0.25,26.6
+2022-03-09,Saibaba Colony,0.1,16.9
+2022-03-09,Peelamedu,0.05,18.5
+2022-03-09,Singanallur,0.05,17.2
+2022-03-09,Saravanampatti,0.05,12.3
+2022-03-09,Race Course,0.05,28.5
+2022-03-09,Ukkadam,0.64,12.2
+2022-03-09,Town Hall,0.17,14.0
+2022-03-09,Kuniyamuthur,0.21,18.2
+2022-03-09,Sundarapuram,0.05,19.9
+2022-03-09,Podanur,0.38,21.5
+2022-03-09,Thudiyalur,0.58,20.4
+2022-03-09,Vadakovai,0.09,15.2
+2022-03-09,Ganapathy,0.05,23.2
+2022-03-09,Kalapatti,0.05,19.1
+2022-03-09,Kovaipudur,0.15,17.3
+2022-03-09,Selvapuram,0.11,14.7
+2022-03-09,Kurichi,0.12,18.7
+2022-03-09,Vadavalli,0.05,18.6
+2022-03-16,Gandhipuram,0.3,12.9
+2022-03-16,RS Puram,0.39,16.0
+2022-03-16,Saibaba Colony,0.09,20.1
+2022-03-16,Peelamedu,0.22,17.0
+2022-03-16,Singanallur,0.05,19.2
+2022-03-16,Saravanampatti,0.05,16.1
+2022-03-16,Race Course,0.05,19.5
+2022-03-16,Ukkadam,0.48,15.0
+2022-03-16,Town Hall,0.22,11.7
+2022-03-16,Kuniyamuthur,0.05,18.1
+2022-03-16,Sundarapuram,0.05,15.2
+2022-03-16,Podanur,0.37,17.4
+2022-03-16,Thudiyalur,0.31,20.1
+2022-03-16,Vadakovai,0.05,18.9
+2022-03-16,Ganapathy,0.18,14.7
+2022-03-16,Kalapatti,0.05,14.2
+2022-03-16,Kovaipudur,0.05,26.4
+2022-03-16,Selvapuram,0.15,13.3
+2022-03-16,Kurichi,0.31,13.5
+2022-03-16,Vadavalli,0.05,15.8
+2022-03-23,Gandhipuram,0.05,19.4
+2022-03-23,RS Puram,0.06,20.5
+2022-03-23,Saibaba Colony,0.25,15.0
+2022-03-23,Peelamedu,0.05,18.5
+2022-03-23,Singanallur,0.06,14.3
+2022-03-23,Saravanampatti,0.05,18.4
+2022-03-23,Race Course,0.05,13.7
+2022-03-23,Ukkadam,0.36,16.4
+2022-03-23,Town Hall,0.05,14.5
+2022-03-23,Kuniyamuthur,0.05,20.9
+2022-03-23,Sundarapuram,0.05,13.4
+2022-03-23,Podanur,0.33,21.5
+2022-03-23,Thudiyalur,0.33,21.6
+2022-03-23,Vadakovai,0.05,28.3
+2022-03-23,Ganapathy,0.05,14.0
+2022-03-23,Kalapatti,0.05,11.0
+2022-03-23,Kovaipudur,0.07,19.2
+2022-03-23,Selvapuram,0.22,12.8
+2022-03-23,Kurichi,0.31,10.9
+2022-03-23,Vadavalli,0.11,14.6
+2022-03-30,Gandhipuram,0.2,16.2
+2022-03-30,RS Puram,0.22,13.5
+2022-03-30,Saibaba Colony,0.16,14.5
+2022-03-30,Peelamedu,0.05,19.6
+2022-03-30,Singanallur,0.05,19.7
+2022-03-30,Saravanampatti,0.05,22.6
+2022-03-30,Race Course,0.05,15.8
+2022-03-30,Ukkadam,0.19,20.3
+2022-03-30,Town Hall,0.05,16.9
+2022-03-30,Kuniyamuthur,0.15,23.9
+2022-03-30,Sundarapuram,0.05,17.8
+2022-03-30,Podanur,0.16,22.8
+2022-03-30,Thudiyalur,0.55,15.9
+2022-03-30,Vadakovai,0.05,24.3
+2022-03-30,Ganapathy,0.05,12.0
+2022-03-30,Kalapatti,0.05,30.0
+2022-03-30,Kovaipudur,0.36,17.2
+2022-03-30,Selvapuram,0.05,15.5
+2022-03-30,Kurichi,0.2,13.8
+2022-03-30,Vadavalli,0.05,20.9
+2022-04-06,Gandhipuram,0.22,15.7
+2022-04-06,RS Puram,0.19,25.1
+2022-04-06,Saibaba Colony,0.05,22.7
+2022-04-06,Peelamedu,0.28,13.5
+2022-04-06,Singanallur,0.05,17.4
+2022-04-06,Saravanampatti,0.05,14.9
+2022-04-06,Race Course,0.05,23.0
+2022-04-06,Ukkadam,0.59,15.5
+2022-04-06,Town Hall,0.41,30.6
+2022-04-06,Kuniyamuthur,0.2,13.8
+2022-04-06,Sundarapuram,0.06,13.4
+2022-04-06,Podanur,0.16,28.2
+2022-04-06,Thudiyalur,0.06,24.3
+2022-04-06,Vadakovai,0.05,15.9
+2022-04-06,Ganapathy,0.07,19.0
+2022-04-06,Kalapatti,0.05,32.5
+2022-04-06,Kovaipudur,0.25,14.7
+2022-04-06,Selvapuram,0.2,14.2
+2022-04-06,Kurichi,0.15,15.9
+2022-04-06,Vadavalli,0.05,16.9
+2022-04-13,Gandhipuram,0.14,22.9
+2022-04-13,RS Puram,0.76,13.4
+2022-04-13,Saibaba Colony,0.36,8.8
+2022-04-13,Peelamedu,0.05,16.4
+2022-04-13,Singanallur,0.21,10.8
+2022-04-13,Saravanampatti,0.05,17.9
+2022-04-13,Race Course,0.05,15.8
+2022-04-13,Ukkadam,0.46,18.9
+2022-04-13,Town Hall,0.05,29.9
+2022-04-13,Kuniyamuthur,0.16,17.0
+2022-04-13,Sundarapuram,0.05,17.1
+2022-04-13,Podanur,0.31,14.4
+2022-04-13,Thudiyalur,0.25,17.9
+2022-04-13,Vadakovai,0.05,14.8
+2022-04-13,Ganapathy,0.05,19.5
+2022-04-13,Kalapatti,0.05,35.0
+2022-04-13,Kovaipudur,0.23,17.0
+2022-04-13,Selvapuram,0.39,11.5
+2022-04-13,Kurichi,0.16,14.0
+2022-04-13,Vadavalli,0.05,18.0
+2022-04-20,Gandhipuram,0.05,21.7
+2022-04-20,RS Puram,0.59,15.2
+2022-04-20,Saibaba Colony,0.43,12.6
+2022-04-20,Peelamedu,0.25,15.2
+2022-04-20,Singanallur,0.05,22.7
+2022-04-20,Saravanampatti,0.13,10.1
+2022-04-20,Race Course,0.05,18.5
+2022-04-20,Ukkadam,0.25,18.6
+2022-04-20,Town Hall,0.05,15.6
+2022-04-20,Kuniyamuthur,0.05,28.0
+2022-04-20,Sundarapuram,0.05,16.1
+2022-04-20,Podanur,0.3,19.5
+2022-04-20,Thudiyalur,0.29,27.4
+2022-04-20,Vadakovai,0.05,20.0
+2022-04-20,Ganapathy,0.05,26.6
+2022-04-20,Kalapatti,0.14,19.2
+2022-04-20,Kovaipudur,0.22,17.8
+2022-04-20,Selvapuram,0.05,17.1
+2022-04-20,Kurichi,0.05,24.4
+2022-04-20,Vadavalli,0.05,13.4
+2022-04-27,Gandhipuram,0.15,11.9
+2022-04-27,RS Puram,0.18,19.2
+2022-04-27,Saibaba Colony,0.05,20.2
+2022-04-27,Peelamedu,0.36,13.5
+2022-04-27,Singanallur,0.05,31.9
+2022-04-27,Saravanampatti,0.05,16.2
+2022-04-27,Race Course,0.05,18.8
+2022-04-27,Ukkadam,0.33,19.3
+2022-04-27,Town Hall,0.22,16.6
+2022-04-27,Kuniyamuthur,0.05,26.3
+2022-04-27,Sundarapuram,0.13,13.6
+2022-04-27,Podanur,0.05,21.3
+2022-04-27,Thudiyalur,0.46,12.9
+2022-04-27,Vadakovai,0.05,21.0
+2022-04-27,Ganapathy,0.05,18.8
+2022-04-27,Kalapatti,0.05,17.6
+2022-04-27,Kovaipudur,0.05,19.5
+2022-04-27,Selvapuram,0.05,18.9
+2022-04-27,Kurichi,0.17,18.4
+2022-04-27,Vadavalli,0.05,24.6
+2022-05-04,Gandhipuram,0.05,12.6
+2022-05-04,RS Puram,0.54,19.1
+2022-05-04,Saibaba Colony,0.23,19.8
+2022-05-04,Peelamedu,0.09,27.4
+2022-05-04,Singanallur,0.05,28.9
+2022-05-04,Saravanampatti,0.05,17.4
+2022-05-04,Race Course,0.05,13.0
+2022-05-04,Ukkadam,0.33,19.0
+2022-05-04,Town Hall,0.05,17.1
+2022-05-04,Kuniyamuthur,0.16,13.3
+2022-05-04,Sundarapuram,0.05,22.2
+2022-05-04,Podanur,0.42,22.2
+2022-05-04,Thudiyalur,0.66,13.2
+2022-05-04,Vadakovai,0.05,21.2
+2022-05-04,Ganapathy,0.05,24.7
+2022-05-04,Kalapatti,0.05,23.1
+2022-05-04,Kovaipudur,0.05,22.3
+2022-05-04,Selvapuram,0.05,22.9
+2022-05-04,Kurichi,0.07,17.8
+2022-05-04,Vadavalli,0.05,21.5
+2022-05-11,Gandhipuram,0.15,16.6
+2022-05-11,RS Puram,0.6,14.5
+2022-05-11,Saibaba Colony,0.29,13.2
+2022-05-11,Peelamedu,0.05,28.1
+2022-05-11,Singanallur,0.05,22.8
+2022-05-11,Saravanampatti,0.1,12.4
+2022-05-11,Race Course,0.05,18.7
+2022-05-11,Ukkadam,0.44,14.6
+2022-05-11,Town Hall,0.44,12.0
+2022-05-11,Kuniyamuthur,0.12,18.9
+2022-05-11,Sundarapuram,0.05,20.2
+2022-05-11,Podanur,0.11,21.4
+2022-05-11,Thudiyalur,0.62,16.3
+2022-05-11,Vadakovai,0.05,20.0
+2022-05-11,Ganapathy,0.05,11.2
+2022-05-11,Kalapatti,0.2,16.3
+2022-05-11,Kovaipudur,0.18,16.9
+2022-05-11,Selvapuram,0.09,24.2
+2022-05-11,Kurichi,0.06,13.0
+2022-05-11,Vadavalli,0.05,28.1
+2022-05-18,Gandhipuram,0.26,9.6
+2022-05-18,RS Puram,0.23,19.2
+2022-05-18,Saibaba Colony,0.24,15.2
+2022-05-18,Peelamedu,0.37,11.5
+2022-05-18,Singanallur,0.05,19.4
+2022-05-18,Saravanampatti,0.05,19.1
+2022-05-18,Race Course,0.05,10.7
+2022-05-18,Ukkadam,0.36,15.0
+2022-05-18,Town Hall,0.05,24.1
+2022-05-18,Kuniyamuthur,0.07,16.9
+2022-05-18,Sundarapuram,0.05,14.8
+2022-05-18,Podanur,0.48,10.6
+2022-05-18,Thudiyalur,0.32,10.0
+2022-05-18,Vadakovai,0.05,16.4
+2022-05-18,Ganapathy,0.05,17.4
+2022-05-18,Kalapatti,0.05,23.5
+2022-05-18,Kovaipudur,0.24,15.7
+2022-05-18,Selvapuram,0.12,14.6
+2022-05-18,Kurichi,0.05,12.2
+2022-05-18,Vadavalli,0.05,36.9
+2022-05-25,Gandhipuram,0.2,11.5
+2022-05-25,RS Puram,0.34,11.2
+2022-05-25,Saibaba Colony,0.05,20.9
+2022-05-25,Peelamedu,0.05,26.1
+2022-05-25,Singanallur,0.13,13.8
+2022-05-25,Saravanampatti,0.05,28.0
+2022-05-25,Race Course,0.05,20.6
+2022-05-25,Ukkadam,0.09,19.0
+2022-05-25,Town Hall,0.26,16.6
+2022-05-25,Kuniyamuthur,0.05,15.9
+2022-05-25,Sundarapuram,0.05,20.0
+2022-05-25,Podanur,0.36,13.1
+2022-05-25,Thudiyalur,0.51,15.5
+2022-05-25,Vadakovai,0.11,18.0
+2022-05-25,Ganapathy,0.05,27.8
+2022-05-25,Kalapatti,0.12,11.2
+2022-05-25,Kovaipudur,0.05,28.0
+2022-05-25,Selvapuram,0.05,19.4
+2022-05-25,Kurichi,0.24,9.6
+2022-05-25,Vadavalli,0.1,10.0
+2022-06-01,Gandhipuram,0.05,34.4
+2022-06-01,RS Puram,0.26,30.7
+2022-06-01,Saibaba Colony,0.05,65.4
+2022-06-01,Peelamedu,0.05,44.1
+2022-06-01,Singanallur,0.05,42.7
+2022-06-01,Saravanampatti,0.05,69.1
+2022-06-01,Race Course,0.05,40.4
+2022-06-01,Ukkadam,0.05,35.0
+2022-06-01,Town Hall,0.05,47.3
+2022-06-01,Kuniyamuthur,0.05,45.6
+2022-06-01,Sundarapuram,0.05,18.1
+2022-06-01,Podanur,0.05,52.8
+2022-06-01,Thudiyalur,0.05,63.9
+2022-06-01,Vadakovai,0.05,28.9
+2022-06-01,Ganapathy,0.05,35.4
+2022-06-01,Kalapatti,0.05,72.3
+2022-06-01,Kovaipudur,0.05,63.4
+2022-06-01,Selvapuram,0.05,42.1
+2022-06-01,Kurichi,0.05,55.4
+2022-06-01,Vadavalli,0.05,26.2
+2022-06-08,Gandhipuram,0.05,148.2
+2022-06-08,RS Puram,0.05,202.9
+2022-06-08,Saibaba Colony,0.05,206.5
+2022-06-08,Peelamedu,0.05,178.1
+2022-06-08,Singanallur,0.05,174.1
+2022-06-08,Saravanampatti,0.05,115.9
+2022-06-08,Race Course,0.05,147.2
+2022-06-08,Ukkadam,0.05,136.6
+2022-06-08,Town Hall,0.05,193.6
+2022-06-08,Kuniyamuthur,0.05,166.4
+2022-06-08,Sundarapuram,0.05,158.7
+2022-06-08,Podanur,0.05,142.5
+2022-06-08,Thudiyalur,0.05,239.5
+2022-06-08,Vadakovai,0.05,141.0
+2022-06-08,Ganapathy,0.05,217.9
+2022-06-08,Kalapatti,0.05,174.1
+2022-06-08,Kovaipudur,0.05,177.5
+2022-06-08,Selvapuram,0.05,185.8
+2022-06-08,Kurichi,0.05,168.0
+2022-06-08,Vadavalli,0.05,182.6
+2022-06-15,Gandhipuram,0.05,189.4
+2022-06-15,RS Puram,0.05,192.9
+2022-06-15,Saibaba Colony,0.05,110.0
+2022-06-15,Peelamedu,0.05,185.2
+2022-06-15,Singanallur,0.05,147.9
+2022-06-15,Saravanampatti,0.05,168.2
+2022-06-15,Race Course,0.05,209.4
+2022-06-15,Ukkadam,0.05,165.8
+2022-06-15,Town Hall,0.05,214.1
+2022-06-15,Kuniyamuthur,0.05,133.7
+2022-06-15,Sundarapuram,0.05,201.9
+2022-06-15,Podanur,0.05,199.3
+2022-06-15,Thudiyalur,0.05,239.0
+2022-06-15,Vadakovai,0.05,212.4
+2022-06-15,Ganapathy,0.05,184.1
+2022-06-15,Kalapatti,0.05,226.4
+2022-06-15,Kovaipudur,0.05,191.2
+2022-06-15,Selvapuram,0.05,183.0
+2022-06-15,Kurichi,0.05,170.5
+2022-06-15,Vadavalli,0.05,149.8
+2022-06-22,Gandhipuram,0.05,153.0
+2022-06-22,RS Puram,0.05,212.9
+2022-06-22,Saibaba Colony,0.05,168.3
+2022-06-22,Peelamedu,0.05,178.9
+2022-06-22,Singanallur,0.05,139.5
+2022-06-22,Saravanampatti,0.05,108.8
+2022-06-22,Race Course,0.05,154.1
+2022-06-22,Ukkadam,0.05,173.0
+2022-06-22,Town Hall,0.05,164.1
+2022-06-22,Kuniyamuthur,0.05,131.0
+2022-06-22,Sundarapuram,0.05,154.7
+2022-06-22,Podanur,0.05,170.8
+2022-06-22,Thudiyalur,0.05,142.7
+2022-06-22,Vadakovai,0.05,172.7
+2022-06-22,Ganapathy,0.05,187.0
+2022-06-22,Kalapatti,0.05,187.2
+2022-06-22,Kovaipudur,0.05,203.2
+2022-06-22,Selvapuram,0.05,184.2
+2022-06-22,Kurichi,0.05,184.1
+2022-06-22,Vadavalli,0.05,158.1
+2022-06-29,Gandhipuram,0.05,154.6
+2022-06-29,RS Puram,0.05,165.2
+2022-06-29,Saibaba Colony,0.05,193.9
+2022-06-29,Peelamedu,0.05,202.5
+2022-06-29,Singanallur,0.05,207.2
+2022-06-29,Saravanampatti,0.05,201.0
+2022-06-29,Race Course,0.05,118.0
+2022-06-29,Ukkadam,0.05,249.5
+2022-06-29,Town Hall,0.05,123.4
+2022-06-29,Kuniyamuthur,0.05,115.4
+2022-06-29,Sundarapuram,0.05,143.2
+2022-06-29,Podanur,0.05,130.5
+2022-06-29,Thudiyalur,0.05,168.7
+2022-06-29,Vadakovai,0.05,147.1
+2022-06-29,Ganapathy,0.05,162.9
+2022-06-29,Kalapatti,0.05,126.7
+2022-06-29,Kovaipudur,0.05,102.2
+2022-06-29,Selvapuram,0.05,154.8
+2022-06-29,Kurichi,0.05,122.2
+2022-06-29,Vadavalli,0.05,168.1
+2022-07-06,Gandhipuram,0.05,153.7
+2022-07-06,RS Puram,0.05,158.2
+2022-07-06,Saibaba Colony,0.05,157.6
+2022-07-06,Peelamedu,0.05,233.4
+2022-07-06,Singanallur,0.05,208.3
+2022-07-06,Saravanampatti,0.05,214.7
+2022-07-06,Race Course,0.05,181.5
+2022-07-06,Ukkadam,0.05,172.1
+2022-07-06,Town Hall,0.05,141.5
+2022-07-06,Kuniyamuthur,0.05,205.1
+2022-07-06,Sundarapuram,0.05,127.2
+2022-07-06,Podanur,0.05,190.4
+2022-07-06,Thudiyalur,0.05,235.4
+2022-07-06,Vadakovai,0.05,137.8
+2022-07-06,Ganapathy,0.05,175.0
+2022-07-06,Kalapatti,0.05,168.5
+2022-07-06,Kovaipudur,0.05,201.7
+2022-07-06,Selvapuram,0.05,158.5
+2022-07-06,Kurichi,0.05,183.4
+2022-07-06,Vadavalli,0.05,151.1
+2022-07-13,Gandhipuram,0.05,245.2
+2022-07-13,RS Puram,0.05,193.8
+2022-07-13,Saibaba Colony,0.05,153.1
+2022-07-13,Peelamedu,0.05,114.3
+2022-07-13,Singanallur,0.05,144.2
+2022-07-13,Saravanampatti,0.05,216.1
+2022-07-13,Race Course,0.05,162.8
+2022-07-13,Ukkadam,0.05,157.6
+2022-07-13,Town Hall,0.05,188.4
+2022-07-13,Kuniyamuthur,0.05,166.7
+2022-07-13,Sundarapuram,0.05,208.1
+2022-07-13,Podanur,0.05,236.0
+2022-07-13,Thudiyalur,0.05,209.4
+2022-07-13,Vadakovai,0.05,229.6
+2022-07-13,Ganapathy,0.05,141.0
+2022-07-13,Kalapatti,0.05,204.7
+2022-07-13,Kovaipudur,0.05,143.8
+2022-07-13,Selvapuram,0.05,223.6
+2022-07-13,Kurichi,0.05,174.3
+2022-07-13,Vadavalli,0.05,108.3
+2022-07-20,Gandhipuram,0.05,176.9
+2022-07-20,RS Puram,0.05,137.6
+2022-07-20,Saibaba Colony,0.05,184.6
+2022-07-20,Peelamedu,0.05,163.1
+2022-07-20,Singanallur,0.05,150.4
+2022-07-20,Saravanampatti,0.05,167.6
+2022-07-20,Race Course,0.05,137.9
+2022-07-20,Ukkadam,0.05,127.5
+2022-07-20,Town Hall,0.05,203.5
+2022-07-20,Kuniyamuthur,0.05,227.3
+2022-07-20,Sundarapuram,0.05,177.5
+2022-07-20,Podanur,0.05,202.1
+2022-07-20,Thudiyalur,0.05,168.9
+2022-07-20,Vadakovai,0.05,201.3
+2022-07-20,Ganapathy,0.05,159.8
+2022-07-20,Kalapatti,0.05,202.1
+2022-07-20,Kovaipudur,0.05,154.4
+2022-07-20,Selvapuram,0.05,176.8
+2022-07-20,Kurichi,0.05,182.5
+2022-07-20,Vadavalli,0.05,101.7
+2022-07-27,Gandhipuram,0.05,186.0
+2022-07-27,RS Puram,0.05,189.9
+2022-07-27,Saibaba Colony,0.05,214.9
+2022-07-27,Peelamedu,0.05,166.5
+2022-07-27,Singanallur,0.05,201.9
+2022-07-27,Saravanampatti,0.05,178.9
+2022-07-27,Race Course,0.05,132.2
+2022-07-27,Ukkadam,0.05,163.1
+2022-07-27,Town Hall,0.05,132.5
+2022-07-27,Kuniyamuthur,0.05,290.0
+2022-07-27,Sundarapuram,0.05,126.9
+2022-07-27,Podanur,0.05,231.1
+2022-07-27,Thudiyalur,0.05,274.7
+2022-07-27,Vadakovai,0.05,152.7
+2022-07-27,Ganapathy,0.05,148.5
+2022-07-27,Kalapatti,0.05,260.6
+2022-07-27,Kovaipudur,0.05,164.5
+2022-07-27,Selvapuram,0.05,147.3
+2022-07-27,Kurichi,0.05,163.8
+2022-07-27,Vadavalli,0.05,182.1
+2022-08-03,Gandhipuram,0.05,147.5
+2022-08-03,RS Puram,0.05,135.8
+2022-08-03,Saibaba Colony,0.05,228.1
+2022-08-03,Peelamedu,0.05,148.1
+2022-08-03,Singanallur,0.05,187.8
+2022-08-03,Saravanampatti,0.05,173.5
+2022-08-03,Race Course,0.05,148.9
+2022-08-03,Ukkadam,0.05,117.9
+2022-08-03,Town Hall,0.05,166.6
+2022-08-03,Kuniyamuthur,0.05,147.4
+2022-08-03,Sundarapuram,0.05,139.8
+2022-08-03,Podanur,0.05,238.3
+2022-08-03,Thudiyalur,0.05,164.0
+2022-08-03,Vadakovai,0.05,166.9
+2022-08-03,Ganapathy,0.05,164.3
+2022-08-03,Kalapatti,0.05,174.6
+2022-08-03,Kovaipudur,0.05,191.3
+2022-08-03,Selvapuram,0.05,143.6
+2022-08-03,Kurichi,0.05,183.3
+2022-08-03,Vadavalli,0.05,152.4
+2022-08-10,Gandhipuram,0.05,110.5
+2022-08-10,RS Puram,0.05,181.1
+2022-08-10,Saibaba Colony,0.05,154.3
+2022-08-10,Peelamedu,0.05,141.4
+2022-08-10,Singanallur,0.05,170.2
+2022-08-10,Saravanampatti,0.05,222.0
+2022-08-10,Race Course,0.05,170.9
+2022-08-10,Ukkadam,0.05,175.3
+2022-08-10,Town Hall,0.05,152.9
+2022-08-10,Kuniyamuthur,0.05,165.3
+2022-08-10,Sundarapuram,0.05,195.6
+2022-08-10,Podanur,0.05,152.2
+2022-08-10,Thudiyalur,0.05,136.9
+2022-08-10,Vadakovai,0.05,177.6
+2022-08-10,Ganapathy,0.05,169.4
+2022-08-10,Kalapatti,0.05,144.6
+2022-08-10,Kovaipudur,0.05,154.9
+2022-08-10,Selvapuram,0.05,157.2
+2022-08-10,Kurichi,0.05,128.5
+2022-08-10,Vadavalli,0.05,247.5
+2022-08-17,Gandhipuram,0.05,215.2
+2022-08-17,RS Puram,0.05,211.3
+2022-08-17,Saibaba Colony,0.05,234.4
+2022-08-17,Peelamedu,0.05,125.8
+2022-08-17,Singanallur,0.05,187.0
+2022-08-17,Saravanampatti,0.05,142.9
+2022-08-17,Race Course,0.05,157.1
+2022-08-17,Ukkadam,0.05,178.1
+2022-08-17,Town Hall,0.05,161.6
+2022-08-17,Kuniyamuthur,0.05,212.7
+2022-08-17,Sundarapuram,0.05,221.3
+2022-08-17,Podanur,0.05,116.0
+2022-08-17,Thudiyalur,0.05,159.9
+2022-08-17,Vadakovai,0.05,189.7
+2022-08-17,Ganapathy,0.05,146.8
+2022-08-17,Kalapatti,0.05,168.0
+2022-08-17,Kovaipudur,0.05,118.2
+2022-08-17,Selvapuram,0.05,151.2
+2022-08-17,Kurichi,0.05,205.8
+2022-08-17,Vadavalli,0.05,190.2
+2022-08-24,Gandhipuram,0.05,149.6
+2022-08-24,RS Puram,0.05,136.2
+2022-08-24,Saibaba Colony,0.05,162.3
+2022-08-24,Peelamedu,0.05,188.8
+2022-08-24,Singanallur,0.05,174.6
+2022-08-24,Saravanampatti,0.05,146.0
+2022-08-24,Race Course,0.05,153.5
+2022-08-24,Ukkadam,0.05,221.7
+2022-08-24,Town Hall,0.05,147.0
+2022-08-24,Kuniyamuthur,0.05,227.1
+2022-08-24,Sundarapuram,0.05,149.0
+2022-08-24,Podanur,0.05,172.3
+2022-08-24,Thudiyalur,0.05,208.3
+2022-08-24,Vadakovai,0.05,147.6
+2022-08-24,Ganapathy,0.05,150.7
+2022-08-24,Kalapatti,0.05,209.1
+2022-08-24,Kovaipudur,0.05,100.6
+2022-08-24,Selvapuram,0.05,152.4
+2022-08-24,Kurichi,0.05,161.1
+2022-08-24,Vadavalli,0.05,140.1
+2022-08-31,Gandhipuram,0.05,161.1
+2022-08-31,RS Puram,0.05,156.6
+2022-08-31,Saibaba Colony,0.05,136.0
+2022-08-31,Peelamedu,0.05,258.3
+2022-08-31,Singanallur,0.05,188.4
+2022-08-31,Saravanampatti,0.05,169.9
+2022-08-31,Race Course,0.05,197.4
+2022-08-31,Ukkadam,0.05,194.1
+2022-08-31,Town Hall,0.05,142.9
+2022-08-31,Kuniyamuthur,0.05,173.7
+2022-08-31,Sundarapuram,0.05,133.9
+2022-08-31,Podanur,0.05,207.5
+2022-08-31,Thudiyalur,0.05,185.7
+2022-08-31,Vadakovai,0.05,165.5
+2022-08-31,Ganapathy,0.05,176.3
+2022-08-31,Kalapatti,0.05,190.3
+2022-08-31,Kovaipudur,0.05,119.1
+2022-08-31,Selvapuram,0.05,140.1
+2022-08-31,Kurichi,0.05,222.0
+2022-08-31,Vadavalli,0.05,161.4
+2022-09-07,Gandhipuram,0.05,153.6
+2022-09-07,RS Puram,0.05,220.7
+2022-09-07,Saibaba Colony,0.05,159.5
+2022-09-07,Peelamedu,0.05,171.8
+2022-09-07,Singanallur,0.05,150.9
+2022-09-07,Saravanampatti,0.05,243.5
+2022-09-07,Race Course,0.05,167.5
+2022-09-07,Ukkadam,0.05,200.6
+2022-09-07,Town Hall,0.05,151.1
+2022-09-07,Kuniyamuthur,0.05,165.3
+2022-09-07,Sundarapuram,0.05,156.0
+2022-09-07,Podanur,0.05,139.8
+2022-09-07,Thudiyalur,0.05,191.0
+2022-09-07,Vadakovai,0.05,139.8
+2022-09-07,Ganapathy,0.05,121.9
+2022-09-07,Kalapatti,0.05,220.4
+2022-09-07,Kovaipudur,0.05,211.7
+2022-09-07,Selvapuram,0.05,205.2
+2022-09-07,Kurichi,0.05,169.6
+2022-09-07,Vadavalli,0.05,170.1
+2022-09-14,Gandhipuram,0.05,166.0
+2022-09-14,RS Puram,0.05,140.9
+2022-09-14,Saibaba Colony,0.05,154.3
+2022-09-14,Peelamedu,0.05,169.0
+2022-09-14,Singanallur,0.05,137.3
+2022-09-14,Saravanampatti,0.05,197.2
+2022-09-14,Race Course,0.05,199.7
+2022-09-14,Ukkadam,0.05,150.9
+2022-09-14,Town Hall,0.05,156.5
+2022-09-14,Kuniyamuthur,0.05,129.4
+2022-09-14,Sundarapuram,0.05,149.5
+2022-09-14,Podanur,0.05,209.1
+2022-09-14,Thudiyalur,0.05,135.0
+2022-09-14,Vadakovai,0.05,187.0
+2022-09-14,Ganapathy,0.05,165.2
+2022-09-14,Kalapatti,0.05,177.6
+2022-09-14,Kovaipudur,0.05,171.3
+2022-09-14,Selvapuram,0.05,124.0
+2022-09-14,Kurichi,0.05,196.2
+2022-09-14,Vadavalli,0.05,160.0
+2022-09-21,Gandhipuram,0.05,224.6
+2022-09-21,RS Puram,0.05,185.0
+2022-09-21,Saibaba Colony,0.05,153.0
+2022-09-21,Peelamedu,0.05,143.2
+2022-09-21,Singanallur,0.05,273.9
+2022-09-21,Saravanampatti,0.05,217.9
+2022-09-21,Race Course,0.05,196.9
+2022-09-21,Ukkadam,0.05,188.3
+2022-09-21,Town Hall,0.05,130.9
+2022-09-21,Kuniyamuthur,0.05,125.8
+2022-09-21,Sundarapuram,0.05,134.7
+2022-09-21,Podanur,0.05,203.5
+2022-09-21,Thudiyalur,0.05,156.8
+2022-09-21,Vadakovai,0.05,174.6
+2022-09-21,Ganapathy,0.05,130.8
+2022-09-21,Kalapatti,0.05,192.3
+2022-09-21,Kovaipudur,0.05,188.1
+2022-09-21,Selvapuram,0.05,148.4
+2022-09-21,Kurichi,0.05,187.0
+2022-09-21,Vadavalli,0.05,156.5
+2022-09-28,Gandhipuram,0.05,178.0
+2022-09-28,RS Puram,0.05,213.2
+2022-09-28,Saibaba Colony,0.05,136.1
+2022-09-28,Peelamedu,0.05,178.6
+2022-09-28,Singanallur,0.05,189.4
+2022-09-28,Saravanampatti,0.05,168.1
+2022-09-28,Race Course,0.05,145.8
+2022-09-28,Ukkadam,0.05,305.1
+2022-09-28,Town Hall,0.05,188.9
+2022-09-28,Kuniyamuthur,0.05,152.6
+2022-09-28,Sundarapuram,0.05,134.3
+2022-09-28,Podanur,0.05,247.1
+2022-09-28,Thudiyalur,0.05,167.8
+2022-09-28,Vadakovai,0.05,242.5
+2022-09-28,Ganapathy,0.05,136.6
+2022-09-28,Kalapatti,0.05,395.4
+2022-09-28,Kovaipudur,0.05,147.4
+2022-09-28,Selvapuram,0.05,190.2
+2022-09-28,Kurichi,0.05,177.9
+2022-09-28,Vadavalli,0.05,186.4
+2022-10-05,Gandhipuram,0.05,127.2
+2022-10-05,RS Puram,0.05,101.6
+2022-10-05,Saibaba Colony,0.05,131.4
+2022-10-05,Peelamedu,0.05,113.1
+2022-10-05,Singanallur,0.05,128.3
+2022-10-05,Saravanampatti,0.05,150.7
+2022-10-05,Race Course,0.05,81.5
+2022-10-05,Ukkadam,0.05,114.8
+2022-10-05,Town Hall,0.05,165.2
+2022-10-05,Kuniyamuthur,0.05,55.4
+2022-10-05,Sundarapuram,0.05,141.6
+2022-10-05,Podanur,0.05,105.5
+2022-10-05,Thudiyalur,0.05,135.4
+2022-10-05,Vadakovai,0.05,127.1
+2022-10-05,Ganapathy,0.05,119.2
+2022-10-05,Kalapatti,0.05,123.4
+2022-10-05,Kovaipudur,0.05,69.0
+2022-10-05,Selvapuram,0.05,127.9
+2022-10-05,Kurichi,0.05,84.2
+2022-10-05,Vadavalli,0.05,91.8
+2022-10-12,Gandhipuram,0.05,97.9
+2022-10-12,RS Puram,0.05,76.2
+2022-10-12,Saibaba Colony,0.05,79.1
+2022-10-12,Peelamedu,0.05,90.1
+2022-10-12,Singanallur,0.05,77.3
+2022-10-12,Saravanampatti,0.05,101.6
+2022-10-12,Race Course,0.05,91.0
+2022-10-12,Ukkadam,0.05,70.9
+2022-10-12,Town Hall,0.05,72.0
+2022-10-12,Kuniyamuthur,0.05,95.2
+2022-10-12,Sundarapuram,0.05,77.4
+2022-10-12,Podanur,0.05,100.9
+2022-10-12,Thudiyalur,0.05,123.5
+2022-10-12,Vadakovai,0.05,89.5
+2022-10-12,Ganapathy,0.05,116.7
+2022-10-12,Kalapatti,0.05,82.2
+2022-10-12,Kovaipudur,0.05,68.5
+2022-10-12,Selvapuram,0.05,117.3
+2022-10-12,Kurichi,0.05,93.0
+2022-10-12,Vadavalli,0.05,124.5
+2022-10-19,Gandhipuram,0.05,70.3
+2022-10-19,RS Puram,0.05,82.0
+2022-10-19,Saibaba Colony,0.05,83.8
+2022-10-19,Peelamedu,0.05,101.0
+2022-10-19,Singanallur,0.05,106.1
+2022-10-19,Saravanampatti,0.05,79.2
+2022-10-19,Race Course,0.05,89.7
+2022-10-19,Ukkadam,0.05,92.1
+2022-10-19,Town Hall,0.05,82.2
+2022-10-19,Kuniyamuthur,0.05,98.0
+2022-10-19,Sundarapuram,0.05,52.0
+2022-10-19,Podanur,0.05,64.8
+2022-10-19,Thudiyalur,0.05,72.9
+2022-10-19,Vadakovai,0.05,98.5
+2022-10-19,Ganapathy,0.05,51.1
+2022-10-19,Kalapatti,0.05,64.3
+2022-10-19,Kovaipudur,0.05,95.7
+2022-10-19,Selvapuram,0.05,99.8
+2022-10-19,Kurichi,0.05,74.0
+2022-10-19,Vadavalli,0.05,121.1
+2022-10-26,Gandhipuram,0.05,99.9
+2022-10-26,RS Puram,0.05,54.4
+2022-10-26,Saibaba Colony,0.05,119.0
+2022-10-26,Peelamedu,0.05,86.1
+2022-10-26,Singanallur,0.05,121.9
+2022-10-26,Saravanampatti,0.05,70.9
+2022-10-26,Race Course,0.05,112.2
+2022-10-26,Ukkadam,0.05,73.1
+2022-10-26,Town Hall,0.05,106.3
+2022-10-26,Kuniyamuthur,0.05,103.6
+2022-10-26,Sundarapuram,0.05,59.4
+2022-10-26,Podanur,0.05,84.8
+2022-10-26,Thudiyalur,0.05,71.6
+2022-10-26,Vadakovai,0.05,122.1
+2022-10-26,Ganapathy,0.05,108.5
+2022-10-26,Kalapatti,0.05,96.5
+2022-10-26,Kovaipudur,0.05,90.0
+2022-10-26,Selvapuram,0.05,73.5
+2022-10-26,Kurichi,0.05,69.1
+2022-10-26,Vadavalli,0.05,123.3
+2022-11-02,Gandhipuram,0.05,101.5
+2022-11-02,RS Puram,0.05,83.6
+2022-11-02,Saibaba Colony,0.05,119.4
+2022-11-02,Peelamedu,0.05,93.0
+2022-11-02,Singanallur,0.05,95.0
+2022-11-02,Saravanampatti,0.05,69.5
+2022-11-02,Race Course,0.05,69.7
+2022-11-02,Ukkadam,0.05,101.3
+2022-11-02,Town Hall,0.05,64.7
+2022-11-02,Kuniyamuthur,0.05,55.9
+2022-11-02,Sundarapuram,0.05,75.9
+2022-11-02,Podanur,0.05,64.5
+2022-11-02,Thudiyalur,0.05,69.4
+2022-11-02,Vadakovai,0.05,59.9
+2022-11-02,Ganapathy,0.05,65.4
+2022-11-02,Kalapatti,0.05,94.9
+2022-11-02,Kovaipudur,0.05,57.7
+2022-11-02,Selvapuram,0.05,108.7
+2022-11-02,Kurichi,0.05,69.3
+2022-11-02,Vadavalli,0.05,95.8
+2022-11-09,Gandhipuram,0.05,78.0
+2022-11-09,RS Puram,0.05,61.0
+2022-11-09,Saibaba Colony,0.05,60.4
+2022-11-09,Peelamedu,0.05,73.4
+2022-11-09,Singanallur,0.05,70.4
+2022-11-09,Saravanampatti,0.05,101.7
+2022-11-09,Race Course,0.05,71.0
+2022-11-09,Ukkadam,0.05,111.5
+2022-11-09,Town Hall,0.05,67.4
+2022-11-09,Kuniyamuthur,0.05,120.4
+2022-11-09,Sundarapuram,0.05,95.3
+2022-11-09,Podanur,0.05,61.8
+2022-11-09,Thudiyalur,0.05,86.5
+2022-11-09,Vadakovai,0.05,67.8
+2022-11-09,Ganapathy,0.05,73.6
+2022-11-09,Kalapatti,0.05,64.0
+2022-11-09,Kovaipudur,0.05,89.1
+2022-11-09,Selvapuram,0.05,70.3
+2022-11-09,Kurichi,0.05,76.7
+2022-11-09,Vadavalli,0.05,82.3
+2022-11-16,Gandhipuram,0.05,91.1
+2022-11-16,RS Puram,0.05,109.7
+2022-11-16,Saibaba Colony,0.05,49.4
+2022-11-16,Peelamedu,0.05,105.4
+2022-11-16,Singanallur,0.05,100.8
+2022-11-16,Saravanampatti,0.05,90.0
+2022-11-16,Race Course,0.05,86.0
+2022-11-16,Ukkadam,0.05,115.0
+2022-11-16,Town Hall,0.05,81.0
+2022-11-16,Kuniyamuthur,0.05,69.6
+2022-11-16,Sundarapuram,0.05,95.5
+2022-11-16,Podanur,0.05,74.6
+2022-11-16,Thudiyalur,0.05,79.2
+2022-11-16,Vadakovai,0.05,68.3
+2022-11-16,Ganapathy,0.05,72.5
+2022-11-16,Kalapatti,0.05,62.4
+2022-11-16,Kovaipudur,0.05,59.5
+2022-11-16,Selvapuram,0.05,77.3
+2022-11-16,Kurichi,0.05,83.2
+2022-11-16,Vadavalli,0.05,104.7
+2022-11-23,Gandhipuram,0.05,104.2
+2022-11-23,RS Puram,0.05,58.9
+2022-11-23,Saibaba Colony,0.05,56.1
+2022-11-23,Peelamedu,0.05,84.2
+2022-11-23,Singanallur,0.05,97.8
+2022-11-23,Saravanampatti,0.05,71.7
+2022-11-23,Race Course,0.05,90.2
+2022-11-23,Ukkadam,0.05,100.9
+2022-11-23,Town Hall,0.05,88.7
+2022-11-23,Kuniyamuthur,0.05,84.8
+2022-11-23,Sundarapuram,0.05,72.1
+2022-11-23,Podanur,0.05,42.0
+2022-11-23,Thudiyalur,0.05,79.4
+2022-11-23,Vadakovai,0.05,52.6
+2022-11-23,Ganapathy,0.05,56.9
+2022-11-23,Kalapatti,0.05,75.8
+2022-11-23,Kovaipudur,0.05,89.2
+2022-11-23,Selvapuram,0.05,61.8
+2022-11-23,Kurichi,0.05,87.5
+2022-11-23,Vadavalli,0.05,87.5
+2022-11-30,Gandhipuram,0.05,77.9
+2022-11-30,RS Puram,0.05,64.6
+2022-11-30,Saibaba Colony,0.05,85.9
+2022-11-30,Peelamedu,0.05,63.7
+2022-11-30,Singanallur,0.05,73.8
+2022-11-30,Saravanampatti,0.05,105.4
+2022-11-30,Race Course,0.05,63.3
+2022-11-30,Ukkadam,0.05,62.7
+2022-11-30,Town Hall,0.05,70.6
+2022-11-30,Kuniyamuthur,0.05,94.9
+2022-11-30,Sundarapuram,0.05,49.1
+2022-11-30,Podanur,0.05,76.6
+2022-11-30,Thudiyalur,0.05,84.3
+2022-11-30,Vadakovai,0.05,69.8
+2022-11-30,Ganapathy,0.05,77.1
+2022-11-30,Kalapatti,0.05,101.3
+2022-11-30,Kovaipudur,0.05,122.3
+2022-11-30,Selvapuram,0.05,87.7
+2022-11-30,Kurichi,0.05,70.1
+2022-11-30,Vadavalli,0.05,87.6
+2022-12-07,Gandhipuram,0.08,18.8
+2022-12-07,RS Puram,0.45,17.4
+2022-12-07,Saibaba Colony,0.05,17.6
+2022-12-07,Peelamedu,0.05,23.8
+2022-12-07,Singanallur,0.05,34.6
+2022-12-07,Saravanampatti,0.05,32.5
+2022-12-07,Race Course,0.07,17.8
+2022-12-07,Ukkadam,0.33,22.9
+2022-12-07,Town Hall,0.13,22.2
+2022-12-07,Kuniyamuthur,0.05,33.8
+2022-12-07,Sundarapuram,0.05,16.7
+2022-12-07,Podanur,0.46,24.1
+2022-12-07,Thudiyalur,0.05,29.7
+2022-12-07,Vadakovai,0.05,30.2
+2022-12-07,Ganapathy,0.05,27.1
+2022-12-07,Kalapatti,0.05,34.6
+2022-12-07,Kovaipudur,0.15,23.7
+2022-12-07,Selvapuram,0.05,43.4
+2022-12-07,Kurichi,0.05,27.5
+2022-12-07,Vadavalli,0.05,13.3
+2022-12-14,Gandhipuram,0.09,15.1
+2022-12-14,RS Puram,0.26,15.4
+2022-12-14,Saibaba Colony,0.14,23.0
+2022-12-14,Peelamedu,0.05,13.1
+2022-12-14,Singanallur,0.27,14.7
+2022-12-14,Saravanampatti,0.05,21.8
+2022-12-14,Race Course,0.05,18.9
+2022-12-14,Ukkadam,0.33,24.5
+2022-12-14,Town Hall,0.18,17.2
+2022-12-14,Kuniyamuthur,0.26,14.7
+2022-12-14,Sundarapuram,0.05,14.0
+2022-12-14,Podanur,0.48,22.0
+2022-12-14,Thudiyalur,0.43,13.2
+2022-12-14,Vadakovai,0.09,12.0
+2022-12-14,Ganapathy,0.05,17.7
+2022-12-14,Kalapatti,0.05,12.3
+2022-12-14,Kovaipudur,0.21,8.9
+2022-12-14,Selvapuram,0.15,25.1
+2022-12-14,Kurichi,0.45,16.0
+2022-12-14,Vadavalli,0.06,10.7
+2022-12-21,Gandhipuram,0.31,10.4
+2022-12-21,RS Puram,0.05,29.3
+2022-12-21,Saibaba Colony,0.05,22.6
+2022-12-21,Peelamedu,0.05,19.4
+2022-12-21,Singanallur,0.05,20.4
+2022-12-21,Saravanampatti,0.05,33.6
+2022-12-21,Race Course,0.05,26.9
+2022-12-21,Ukkadam,0.15,22.8
+2022-12-21,Town Hall,0.05,19.9
+2022-12-21,Kuniyamuthur,0.32,10.9
+2022-12-21,Sundarapuram,0.22,10.5
+2022-12-21,Podanur,0.51,13.0
+2022-12-21,Thudiyalur,0.42,12.9
+2022-12-21,Vadakovai,0.05,22.4
+2022-12-21,Ganapathy,0.1,18.2
+2022-12-21,Kalapatti,0.05,13.3
+2022-12-21,Kovaipudur,0.05,20.5
+2022-12-21,Selvapuram,0.05,19.6
+2022-12-21,Kurichi,0.33,15.9
+2022-12-21,Vadavalli,0.05,18.3
+2022-12-28,Gandhipuram,0.06,21.4
+2022-12-28,RS Puram,0.23,26.7
+2022-12-28,Saibaba Colony,0.05,21.9
+2022-12-28,Peelamedu,0.06,18.8
+2022-12-28,Singanallur,0.05,14.2
+2022-12-28,Saravanampatti,0.05,15.7
+2022-12-28,Race Course,0.05,11.0
+2022-12-28,Ukkadam,0.15,26.7
+2022-12-28,Town Hall,0.05,24.3
+2022-12-28,Kuniyamuthur,0.05,22.9
+2022-12-28,Sundarapuram,0.05,17.4
+2022-12-28,Podanur,0.37,13.3
+2022-12-28,Thudiyalur,0.71,7.8
+2022-12-28,Vadakovai,0.05,19.5
+2022-12-28,Ganapathy,0.05,19.1
+2022-12-28,Kalapatti,0.05,23.6
+2022-12-28,Kovaipudur,0.05,21.3
+2022-12-28,Selvapuram,0.33,15.0
+2022-12-28,Kurichi,0.17,21.1
+2022-12-28,Vadavalli,0.05,24.3
+2023-01-04,Gandhipuram,0.08,19.4
+2023-01-04,RS Puram,0.14,16.6
+2023-01-04,Saibaba Colony,0.05,21.9
+2023-01-04,Peelamedu,0.38,10.7
+2023-01-04,Singanallur,0.05,22.0
+2023-01-04,Saravanampatti,0.18,16.3
+2023-01-04,Race Course,0.05,17.8
+2023-01-04,Ukkadam,0.75,12.3
+2023-01-04,Town Hall,0.24,16.5
+2023-01-04,Kuniyamuthur,0.05,24.2
+2023-01-04,Sundarapuram,0.05,21.8
+2023-01-04,Podanur,0.05,30.6
+2023-01-04,Thudiyalur,0.6,16.2
+2023-01-04,Vadakovai,0.05,12.3
+2023-01-04,Ganapathy,0.05,27.1
+2023-01-04,Kalapatti,0.05,23.2
+2023-01-04,Kovaipudur,0.14,13.6
+2023-01-04,Selvapuram,0.05,24.2
+2023-01-04,Kurichi,0.06,16.8
+2023-01-04,Vadavalli,0.05,20.3
+2023-01-11,Gandhipuram,0.05,23.3
+2023-01-11,RS Puram,0.51,13.0
+2023-01-11,Saibaba Colony,0.05,25.9
+2023-01-11,Peelamedu,0.05,16.3
+2023-01-11,Singanallur,0.05,30.0
+2023-01-11,Saravanampatti,0.06,23.3
+2023-01-11,Race Course,0.05,11.0
+2023-01-11,Ukkadam,0.39,17.5
+2023-01-11,Town Hall,0.05,16.4
+2023-01-11,Kuniyamuthur,0.07,15.9
+2023-01-11,Sundarapuram,0.05,22.8
+2023-01-11,Podanur,0.64,13.8
+2023-01-11,Thudiyalur,0.57,14.8
+2023-01-11,Vadakovai,0.05,23.3
+2023-01-11,Ganapathy,0.05,16.4
+2023-01-11,Kalapatti,0.05,14.8
+2023-01-11,Kovaipudur,0.11,20.9
+2023-01-11,Selvapuram,0.05,12.6
+2023-01-11,Kurichi,0.05,18.2
+2023-01-11,Vadavalli,0.05,20.6
+2023-01-18,Gandhipuram,0.05,14.2
+2023-01-18,RS Puram,0.12,31.1
+2023-01-18,Saibaba Colony,0.05,20.7
+2023-01-18,Peelamedu,0.33,14.9
+2023-01-18,Singanallur,0.05,16.8
+2023-01-18,Saravanampatti,0.12,14.0
+2023-01-18,Race Course,0.17,19.5
+2023-01-18,Ukkadam,0.4,16.1
+2023-01-18,Town Hall,0.05,19.6
+2023-01-18,Kuniyamuthur,0.05,24.3
+2023-01-18,Sundarapuram,0.17,15.7
+2023-01-18,Podanur,0.28,15.7
+2023-01-18,Thudiyalur,0.39,5.8
+2023-01-18,Vadakovai,0.1,16.9
+2023-01-18,Ganapathy,0.05,13.8
+2023-01-18,Kalapatti,0.05,12.7
+2023-01-18,Kovaipudur,0.29,19.0
+2023-01-18,Selvapuram,0.05,12.8
+2023-01-18,Kurichi,0.05,18.0
+2023-01-18,Vadavalli,0.05,21.5
+2023-01-25,Gandhipuram,0.32,10.7
+2023-01-25,RS Puram,0.32,21.7
+2023-01-25,Saibaba Colony,0.05,15.5
+2023-01-25,Peelamedu,0.05,25.1
+2023-01-25,Singanallur,0.05,15.9
+2023-01-25,Saravanampatti,0.05,29.5
+2023-01-25,Race Course,0.05,15.8
+2023-01-25,Ukkadam,0.48,17.8
+2023-01-25,Town Hall,0.05,27.9
+2023-01-25,Kuniyamuthur,0.05,21.5
+2023-01-25,Sundarapuram,0.05,22.3
+2023-01-25,Podanur,0.28,22.6
+2023-01-25,Thudiyalur,0.69,10.5
+2023-01-25,Vadakovai,0.05,11.4
+2023-01-25,Ganapathy,0.05,10.6
+2023-01-25,Kalapatti,0.05,16.1
+2023-01-25,Kovaipudur,0.31,13.2
+2023-01-25,Selvapuram,0.05,25.8
+2023-01-25,Kurichi,0.2,19.3
+2023-01-25,Vadavalli,0.12,10.0
+2023-02-01,Gandhipuram,0.05,18.0
+2023-02-01,RS Puram,0.38,24.9
+2023-02-01,Saibaba Colony,0.13,23.3
+2023-02-01,Peelamedu,0.05,17.6
+2023-02-01,Singanallur,0.06,18.8
+2023-02-01,Saravanampatti,0.1,14.7
+2023-02-01,Race Course,0.05,22.9
+2023-02-01,Ukkadam,0.47,22.3
+2023-02-01,Town Hall,0.05,21.3
+2023-02-01,Kuniyamuthur,0.05,11.3
+2023-02-01,Sundarapuram,0.05,20.2
+2023-02-01,Podanur,0.35,17.7
+2023-02-01,Thudiyalur,0.66,7.7
+2023-02-01,Vadakovai,0.05,17.7
+2023-02-01,Ganapathy,0.1,6.8
+2023-02-01,Kalapatti,0.05,11.1
+2023-02-01,Kovaipudur,0.05,27.3
+2023-02-01,Selvapuram,0.05,23.1
+2023-02-01,Kurichi,0.05,21.1
+2023-02-01,Vadavalli,0.05,20.4
+2023-02-08,Gandhipuram,0.05,29.4
+2023-02-08,RS Puram,0.66,12.6
+2023-02-08,Saibaba Colony,0.42,19.4
+2023-02-08,Peelamedu,0.05,20.3
+2023-02-08,Singanallur,0.05,16.8
+2023-02-08,Saravanampatti,0.05,21.7
+2023-02-08,Race Course,0.05,14.0
+2023-02-08,Ukkadam,0.36,13.2
+2023-02-08,Town Hall,0.05,22.5
+2023-02-08,Kuniyamuthur,0.18,14.9
+2023-02-08,Sundarapuram,0.05,12.8
+2023-02-08,Podanur,0.39,15.0
+2023-02-08,Thudiyalur,0.25,14.6
+2023-02-08,Vadakovai,0.05,18.6
+2023-02-08,Ganapathy,0.05,15.6
+2023-02-08,Kalapatti,0.05,21.0
+2023-02-08,Kovaipudur,0.28,15.0
+2023-02-08,Selvapuram,0.28,20.5
+2023-02-08,Kurichi,0.42,15.6
+2023-02-08,Vadavalli,0.05,26.8
+2023-02-15,Gandhipuram,0.05,26.0
+2023-02-15,RS Puram,0.05,21.9
+2023-02-15,Saibaba Colony,0.05,10.2
+2023-02-15,Peelamedu,0.05,33.1
+2023-02-15,Singanallur,0.05,20.5
+2023-02-15,Saravanampatti,0.05,15.1
+2023-02-15,Race Course,0.05,13.1
+2023-02-15,Ukkadam,0.11,27.5
+2023-02-15,Town Hall,0.05,24.9
+2023-02-15,Kuniyamuthur,0.15,16.0
+2023-02-15,Sundarapuram,0.05,40.3
+2023-02-15,Podanur,0.44,18.6
+2023-02-15,Thudiyalur,0.23,21.9
+2023-02-15,Vadakovai,0.05,17.7
+2023-02-15,Ganapathy,0.2,14.4
+2023-02-15,Kalapatti,0.05,22.0
+2023-02-15,Kovaipudur,0.13,8.8
+2023-02-15,Selvapuram,0.12,20.9
+2023-02-15,Kurichi,0.33,9.2
+2023-02-15,Vadavalli,0.05,12.8
+2023-02-22,Gandhipuram,0.05,15.1
+2023-02-22,RS Puram,0.28,17.3
+2023-02-22,Saibaba Colony,0.05,23.8
+2023-02-22,Peelamedu,0.06,15.1
+2023-02-22,Singanallur,0.05,16.4
+2023-02-22,Saravanampatti,0.05,29.1
+2023-02-22,Race Course,0.05,18.8
+2023-02-22,Ukkadam,0.06,27.0
+2023-02-22,Town Hall,0.08,16.1
+2023-02-22,Kuniyamuthur,0.45,13.2
+2023-02-22,Sundarapuram,0.24,12.3
+2023-02-22,Podanur,0.05,29.9
+2023-02-22,Thudiyalur,0.27,21.9
+2023-02-22,Vadakovai,0.11,12.1
+2023-02-22,Ganapathy,0.05,20.7
+2023-02-22,Kalapatti,0.05,26.8
+2023-02-22,Kovaipudur,0.07,16.9
+2023-02-22,Selvapuram,0.05,24.2
+2023-02-22,Kurichi,0.21,14.2
+2023-02-22,Vadavalli,0.05,14.5
+2023-03-01,Gandhipuram,0.05,16.2
+2023-03-01,RS Puram,0.45,13.8
+2023-03-01,Saibaba Colony,0.05,26.6
+2023-03-01,Peelamedu,0.05,18.4
+2023-03-01,Singanallur,0.13,14.9
+2023-03-01,Saravanampatti,0.06,14.5
+2023-03-01,Race Course,0.05,14.1
+2023-03-01,Ukkadam,0.22,19.2
+2023-03-01,Town Hall,0.22,16.3
+2023-03-01,Kuniyamuthur,0.32,17.6
+2023-03-01,Sundarapuram,0.05,28.9
+2023-03-01,Podanur,0.12,18.0
+2023-03-01,Thudiyalur,0.26,17.2
+2023-03-01,Vadakovai,0.05,19.4
+2023-03-01,Ganapathy,0.05,25.5
+2023-03-01,Kalapatti,0.05,18.9
+2023-03-01,Kovaipudur,0.05,25.1
+2023-03-01,Selvapuram,0.05,19.2
+2023-03-01,Kurichi,0.05,22.3
+2023-03-01,Vadavalli,0.05,20.6
+2023-03-08,Gandhipuram,0.05,19.2
+2023-03-08,RS Puram,0.05,25.1
+2023-03-08,Saibaba Colony,0.05,37.3
+2023-03-08,Peelamedu,0.05,18.4
+2023-03-08,Singanallur,0.05,15.3
+2023-03-08,Saravanampatti,0.05,14.9
+2023-03-08,Race Course,0.05,17.4
+2023-03-08,Ukkadam,0.57,16.1
+2023-03-08,Town Hall,0.09,21.6
+2023-03-08,Kuniyamuthur,0.3,8.7
+2023-03-08,Sundarapuram,0.05,26.3
+2023-03-08,Podanur,0.45,14.4
+2023-03-08,Thudiyalur,0.61,20.0
+2023-03-08,Vadakovai,0.05,19.4
+2023-03-08,Ganapathy,0.05,17.9
+2023-03-08,Kalapatti,0.05,21.5
+2023-03-08,Kovaipudur,0.18,24.4
+2023-03-08,Selvapuram,0.45,12.4
+2023-03-08,Kurichi,0.05,20.6
+2023-03-08,Vadavalli,0.05,21.1
+2023-03-15,Gandhipuram,0.05,22.6
+2023-03-15,RS Puram,0.05,30.0
+2023-03-15,Saibaba Colony,0.05,29.4
+2023-03-15,Peelamedu,0.11,13.8
+2023-03-15,Singanallur,0.11,14.4
+2023-03-15,Saravanampatti,0.05,17.4
+2023-03-15,Race Course,0.08,12.3
+2023-03-15,Ukkadam,0.52,10.0
+2023-03-15,Town Hall,0.1,23.0
+2023-03-15,Kuniyamuthur,0.09,15.3
+2023-03-15,Sundarapuram,0.05,19.9
+2023-03-15,Podanur,0.67,19.4
+2023-03-15,Thudiyalur,0.24,25.0
+2023-03-15,Vadakovai,0.14,11.4
+2023-03-15,Ganapathy,0.05,29.4
+2023-03-15,Kalapatti,0.05,17.4
+2023-03-15,Kovaipudur,0.21,16.0
+2023-03-15,Selvapuram,0.05,21.7
+2023-03-15,Kurichi,0.05,28.0
+2023-03-15,Vadavalli,0.05,16.8
+2023-03-22,Gandhipuram,0.34,10.5
+2023-03-22,RS Puram,0.13,20.7
+2023-03-22,Saibaba Colony,0.05,14.9
+2023-03-22,Peelamedu,0.05,18.8
+2023-03-22,Singanallur,0.05,20.6
+2023-03-22,Saravanampatti,0.05,18.9
+2023-03-22,Race Course,0.05,14.8
+2023-03-22,Ukkadam,0.56,9.1
+2023-03-22,Town Hall,0.05,29.6
+2023-03-22,Kuniyamuthur,0.05,18.3
+2023-03-22,Sundarapuram,0.05,16.0
+2023-03-22,Podanur,0.3,17.5
+2023-03-22,Thudiyalur,0.31,27.2
+2023-03-22,Vadakovai,0.05,17.2
+2023-03-22,Ganapathy,0.05,27.4
+2023-03-22,Kalapatti,0.05,15.1
+2023-03-22,Kovaipudur,0.12,15.6
+2023-03-22,Selvapuram,0.12,19.1
+2023-03-22,Kurichi,0.05,22.5
+2023-03-22,Vadavalli,0.05,15.3
+2023-03-29,Gandhipuram,0.28,8.5
+2023-03-29,RS Puram,0.26,21.7
+2023-03-29,Saibaba Colony,0.17,21.5
+2023-03-29,Peelamedu,0.27,18.4
+2023-03-29,Singanallur,0.05,15.8
+2023-03-29,Saravanampatti,0.14,11.9
+2023-03-29,Race Course,0.05,14.8
+2023-03-29,Ukkadam,0.39,14.9
+2023-03-29,Town Hall,0.23,14.6
+2023-03-29,Kuniyamuthur,0.37,10.2
+2023-03-29,Sundarapuram,0.05,16.0
+2023-03-29,Podanur,0.05,25.8
+2023-03-29,Thudiyalur,0.54,12.4
+2023-03-29,Vadakovai,0.2,7.3
+2023-03-29,Ganapathy,0.1,11.0
+2023-03-29,Kalapatti,0.05,22.9
+2023-03-29,Kovaipudur,0.28,10.2
+2023-03-29,Selvapuram,0.05,17.7
+2023-03-29,Kurichi,0.25,18.3
+2023-03-29,Vadavalli,0.05,18.6
+2023-04-05,Gandhipuram,0.46,12.0
+2023-04-05,RS Puram,0.33,22.4
+2023-04-05,Saibaba Colony,0.12,15.5
+2023-04-05,Peelamedu,0.05,17.2
+2023-04-05,Singanallur,0.05,21.3
+2023-04-05,Saravanampatti,0.05,17.1
+2023-04-05,Race Course,0.05,14.6
+2023-04-05,Ukkadam,0.6,9.4
+2023-04-05,Town Hall,0.05,18.3
+2023-04-05,Kuniyamuthur,0.05,16.0
+2023-04-05,Sundarapuram,0.05,16.7
+2023-04-05,Podanur,0.25,21.9
+2023-04-05,Thudiyalur,0.67,12.8
+2023-04-05,Vadakovai,0.05,12.3
+2023-04-05,Ganapathy,0.05,22.3
+2023-04-05,Kalapatti,0.05,19.4
+2023-04-05,Kovaipudur,0.23,16.5
+2023-04-05,Selvapuram,0.05,24.2
+2023-04-05,Kurichi,0.05,25.3
+2023-04-05,Vadavalli,0.1,8.9
+2023-04-12,Gandhipuram,0.05,12.2
+2023-04-12,RS Puram,0.45,16.7
+2023-04-12,Saibaba Colony,0.49,10.7
+2023-04-12,Peelamedu,0.06,15.8
+2023-04-12,Singanallur,0.05,15.5
+2023-04-12,Saravanampatti,0.05,17.5
+2023-04-12,Race Course,0.05,21.9
+2023-04-12,Ukkadam,0.46,20.9
+2023-04-12,Town Hall,0.05,19.0
+2023-04-12,Kuniyamuthur,0.05,23.9
+2023-04-12,Sundarapuram,0.07,14.8
+2023-04-12,Podanur,0.2,17.1
+2023-04-12,Thudiyalur,0.66,12.3
+2023-04-12,Vadakovai,0.05,16.4
+2023-04-12,Ganapathy,0.05,21.4
+2023-04-12,Kalapatti,0.05,23.3
+2023-04-12,Kovaipudur,0.09,19.4
+2023-04-12,Selvapuram,0.06,21.0
+2023-04-12,Kurichi,0.15,15.9
+2023-04-12,Vadavalli,0.1,15.2
+2023-04-19,Gandhipuram,0.05,18.1
+2023-04-19,RS Puram,0.37,14.9
+2023-04-19,Saibaba Colony,0.05,28.2
+2023-04-19,Peelamedu,0.52,9.5
+2023-04-19,Singanallur,0.05,16.6
+2023-04-19,Saravanampatti,0.05,22.2
+2023-04-19,Race Course,0.05,12.3
+2023-04-19,Ukkadam,0.06,29.0
+2023-04-19,Town Hall,0.26,18.5
+2023-04-19,Kuniyamuthur,0.05,18.2
+2023-04-19,Sundarapuram,0.05,20.6
+2023-04-19,Podanur,0.3,18.0
+2023-04-19,Thudiyalur,0.3,10.3
+2023-04-19,Vadakovai,0.05,23.6
+2023-04-19,Ganapathy,0.09,13.1
+2023-04-19,Kalapatti,0.05,33.4
+2023-04-19,Kovaipudur,0.05,24.9
+2023-04-19,Selvapuram,0.11,26.5
+2023-04-19,Kurichi,0.05,21.4
+2023-04-19,Vadavalli,0.05,22.7
+2023-04-26,Gandhipuram,0.12,14.5
+2023-04-26,RS Puram,0.19,24.4
+2023-04-26,Saibaba Colony,0.06,16.4
+2023-04-26,Peelamedu,0.07,11.8
+2023-04-26,Singanallur,0.11,13.1
+2023-04-26,Saravanampatti,0.05,23.6
+2023-04-26,Race Course,0.06,13.6
+2023-04-26,Ukkadam,0.62,12.3
+2023-04-26,Town Hall,0.11,16.5
+2023-04-26,Kuniyamuthur,0.05,11.6
+2023-04-26,Sundarapuram,0.05,21.3
+2023-04-26,Podanur,0.61,11.8
+2023-04-26,Thudiyalur,0.1,16.5
+2023-04-26,Vadakovai,0.05,10.5
+2023-04-26,Ganapathy,0.05,27.9
+2023-04-26,Kalapatti,0.05,21.8
+2023-04-26,Kovaipudur,0.14,25.0
+2023-04-26,Selvapuram,0.18,20.7
+2023-04-26,Kurichi,0.12,11.7
+2023-04-26,Vadavalli,0.05,14.9
+2023-05-03,Gandhipuram,0.25,11.8
+2023-05-03,RS Puram,0.34,9.9
+2023-05-03,Saibaba Colony,0.22,18.6
+2023-05-03,Peelamedu,0.05,26.5
+2023-05-03,Singanallur,0.1,16.2
+2023-05-03,Saravanampatti,0.23,11.5
+2023-05-03,Race Course,0.2,12.0
+2023-05-03,Ukkadam,0.45,19.1
+2023-05-03,Town Hall,0.08,19.9
+2023-05-03,Kuniyamuthur,0.05,13.4
+2023-05-03,Sundarapuram,0.05,7.6
+2023-05-03,Podanur,0.05,25.6
+2023-05-03,Thudiyalur,0.47,22.6
+2023-05-03,Vadakovai,0.05,21.0
+2023-05-03,Ganapathy,0.05,25.7
+2023-05-03,Kalapatti,0.05,14.6
+2023-05-03,Kovaipudur,0.05,26.5
+2023-05-03,Selvapuram,0.05,16.4
+2023-05-03,Kurichi,0.17,16.4
+2023-05-03,Vadavalli,0.05,17.6
+2023-05-10,Gandhipuram,0.11,23.3
+2023-05-10,RS Puram,0.23,23.1
+2023-05-10,Saibaba Colony,0.28,18.5
+2023-05-10,Peelamedu,0.05,16.5
+2023-05-10,Singanallur,0.05,20.4
+2023-05-10,Saravanampatti,0.05,17.8
+2023-05-10,Race Course,0.24,9.9
+2023-05-10,Ukkadam,0.3,23.1
+2023-05-10,Town Hall,0.07,13.7
+2023-05-10,Kuniyamuthur,0.05,27.3
+2023-05-10,Sundarapuram,0.05,24.8
+2023-05-10,Podanur,0.63,14.9
+2023-05-10,Thudiyalur,0.44,17.0
+2023-05-10,Vadakovai,0.22,12.4
+2023-05-10,Ganapathy,0.05,19.8
+2023-05-10,Kalapatti,0.05,12.8
+2023-05-10,Kovaipudur,0.05,25.1
+2023-05-10,Selvapuram,0.05,19.7
+2023-05-10,Kurichi,0.2,9.2
+2023-05-10,Vadavalli,0.11,10.8
+2023-05-17,Gandhipuram,0.05,20.1
+2023-05-17,RS Puram,0.05,26.0
+2023-05-17,Saibaba Colony,0.25,11.0
+2023-05-17,Peelamedu,0.05,14.3
+2023-05-17,Singanallur,0.05,22.0
+2023-05-17,Saravanampatti,0.05,27.0
+2023-05-17,Race Course,0.05,15.6
+2023-05-17,Ukkadam,0.6,10.7
+2023-05-17,Town Hall,0.05,21.0
+2023-05-17,Kuniyamuthur,0.05,19.3
+2023-05-17,Sundarapuram,0.05,15.9
+2023-05-17,Podanur,0.37,13.8
+2023-05-17,Thudiyalur,0.27,15.4
+2023-05-17,Vadakovai,0.05,17.4
+2023-05-17,Ganapathy,0.05,15.4
+2023-05-17,Kalapatti,0.05,29.9
+2023-05-17,Kovaipudur,0.05,30.9
+2023-05-17,Selvapuram,0.18,14.4
+2023-05-17,Kurichi,0.05,16.8
+2023-05-17,Vadavalli,0.05,15.1
+2023-05-24,Gandhipuram,0.05,28.7
+2023-05-24,RS Puram,0.36,18.3
+2023-05-24,Saibaba Colony,0.05,14.9
+2023-05-24,Peelamedu,0.05,22.3
+2023-05-24,Singanallur,0.05,13.5
+2023-05-24,Saravanampatti,0.05,19.2
+2023-05-24,Race Course,0.05,25.4
+2023-05-24,Ukkadam,0.16,16.7
+2023-05-24,Town Hall,0.05,31.4
+2023-05-24,Kuniyamuthur,0.1,11.7
+2023-05-24,Sundarapuram,0.05,18.1
+2023-05-24,Podanur,0.27,19.4
+2023-05-24,Thudiyalur,0.4,22.5
+2023-05-24,Vadakovai,0.05,12.0
+2023-05-24,Ganapathy,0.05,24.0
+2023-05-24,Kalapatti,0.05,21.7
+2023-05-24,Kovaipudur,0.36,17.1
+2023-05-24,Selvapuram,0.13,28.3
+2023-05-24,Kurichi,0.28,13.5
+2023-05-24,Vadavalli,0.05,17.4
+2023-05-31,Gandhipuram,0.21,15.1
+2023-05-31,RS Puram,0.3,13.3
+2023-05-31,Saibaba Colony,0.13,15.2
+2023-05-31,Peelamedu,0.35,11.3
+2023-05-31,Singanallur,0.12,15.6
+2023-05-31,Saravanampatti,0.05,20.3
+2023-05-31,Race Course,0.05,14.3
+2023-05-31,Ukkadam,0.54,17.7
+2023-05-31,Town Hall,0.14,17.5
+2023-05-31,Kuniyamuthur,0.21,8.1
+2023-05-31,Sundarapuram,0.05,22.1
+2023-05-31,Podanur,0.38,19.6
+2023-05-31,Thudiyalur,0.45,14.1
+2023-05-31,Vadakovai,0.05,16.9
+2023-05-31,Ganapathy,0.08,23.6
+2023-05-31,Kalapatti,0.05,18.9
+2023-05-31,Kovaipudur,0.05,24.7
+2023-05-31,Selvapuram,0.05,25.8
+2023-05-31,Kurichi,0.05,26.7
+2023-05-31,Vadavalli,0.1,12.4
+2023-06-07,Gandhipuram,0.05,171.5
+2023-06-07,RS Puram,0.05,234.4
+2023-06-07,Saibaba Colony,0.05,151.3
+2023-06-07,Peelamedu,0.05,147.3
+2023-06-07,Singanallur,0.05,155.5
+2023-06-07,Saravanampatti,0.05,91.5
+2023-06-07,Race Course,0.05,162.8
+2023-06-07,Ukkadam,0.05,113.8
+2023-06-07,Town Hall,0.05,158.9
+2023-06-07,Kuniyamuthur,0.05,171.5
+2023-06-07,Sundarapuram,0.05,131.2
+2023-06-07,Podanur,0.05,160.8
+2023-06-07,Thudiyalur,0.05,95.8
+2023-06-07,Vadakovai,0.05,172.0
+2023-06-07,Ganapathy,0.05,190.5
+2023-06-07,Kalapatti,0.05,140.5
+2023-06-07,Kovaipudur,0.05,178.8
+2023-06-07,Selvapuram,0.05,158.2
+2023-06-07,Kurichi,0.05,146.3
+2023-06-07,Vadavalli,0.05,239.8
+2023-06-14,Gandhipuram,0.05,162.5
+2023-06-14,RS Puram,0.05,281.1
+2023-06-14,Saibaba Colony,0.05,155.7
+2023-06-14,Peelamedu,0.05,158.8
+2023-06-14,Singanallur,0.05,149.4
+2023-06-14,Saravanampatti,0.05,143.7
+2023-06-14,Race Course,0.05,261.1
+2023-06-14,Ukkadam,0.05,194.5
+2023-06-14,Town Hall,0.05,213.5
+2023-06-14,Kuniyamuthur,0.05,167.3
+2023-06-14,Sundarapuram,0.05,177.7
+2023-06-14,Podanur,0.05,166.9
+2023-06-14,Thudiyalur,0.05,191.0
+2023-06-14,Vadakovai,0.05,139.9
+2023-06-14,Ganapathy,0.05,131.5
+2023-06-14,Kalapatti,0.05,214.3
+2023-06-14,Kovaipudur,0.05,147.5
+2023-06-14,Selvapuram,0.05,207.5
+2023-06-14,Kurichi,0.05,175.9
+2023-06-14,Vadavalli,0.05,148.9
+2023-06-21,Gandhipuram,0.05,156.4
+2023-06-21,RS Puram,0.05,202.9
+2023-06-21,Saibaba Colony,0.05,189.5
+2023-06-21,Peelamedu,0.05,140.7
+2023-06-21,Singanallur,0.05,140.6
+2023-06-21,Saravanampatti,0.05,143.3
+2023-06-21,Race Course,0.05,177.8
+2023-06-21,Ukkadam,0.05,207.7
+2023-06-21,Town Hall,0.05,164.7
+2023-06-21,Kuniyamuthur,0.05,173.9
+2023-06-21,Sundarapuram,0.05,150.2
+2023-06-21,Podanur,0.05,181.6
+2023-06-21,Thudiyalur,0.05,153.7
+2023-06-21,Vadakovai,0.05,176.4
+2023-06-21,Ganapathy,0.05,157.9
+2023-06-21,Kalapatti,0.05,128.9
+2023-06-21,Kovaipudur,0.05,169.2
+2023-06-21,Selvapuram,0.05,194.9
+2023-06-21,Kurichi,0.05,181.1
+2023-06-21,Vadavalli,0.05,157.8
+2023-06-28,Gandhipuram,0.05,140.1
+2023-06-28,RS Puram,0.05,211.6
+2023-06-28,Saibaba Colony,0.05,234.3
+2023-06-28,Peelamedu,0.05,163.9
+2023-06-28,Singanallur,0.05,186.3
+2023-06-28,Saravanampatti,0.05,231.5
+2023-06-28,Race Course,0.05,130.8
+2023-06-28,Ukkadam,0.05,175.9
+2023-06-28,Town Hall,0.05,225.4
+2023-06-28,Kuniyamuthur,0.05,168.3
+2023-06-28,Sundarapuram,0.05,147.9
+2023-06-28,Podanur,0.05,177.2
+2023-06-28,Thudiyalur,0.05,202.5
+2023-06-28,Vadakovai,0.05,158.8
+2023-06-28,Ganapathy,0.05,142.4
+2023-06-28,Kalapatti,0.05,140.4
+2023-06-28,Kovaipudur,0.05,207.9
+2023-06-28,Selvapuram,0.05,110.9
+2023-06-28,Kurichi,0.05,189.4
+2023-06-28,Vadavalli,0.05,204.1
+2023-07-05,Gandhipuram,0.05,133.5
+2023-07-05,RS Puram,0.05,205.1
+2023-07-05,Saibaba Colony,0.05,281.7
+2023-07-05,Peelamedu,0.05,133.7
+2023-07-05,Singanallur,0.05,199.7
+2023-07-05,Saravanampatti,0.05,306.8
+2023-07-05,Race Course,0.05,173.1
+2023-07-05,Ukkadam,0.05,151.9
+2023-07-05,Town Hall,0.05,129.5
+2023-07-05,Kuniyamuthur,0.05,239.9
+2023-07-05,Sundarapuram,0.05,128.4
+2023-07-05,Podanur,0.05,172.4
+2023-07-05,Thudiyalur,0.05,162.4
+2023-07-05,Vadakovai,0.05,130.1
+2023-07-05,Ganapathy,0.05,160.8
+2023-07-05,Kalapatti,0.05,150.2
+2023-07-05,Kovaipudur,0.05,179.6
+2023-07-05,Selvapuram,0.05,152.3
+2023-07-05,Kurichi,0.05,108.0
+2023-07-05,Vadavalli,0.05,206.7
+2023-07-12,Gandhipuram,0.05,192.2
+2023-07-12,RS Puram,0.05,166.9
+2023-07-12,Saibaba Colony,0.05,200.0
+2023-07-12,Peelamedu,0.05,190.7
+2023-07-12,Singanallur,0.05,130.1
+2023-07-12,Saravanampatti,0.05,151.2
+2023-07-12,Race Course,0.05,191.2
+2023-07-12,Ukkadam,0.05,127.2
+2023-07-12,Town Hall,0.05,190.4
+2023-07-12,Kuniyamuthur,0.05,168.4
+2023-07-12,Sundarapuram,0.05,149.6
+2023-07-12,Podanur,0.05,129.8
+2023-07-12,Thudiyalur,0.05,208.3
+2023-07-12,Vadakovai,0.05,185.3
+2023-07-12,Ganapathy,0.05,183.5
+2023-07-12,Kalapatti,0.05,169.2
+2023-07-12,Kovaipudur,0.05,111.0
+2023-07-12,Selvapuram,0.05,175.3
+2023-07-12,Kurichi,0.05,150.5
+2023-07-12,Vadavalli,0.05,203.3
+2023-07-19,Gandhipuram,0.05,175.6
+2023-07-19,RS Puram,0.05,181.5
+2023-07-19,Saibaba Colony,0.05,153.3
+2023-07-19,Peelamedu,0.05,176.5
+2023-07-19,Singanallur,0.05,150.4
+2023-07-19,Saravanampatti,0.05,97.6
+2023-07-19,Race Course,0.05,243.5
+2023-07-19,Ukkadam,0.05,168.8
+2023-07-19,Town Hall,0.05,154.4
+2023-07-19,Kuniyamuthur,0.05,230.7
+2023-07-19,Sundarapuram,0.05,206.4
+2023-07-19,Podanur,0.05,127.5
+2023-07-19,Thudiyalur,0.05,208.6
+2023-07-19,Vadakovai,0.05,183.2
+2023-07-19,Ganapathy,0.05,223.5
+2023-07-19,Kalapatti,0.05,185.5
+2023-07-19,Kovaipudur,0.05,129.5
+2023-07-19,Selvapuram,0.05,173.1
+2023-07-19,Kurichi,0.05,174.9
+2023-07-19,Vadavalli,0.05,215.3
+2023-07-26,Gandhipuram,0.05,115.4
+2023-07-26,RS Puram,0.05,174.7
+2023-07-26,Saibaba Colony,0.05,162.9
+2023-07-26,Peelamedu,0.05,135.3
+2023-07-26,Singanallur,0.05,227.9
+2023-07-26,Saravanampatti,0.05,177.3
+2023-07-26,Race Course,0.05,153.5
+2023-07-26,Ukkadam,0.05,189.6
+2023-07-26,Town Hall,0.05,183.4
+2023-07-26,Kuniyamuthur,0.05,209.0
+2023-07-26,Sundarapuram,0.05,161.5
+2023-07-26,Podanur,0.05,239.2
+2023-07-26,Thudiyalur,0.05,233.2
+2023-07-26,Vadakovai,0.05,256.4
+2023-07-26,Ganapathy,0.05,201.8
+2023-07-26,Kalapatti,0.05,172.9
+2023-07-26,Kovaipudur,0.05,167.9
+2023-07-26,Selvapuram,0.05,283.1
+2023-07-26,Kurichi,0.05,215.0
+2023-07-26,Vadavalli,0.05,201.3
+2023-08-02,Gandhipuram,0.05,130.3
+2023-08-02,RS Puram,0.05,129.0
+2023-08-02,Saibaba Colony,0.05,226.2
+2023-08-02,Peelamedu,0.05,153.4
+2023-08-02,Singanallur,0.05,158.5
+2023-08-02,Saravanampatti,0.05,197.5
+2023-08-02,Race Course,0.05,184.6
+2023-08-02,Ukkadam,0.05,145.2
+2023-08-02,Town Hall,0.05,169.4
+2023-08-02,Kuniyamuthur,0.05,158.6
+2023-08-02,Sundarapuram,0.05,218.6
+2023-08-02,Podanur,0.05,183.4
+2023-08-02,Thudiyalur,0.05,160.5
+2023-08-02,Vadakovai,0.05,161.2
+2023-08-02,Ganapathy,0.05,211.1
+2023-08-02,Kalapatti,0.05,198.5
+2023-08-02,Kovaipudur,0.05,145.7
+2023-08-02,Selvapuram,0.05,238.0
+2023-08-02,Kurichi,0.05,133.8
+2023-08-02,Vadavalli,0.05,177.9
+2023-08-09,Gandhipuram,0.05,190.4
+2023-08-09,RS Puram,0.05,153.0
+2023-08-09,Saibaba Colony,0.05,142.1
+2023-08-09,Peelamedu,0.05,223.4
+2023-08-09,Singanallur,0.05,202.7
+2023-08-09,Saravanampatti,0.05,139.5
+2023-08-09,Race Course,0.05,187.8
+2023-08-09,Ukkadam,0.05,179.2
+2023-08-09,Town Hall,0.05,199.4
+2023-08-09,Kuniyamuthur,0.05,199.8
+2023-08-09,Sundarapuram,0.05,226.4
+2023-08-09,Podanur,0.05,196.3
+2023-08-09,Thudiyalur,0.05,199.8
+2023-08-09,Vadakovai,0.05,176.8
+2023-08-09,Ganapathy,0.05,235.8
+2023-08-09,Kalapatti,0.05,144.6
+2023-08-09,Kovaipudur,0.05,155.6
+2023-08-09,Selvapuram,0.05,148.6
+2023-08-09,Kurichi,0.05,168.6
+2023-08-09,Vadavalli,0.05,166.7
+2023-08-16,Gandhipuram,0.05,185.6
+2023-08-16,RS Puram,0.05,186.9
+2023-08-16,Saibaba Colony,0.05,131.4
+2023-08-16,Peelamedu,0.05,188.5
+2023-08-16,Singanallur,0.05,140.8
+2023-08-16,Saravanampatti,0.05,156.6
+2023-08-16,Race Course,0.05,192.7
+2023-08-16,Ukkadam,0.05,158.7
+2023-08-16,Town Hall,0.05,186.9
+2023-08-16,Kuniyamuthur,0.05,244.2
+2023-08-16,Sundarapuram,0.05,119.9
+2023-08-16,Podanur,0.05,237.6
+2023-08-16,Thudiyalur,0.05,191.1
+2023-08-16,Vadakovai,0.05,252.9
+2023-08-16,Ganapathy,0.05,138.6
+2023-08-16,Kalapatti,0.05,170.3
+2023-08-16,Kovaipudur,0.05,155.7
+2023-08-16,Selvapuram,0.05,208.3
+2023-08-16,Kurichi,0.05,177.7
+2023-08-16,Vadavalli,0.05,270.7
+2023-08-23,Gandhipuram,0.05,190.3
+2023-08-23,RS Puram,0.05,173.6
+2023-08-23,Saibaba Colony,0.05,175.9
+2023-08-23,Peelamedu,0.05,161.5
+2023-08-23,Singanallur,0.05,205.0
+2023-08-23,Saravanampatti,0.05,166.9
+2023-08-23,Race Course,0.05,152.2
+2023-08-23,Ukkadam,0.05,196.9
+2023-08-23,Town Hall,0.05,266.2
+2023-08-23,Kuniyamuthur,0.05,173.7
+2023-08-23,Sundarapuram,0.05,80.5
+2023-08-23,Podanur,0.05,188.3
+2023-08-23,Thudiyalur,0.05,203.4
+2023-08-23,Vadakovai,0.05,148.7
+2023-08-23,Ganapathy,0.05,105.1
+2023-08-23,Kalapatti,0.05,151.1
+2023-08-23,Kovaipudur,0.05,265.1
+2023-08-23,Selvapuram,0.05,168.0
+2023-08-23,Kurichi,0.05,171.4
+2023-08-23,Vadavalli,0.05,192.8
+2023-08-30,Gandhipuram,0.05,206.8
+2023-08-30,RS Puram,0.05,183.9
+2023-08-30,Saibaba Colony,0.05,189.1
+2023-08-30,Peelamedu,0.05,165.7
+2023-08-30,Singanallur,0.05,172.0
+2023-08-30,Saravanampatti,0.05,184.2
+2023-08-30,Race Course,0.05,198.2
+2023-08-30,Ukkadam,0.05,164.0
+2023-08-30,Town Hall,0.05,201.4
+2023-08-30,Kuniyamuthur,0.05,122.1
+2023-08-30,Sundarapuram,0.05,141.1
+2023-08-30,Podanur,0.05,163.9
+2023-08-30,Thudiyalur,0.05,186.0
+2023-08-30,Vadakovai,0.05,188.9
+2023-08-30,Ganapathy,0.05,198.4
+2023-08-30,Kalapatti,0.05,244.0
+2023-08-30,Kovaipudur,0.05,133.3
+2023-08-30,Selvapuram,0.05,167.5
+2023-08-30,Kurichi,0.05,217.6
+2023-08-30,Vadavalli,0.05,149.5
+2023-09-06,Gandhipuram,0.05,194.3
+2023-09-06,RS Puram,0.05,198.6
+2023-09-06,Saibaba Colony,0.05,169.2
+2023-09-06,Peelamedu,0.05,153.0
+2023-09-06,Singanallur,0.05,122.0
+2023-09-06,Saravanampatti,0.05,176.8
+2023-09-06,Race Course,0.05,172.5
+2023-09-06,Ukkadam,0.05,132.3
+2023-09-06,Town Hall,0.05,158.3
+2023-09-06,Kuniyamuthur,0.05,143.4
+2023-09-06,Sundarapuram,0.05,178.3
+2023-09-06,Podanur,0.05,193.2
+2023-09-06,Thudiyalur,0.05,125.0
+2023-09-06,Vadakovai,0.05,181.9
+2023-09-06,Ganapathy,0.05,201.1
+2023-09-06,Kalapatti,0.05,135.8
+2023-09-06,Kovaipudur,0.05,134.2
+2023-09-06,Selvapuram,0.05,172.7
+2023-09-06,Kurichi,0.05,177.8
+2023-09-06,Vadavalli,0.05,247.4
+2023-09-13,Gandhipuram,0.05,164.6
+2023-09-13,RS Puram,0.05,128.8
+2023-09-13,Saibaba Colony,0.05,160.4
+2023-09-13,Peelamedu,0.05,186.7
+2023-09-13,Singanallur,0.05,207.4
+2023-09-13,Saravanampatti,0.05,218.9
+2023-09-13,Race Course,0.05,196.9
+2023-09-13,Ukkadam,0.05,162.9
+2023-09-13,Town Hall,0.05,168.8
+2023-09-13,Kuniyamuthur,0.05,151.6
+2023-09-13,Sundarapuram,0.05,138.9
+2023-09-13,Podanur,0.05,167.6
+2023-09-13,Thudiyalur,0.05,136.1
+2023-09-13,Vadakovai,0.05,162.4
+2023-09-13,Ganapathy,0.05,170.3
+2023-09-13,Kalapatti,0.05,175.3
+2023-09-13,Kovaipudur,0.05,187.9
+2023-09-13,Selvapuram,0.05,153.9
+2023-09-13,Kurichi,0.05,154.3
+2023-09-13,Vadavalli,0.05,129.9
+2023-09-20,Gandhipuram,0.05,215.4
+2023-09-20,RS Puram,0.05,159.0
+2023-09-20,Saibaba Colony,0.05,163.2
+2023-09-20,Peelamedu,0.05,252.9
+2023-09-20,Singanallur,0.05,127.2
+2023-09-20,Saravanampatti,0.05,162.7
+2023-09-20,Race Course,0.05,124.5
+2023-09-20,Ukkadam,0.05,142.9
+2023-09-20,Town Hall,0.05,160.6
+2023-09-20,Kuniyamuthur,0.05,213.0
+2023-09-20,Sundarapuram,0.05,212.0
+2023-09-20,Podanur,0.05,219.5
+2023-09-20,Thudiyalur,0.05,140.0
+2023-09-20,Vadakovai,0.05,272.6
+2023-09-20,Ganapathy,0.05,162.9
+2023-09-20,Kalapatti,0.05,169.9
+2023-09-20,Kovaipudur,0.05,232.0
+2023-09-20,Selvapuram,0.05,215.7
+2023-09-20,Kurichi,0.05,160.0
+2023-09-20,Vadavalli,0.05,148.7
+2023-09-27,Gandhipuram,0.05,228.2
+2023-09-27,RS Puram,0.05,177.0
+2023-09-27,Saibaba Colony,0.05,123.3
+2023-09-27,Peelamedu,0.05,181.7
+2023-09-27,Singanallur,0.05,168.3
+2023-09-27,Saravanampatti,0.05,176.4
+2023-09-27,Race Course,0.05,124.0
+2023-09-27,Ukkadam,0.05,150.1
+2023-09-27,Town Hall,0.05,169.4
+2023-09-27,Kuniyamuthur,0.05,186.8
+2023-09-27,Sundarapuram,0.05,180.9
+2023-09-27,Podanur,0.05,222.7
+2023-09-27,Thudiyalur,0.05,144.5
+2023-09-27,Vadakovai,0.05,139.6
+2023-09-27,Ganapathy,0.05,157.3
+2023-09-27,Kalapatti,0.05,171.4
+2023-09-27,Kovaipudur,0.05,146.2
+2023-09-27,Selvapuram,0.05,178.5
+2023-09-27,Kurichi,0.05,120.1
+2023-09-27,Vadavalli,0.05,143.1
+2023-10-04,Gandhipuram,0.05,130.3
+2023-10-04,RS Puram,0.05,136.5
+2023-10-04,Saibaba Colony,0.05,105.3
+2023-10-04,Peelamedu,0.05,167.2
+2023-10-04,Singanallur,0.05,137.9
+2023-10-04,Saravanampatti,0.05,121.5
+2023-10-04,Race Course,0.05,114.9
+2023-10-04,Ukkadam,0.05,87.7
+2023-10-04,Town Hall,0.05,104.1
+2023-10-04,Kuniyamuthur,0.05,81.4
+2023-10-04,Sundarapuram,0.05,150.5
+2023-10-04,Podanur,0.05,135.9
+2023-10-04,Thudiyalur,0.05,104.0
+2023-10-04,Vadakovai,0.05,128.1
+2023-10-04,Ganapathy,0.05,87.2
+2023-10-04,Kalapatti,0.05,106.5
+2023-10-04,Kovaipudur,0.05,91.5
+2023-10-04,Selvapuram,0.05,106.0
+2023-10-04,Kurichi,0.05,174.2
+2023-10-04,Vadavalli,0.05,67.4
+2023-10-11,Gandhipuram,0.05,87.3
+2023-10-11,RS Puram,0.05,99.9
+2023-10-11,Saibaba Colony,0.05,82.1
+2023-10-11,Peelamedu,0.05,58.2
+2023-10-11,Singanallur,0.05,62.3
+2023-10-11,Saravanampatti,0.05,113.3
+2023-10-11,Race Course,0.05,110.0
+2023-10-11,Ukkadam,0.05,75.3
+2023-10-11,Town Hall,0.05,91.0
+2023-10-11,Kuniyamuthur,0.05,108.2
+2023-10-11,Sundarapuram,0.05,112.7
+2023-10-11,Podanur,0.05,100.9
+2023-10-11,Thudiyalur,0.05,76.6
+2023-10-11,Vadakovai,0.05,79.6
+2023-10-11,Ganapathy,0.05,88.6
+2023-10-11,Kalapatti,0.05,84.1
+2023-10-11,Kovaipudur,0.05,57.3
+2023-10-11,Selvapuram,0.05,89.1
+2023-10-11,Kurichi,0.05,65.3
+2023-10-11,Vadavalli,0.05,62.1
+2023-10-18,Gandhipuram,0.05,86.8
+2023-10-18,RS Puram,0.05,100.4
+2023-10-18,Saibaba Colony,0.05,110.0
+2023-10-18,Peelamedu,0.05,87.7
+2023-10-18,Singanallur,0.05,87.5
+2023-10-18,Saravanampatti,0.05,76.3
+2023-10-18,Race Course,0.05,77.0
+2023-10-18,Ukkadam,0.05,73.0
+2023-10-18,Town Hall,0.05,58.0
+2023-10-18,Kuniyamuthur,0.05,118.9
+2023-10-18,Sundarapuram,0.05,114.1
+2023-10-18,Podanur,0.05,91.1
+2023-10-18,Thudiyalur,0.05,87.1
+2023-10-18,Vadakovai,0.05,68.7
+2023-10-18,Ganapathy,0.05,62.8
+2023-10-18,Kalapatti,0.05,92.2
+2023-10-18,Kovaipudur,0.05,82.4
+2023-10-18,Selvapuram,0.05,64.6
+2023-10-18,Kurichi,0.05,55.5
+2023-10-18,Vadavalli,0.05,76.0
+2023-10-25,Gandhipuram,0.05,92.0
+2023-10-25,RS Puram,0.05,70.3
+2023-10-25,Saibaba Colony,0.05,72.2
+2023-10-25,Peelamedu,0.05,91.3
+2023-10-25,Singanallur,0.05,88.5
+2023-10-25,Saravanampatti,0.05,74.3
+2023-10-25,Race Course,0.05,66.9
+2023-10-25,Ukkadam,0.05,88.2
+2023-10-25,Town Hall,0.05,75.2
+2023-10-25,Kuniyamuthur,0.05,115.0
+2023-10-25,Sundarapuram,0.05,78.1
+2023-10-25,Podanur,0.05,51.0
+2023-10-25,Thudiyalur,0.05,58.2
+2023-10-25,Vadakovai,0.05,87.4
+2023-10-25,Ganapathy,0.05,95.3
+2023-10-25,Kalapatti,0.05,60.1
+2023-10-25,Kovaipudur,0.05,148.6
+2023-10-25,Selvapuram,0.05,61.9
+2023-10-25,Kurichi,0.05,86.4
+2023-10-25,Vadavalli,0.05,84.6
+2023-11-01,Gandhipuram,0.05,76.0
+2023-11-01,RS Puram,0.05,61.6
+2023-11-01,Saibaba Colony,0.05,67.0
+2023-11-01,Peelamedu,0.05,76.4
+2023-11-01,Singanallur,0.05,97.0
+2023-11-01,Saravanampatti,0.05,75.4
+2023-11-01,Race Course,0.05,92.6
+2023-11-01,Ukkadam,0.05,62.2
+2023-11-01,Town Hall,0.05,64.6
+2023-11-01,Kuniyamuthur,0.05,88.6
+2023-11-01,Sundarapuram,0.05,70.5
+2023-11-01,Podanur,0.05,72.0
+2023-11-01,Thudiyalur,0.05,82.2
+2023-11-01,Vadakovai,0.05,109.7
+2023-11-01,Ganapathy,0.05,77.6
+2023-11-01,Kalapatti,0.05,52.8
+2023-11-01,Kovaipudur,0.05,59.5
+2023-11-01,Selvapuram,0.05,64.8
+2023-11-01,Kurichi,0.05,51.5
+2023-11-01,Vadavalli,0.05,95.9
+2023-11-08,Gandhipuram,0.05,128.4
+2023-11-08,RS Puram,0.05,59.7
+2023-11-08,Saibaba Colony,0.05,98.6
+2023-11-08,Peelamedu,0.05,82.7
+2023-11-08,Singanallur,0.05,63.2
+2023-11-08,Saravanampatti,0.05,68.5
+2023-11-08,Race Course,0.05,98.1
+2023-11-08,Ukkadam,0.05,95.7
+2023-11-08,Town Hall,0.05,87.3
+2023-11-08,Kuniyamuthur,0.05,56.6
+2023-11-08,Sundarapuram,0.05,116.4
+2023-11-08,Podanur,0.05,49.6
+2023-11-08,Thudiyalur,0.05,109.0
+2023-11-08,Vadakovai,0.05,75.3
+2023-11-08,Ganapathy,0.05,108.1
+2023-11-08,Kalapatti,0.05,58.8
+2023-11-08,Kovaipudur,0.05,75.0
+2023-11-08,Selvapuram,0.05,45.8
+2023-11-08,Kurichi,0.05,79.6
+2023-11-08,Vadavalli,0.05,78.4
+2023-11-15,Gandhipuram,0.05,93.5
+2023-11-15,RS Puram,0.05,91.3
+2023-11-15,Saibaba Colony,0.05,71.4
+2023-11-15,Peelamedu,0.05,71.0
+2023-11-15,Singanallur,0.05,57.6
+2023-11-15,Saravanampatti,0.05,71.1
+2023-11-15,Race Course,0.05,79.6
+2023-11-15,Ukkadam,0.05,109.2
+2023-11-15,Town Hall,0.05,56.9
+2023-11-15,Kuniyamuthur,0.05,71.5
+2023-11-15,Sundarapuram,0.05,73.5
+2023-11-15,Podanur,0.05,57.4
+2023-11-15,Thudiyalur,0.05,80.9
+2023-11-15,Vadakovai,0.05,85.9
+2023-11-15,Ganapathy,0.05,83.1
+2023-11-15,Kalapatti,0.05,54.2
+2023-11-15,Kovaipudur,0.05,53.0
+2023-11-15,Selvapuram,0.05,91.6
+2023-11-15,Kurichi,0.05,118.3
+2023-11-15,Vadavalli,0.05,66.9
+2023-11-22,Gandhipuram,0.05,58.3
+2023-11-22,RS Puram,0.05,77.8
+2023-11-22,Saibaba Colony,0.05,63.0
+2023-11-22,Peelamedu,0.05,56.6
+2023-11-22,Singanallur,0.05,93.1
+2023-11-22,Saravanampatti,0.05,50.3
+2023-11-22,Race Course,0.05,85.0
+2023-11-22,Ukkadam,0.05,97.2
+2023-11-22,Town Hall,0.05,74.4
+2023-11-22,Kuniyamuthur,0.05,51.1
+2023-11-22,Sundarapuram,0.05,127.2
+2023-11-22,Podanur,0.05,105.7
+2023-11-22,Thudiyalur,0.05,99.8
+2023-11-22,Vadakovai,0.05,88.8
+2023-11-22,Ganapathy,0.05,53.4
+2023-11-22,Kalapatti,0.05,63.3
+2023-11-22,Kovaipudur,0.05,73.3
+2023-11-22,Selvapuram,0.05,86.3
+2023-11-22,Kurichi,0.05,74.5
+2023-11-22,Vadavalli,0.05,87.5
+2023-11-29,Gandhipuram,0.05,85.6
+2023-11-29,RS Puram,0.05,81.6
+2023-11-29,Saibaba Colony,0.05,56.7
+2023-11-29,Peelamedu,0.05,73.6
+2023-11-29,Singanallur,0.05,63.4
+2023-11-29,Saravanampatti,0.05,52.0
+2023-11-29,Race Course,0.05,95.9
+2023-11-29,Ukkadam,0.05,74.6
+2023-11-29,Town Hall,0.05,99.2
+2023-11-29,Kuniyamuthur,0.05,70.4
+2023-11-29,Sundarapuram,0.05,79.7
+2023-11-29,Podanur,0.05,81.2
+2023-11-29,Thudiyalur,0.05,69.4
+2023-11-29,Vadakovai,0.05,68.8
+2023-11-29,Ganapathy,0.05,67.1
+2023-11-29,Kalapatti,0.05,102.7
+2023-11-29,Kovaipudur,0.05,81.8
+2023-11-29,Selvapuram,0.05,54.8
+2023-11-29,Kurichi,0.05,77.3
+2023-11-29,Vadavalli,0.05,72.4
+2023-12-06,Gandhipuram,0.05,27.2
+2023-12-06,RS Puram,0.05,45.3
+2023-12-06,Saibaba Colony,0.05,52.5
+2023-12-06,Peelamedu,0.13,20.7
+2023-12-06,Singanallur,0.05,43.4
+2023-12-06,Saravanampatti,0.05,36.2
+2023-12-06,Race Course,0.05,37.4
+2023-12-06,Ukkadam,0.05,53.3
+2023-12-06,Town Hall,0.05,27.1
+2023-12-06,Kuniyamuthur,0.05,39.0
+2023-12-06,Sundarapuram,0.05,44.0
+2023-12-06,Podanur,0.52,20.7
+2023-12-06,Thudiyalur,0.05,39.6
+2023-12-06,Vadakovai,0.05,26.1
+2023-12-06,Ganapathy,0.05,38.8
+2023-12-06,Kalapatti,0.05,28.8
+2023-12-06,Kovaipudur,0.05,26.9
+2023-12-06,Selvapuram,0.05,18.8
+2023-12-06,Kurichi,0.05,46.8
+2023-12-06,Vadavalli,0.05,31.7
+2023-12-13,Gandhipuram,0.22,12.9
+2023-12-13,RS Puram,0.25,19.5
+2023-12-13,Saibaba Colony,0.05,24.3
+2023-12-13,Peelamedu,0.52,12.8
+2023-12-13,Singanallur,0.05,17.7
+2023-12-13,Saravanampatti,0.05,27.8
+2023-12-13,Race Course,0.05,16.2
+2023-12-13,Ukkadam,0.28,17.5
+2023-12-13,Town Hall,0.05,25.1
+2023-12-13,Kuniyamuthur,0.05,19.3
+2023-12-13,Sundarapuram,0.05,29.5
+2023-12-13,Podanur,0.7,15.8
+2023-12-13,Thudiyalur,0.19,28.5
+2023-12-13,Vadakovai,0.09,11.3
+2023-12-13,Ganapathy,0.05,20.2
+2023-12-13,Kalapatti,0.05,18.4
+2023-12-13,Kovaipudur,0.26,17.8
+2023-12-13,Selvapuram,0.05,18.9
+2023-12-13,Kurichi,0.23,11.2
+2023-12-13,Vadavalli,0.05,21.3
+2023-12-20,Gandhipuram,0.1,26.4
+2023-12-20,RS Puram,0.44,21.2
+2023-12-20,Saibaba Colony,0.05,20.3
+2023-12-20,Peelamedu,0.1,18.8
+2023-12-20,Singanallur,0.05,20.0
+2023-12-20,Saravanampatti,0.05,17.7
+2023-12-20,Race Course,0.05,17.5
+2023-12-20,Ukkadam,0.46,9.5
+2023-12-20,Town Hall,0.05,18.8
+2023-12-20,Kuniyamuthur,0.05,23.7
+2023-12-20,Sundarapuram,0.05,12.9
+2023-12-20,Podanur,0.42,26.5
+2023-12-20,Thudiyalur,0.47,19.7
+2023-12-20,Vadakovai,0.05,20.6
+2023-12-20,Ganapathy,0.05,12.2
+2023-12-20,Kalapatti,0.05,15.7
+2023-12-20,Kovaipudur,0.05,16.2
+2023-12-20,Selvapuram,0.21,16.5
+2023-12-20,Kurichi,0.05,16.5
+2023-12-20,Vadavalli,0.05,21.1
+2023-12-27,Gandhipuram,0.05,17.2
+2023-12-27,RS Puram,0.52,14.1
+2023-12-27,Saibaba Colony,0.42,13.1
+2023-12-27,Peelamedu,0.09,14.8
+2023-12-27,Singanallur,0.05,15.2
+2023-12-27,Saravanampatti,0.05,30.9
+2023-12-27,Race Course,0.05,9.1
+2023-12-27,Ukkadam,0.12,20.0
+2023-12-27,Town Hall,0.27,14.3
+2023-12-27,Kuniyamuthur,0.07,13.9
+2023-12-27,Sundarapuram,0.05,20.0
+2023-12-27,Podanur,0.44,17.2
+2023-12-27,Thudiyalur,0.48,16.4
+2023-12-27,Vadakovai,0.05,21.8
+2023-12-27,Ganapathy,0.05,14.8
+2023-12-27,Kalapatti,0.05,22.3
+2023-12-27,Kovaipudur,0.11,10.9
+2023-12-27,Selvapuram,0.18,19.8
+2023-12-27,Kurichi,0.18,16.3
+2023-12-27,Vadavalli,0.05,8.7
